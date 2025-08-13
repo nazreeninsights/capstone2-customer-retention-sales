@@ -1,0 +1,1501 @@
+TransactionID,CustomerID,Name,Gender,Age,Region,ProductID,ProductName,Category,Quantity,Channel,Sales,TransactionDate
+d0cf2698-ccc8-4581-bd6b-fddea4fb5e58,CUST0002,Jerry Velasquez,Female,46,North,PROD039,Meeting,Sports,1,Email,75.78,11/07/2024
+61849370-5c71-441f-a1e3-f8b580c6b8d3,CUST0003,Ashley Lewis,Male,32,East,PROD031,Process,Home & Kitchen,5,Email,225.68,20/06/2024
+4c97f78e-c161-4644-a919-3ed029776fc8,CUST0008,Gregory Chen,Female,36,East,PROD022,Image,Groceries,3,Email,866.55,05/07/2024
+382cae16-3467-49da-9b2f-c9e33f2c894f,CUST0012,Kimberly Berger,Male,41,South,PROD079,Civil,Books,5,Email,49.59,09/07/2024
+f071f5f8-a923-4380-80fa-570749ff3c82,CUST0016,Gregory Hill,Female,20,West,PROD035,Nature,Clothing,2,Email,402.41,17/06/2024
+175caa3e-a4b0-4da1-9883-e53bf76a7033,CUST0016,Gregory Hill,Female,20,West,PROD052,Economy,Sports,1,Email,169.62,27/06/2024
+dadb7436-15c1-444e-8aaf-5e382f1c2e9f,CUST0023,James Nicholson,Female,19,South,PROD031,Process,Home & Kitchen,2,Email,100.3,02/07/2024
+064f2f6f-17e2-4490-b5e1-5b2353a92668,CUST0026,Dwayne Barry,Male,29,South,PROD082,Beautiful,Sports,4,Email,1606.03,06/07/2024
+78aaf6df-db90-4cc3-a02b-6934614b655d,CUST0026,Dwayne Barry,Male,29,South,PROD034,Everything,Clothing,4,Email,1108.08,03/07/2024
+c19aa007-3882-445f-87f6-ffb4eff26828,CUST0028,Omar Jones,Male,61,South,PROD080,Whom,Electronics,1,Email,436.58,23/06/2024
+c201a332-1b68-4707-b747-1a846cacb19d,CUST0029,Thomas Sharp,Male,42,North,PROD078,Number,Books,3,Email,1445.4,10/07/2024
+ed1325e7-471e-4d92-8f96-0a6b62bb47cd,CUST0032,Misty Shelton,Female,59,West,PROD096,Bed,Home & Kitchen,5,Email,720.4,05/07/2024
+95636183-e50e-4038-a08d-4f33fa80c261,CUST0033,Jacob Nguyen,Female,45,South,PROD070,Hard,Books,5,Email,1468.62,02/07/2024
+5368e36d-f4dc-4c1c-8c44-1a7f1eb7a6b0,CUST0037,Kyle Pugh,Male,68,East,PROD002,Western,Clothing,5,Email,1946.6,10/07/2024
+a135dcb4-7240-4ad7-b8b7-fe9eb4dc97e0,CUST0039,Samuel Kelly,Male,69,South,PROD065,Use,Electronics,1,Email,10.09,27/06/2024
+4896e9be-7fa8-4455-a20d-663228605ad6,CUST0040,Ricardo Robertson,Female,20,North,PROD026,Figure,Sports,2,Email,285.07,09/07/2024
+08817a0d-6ada-4a05-8fa8-c6c7a465d24d,CUST0041,Tammy Garrison,Female,54,South,PROD087,Four,Home & Kitchen,5,Email,2302.8,16/06/2024
+40730219-3779-4d72-8ab4-b8744bfc508d,CUST0043,Ian Perez,Male,24,East,PROD074,Nature,Groceries,1,Email,181.03,29/06/2024
+1c2ab86c-7430-415a-8934-89a82b77b563,CUST0044,Tiffany Howell,Male,38,East,PROD093,Movie,Books,4,Email,1118.11,09/07/2024
+d364a116-f26f-4a03-be1b-ab6040ea9143,CUST0049,Elizabeth Wright,Male,42,East,PROD097,Fire,Clothing,2,Email,950.9,27/06/2024
+d1a447a8-5587-45bf-bfc4-ec445a704a47,CUST0049,Elizabeth Wright,Male,42,East,PROD022,Image,Groceries,4,Email,1155.4,20/06/2024
+6595fbf3-84a2-415e-87f5-3c652c1d3b7b,CUST0052,Stephen Johnson,Female,26,East,PROD013,On,Groceries,3,Email,441.23,08/07/2024
+6a366e27-3092-4035-a507-30395df9ccc7,CUST0054,Matthew Hernandez,Male,19,East,PROD056,Early,Electronics,3,Email,1133.76,01/07/2024
+bb52d27a-05ae-436e-ba4a-b19f803d5a9a,CUST0058,Elizabeth Allen,Female,24,East,PROD049,Cut,Clothing,3,Email,126.87,24/06/2024
+2caba049-65fa-4c5d-9760-5a752795e2a5,CUST0058,Elizabeth Allen,Female,24,East,PROD090,Huge,Clothing,4,Email,1257.84,23/06/2024
+306375ec-3b81-410e-856a-a3f19257d8e7,CUST0060,Jennifer Sheppard,Male,25,West,PROD081,Wish,Home & Kitchen,3,Email,71.17,22/06/2024
+e5a7d924-8ad2-4946-b240-00e1805d6940,CUST0068,Sandra Walker,Male,21,South,PROD080,Whom,Electronics,5,Email,2425.45,18/06/2024
+04c80fb9-c9ef-4b72-bb60-989501e77763,CUST0072,Amy Olson,Female,21,East,PROD096,Bed,Home & Kitchen,2,Email,244.94,24/06/2024
+83132339-6810-417b-bc6e-a1a29b48042e,CUST0074,Jeffrey Kane,Male,35,North,PROD094,Left,Home & Kitchen,2,Email,766.82,02/07/2024
+df8a7454-4681-4773-ba18-b836bbb1243c,CUST0074,Jeffrey Kane,Male,35,North,PROD004,Many,Sports,5,Email,2095.74,19/06/2024
+c1fd7feb-8f33-4479-b97d-02dd04ed72a2,CUST0077,Alexis Romero,Male,51,West,PROD096,Bed,Home & Kitchen,1,Email,144.08,03/07/2024
+aa270c51-4f03-4376-9d28-4ba8b02d44aa,CUST0083,Sara Ortiz,Male,32,West,PROD091,Eat,Electronics,1,Email,230,07/07/2024
+495ec5e2-40d9-49ea-91b9-e29f516de18a,CUST0084,Alyssa Simmons,Male,25,West,PROD032,Sport,Sports,4,Email,899.06,16/06/2024
+464fa2ae-212a-4c26-9080-b6e24ee1a3fa,CUST0085,Aaron Black,Female,31,South,PROD027,Country,Clothing,2,Email,642.01,30/06/2024
+5bf5164d-d3a5-451c-a3be-592f35dbdd42,CUST0085,Aaron Black,Female,31,South,PROD008,All,Home & Kitchen,1,Email,340.65,05/07/2024
+1ee3feef-fee3-498b-86d8-1f9abc101b99,CUST0085,Aaron Black,Female,31,South,PROD014,Including,Books,2,Email,896.56,06/07/2024
+ff4cb720-3c62-488d-bc08-aa49fbc5b49f,CUST0087,Rebecca Sweeney MD,Female,57,West,PROD010,Unit,Books,4,Email,1535.98,18/06/2024
+1d578c22-d41d-4a86-b1f7-220b2795aa35,CUST0088,Amanda Hoffman,Female,38,North,PROD077,Consumer,Electronics,2,Email,231.36,20/06/2024
+3fd82194-a3c6-42f5-a195-425d39489b45,CUST0092,Amy Rogers,Male,64,West,PROD067,Professor,Groceries,1,Email,29.58,07/07/2024
+f022e84d-4761-4206-9109-974bac2708f5,CUST0095,Sheri Ramos,Male,42,West,PROD063,Or,Books,5,Email,255.17,24/06/2024
+43fa94e1-6372-4a82-8321-f34cffb5ba2e,CUST0096,Ashley Fuller,Male,62,West,PROD013,On,Groceries,2,Email,310.5,16/06/2024
+e8fe256f-29fd-46c9-a324-148780bb8a7d,CUST0097,Kevin Washington,Female,58,South,PROD091,Eat,Electronics,3,Email,690,06/07/2024
+b8146308-5bc1-46d8-b948-9e9bce622b54,CUST0098,Robert Gross,Male,46,West,PROD031,Process,Home & Kitchen,3,Email,135.4,27/06/2024
+1fbc75cd-58ec-49e9-8436-6d6d6ceee528,CUST0109,Brianna Duarte,Female,41,North,PROD025,While,Electronics,5,Email,675.63,01/07/2024
+1e2f09fc-f19a-4a9f-95e6-d0d8cb6b4b61,CUST0110,Bill Jackson,Male,28,North,PROD032,Sport,Sports,4,Email,998.96,16/06/2024
+c0cd0d53-53cc-49b2-9c6f-766cdb0b5f77,CUST0111,Samantha Hernandez,Female,68,South,PROD017,Time,Groceries,5,Email,2265.8,29/06/2024
+e65b7b9c-4d69-4a89-bd3b-1494bc67de8b,CUST0113,Kelly Taylor,Female,25,North,PROD082,Beautiful,Sports,1,Email,379.2,11/07/2024
+48babb82-8d2a-4801-b6a0-c268f4df311f,CUST0114,Susan Mccarthy,Male,52,West,PROD066,Sea,Home & Kitchen,1,Email,201.44,02/07/2024
+35bc1bf9-c066-41b3-951b-93ac98cd2690,CUST0118,Steven Taylor,Male,59,West,PROD087,Four,Home & Kitchen,1,Email,436.32,05/07/2024
+2df76cf8-526f-402d-8254-97fe4acbc191,CUST0119,Robert Hampton,Female,56,West,PROD054,Voice,Clothing,1,Email,473.89,09/07/2024
+e86f16a5-0a82-4289-b99b-53db55ce5c6a,CUST0123,Samantha Miller,Female,26,North,PROD024,Share,Clothing,5,Email,1021.41,02/07/2024
+bcfd2c89-fab2-458d-880b-30ab15197130,CUST0124,Charlene Jackson,Male,25,West,PROD066,Sea,Home & Kitchen,2,Email,450.28,01/07/2024
+bfc32094-75b1-4b32-91c3-c638363081a3,CUST0125,Heather Newman,Male,29,South,PROD067,Professor,Groceries,4,Email,124.91,27/06/2024
+cd5012fe-1de7-4ff0-85f9-d77cf8783d8d,CUST0126,Antonio Woods,Female,51,South,PROD091,Eat,Electronics,1,Email,230,19/06/2024
+5e762211-2540-41ab-9e74-b51766962e40,CUST0128,Nicole Hernandez,Male,65,North,PROD025,While,Electronics,5,Email,638.09,02/07/2024
+2fa2d6cb-5902-495b-802e-5651aed6147a,CUST0128,Nicole Hernandez,Male,65,North,PROD048,We,Groceries,1,Email,45.27,03/07/2024
+ecb5ed16-7886-469e-bcd0-0060b9aa130b,CUST0129,Richard Anderson,Male,40,South,PROD092,Everything,Home & Kitchen,5,Email,1499.29,08/07/2024
+cc31a133-ec0c-4fec-9d87-4c7fba8b83f4,CUST0129,Richard Anderson,Male,40,South,PROD084,Act,Electronics,2,Email,844.08,03/07/2024
+e417b12d-252a-45fe-8f81-23e368de2b57,CUST0131,Christina Graham,Male,54,West,PROD001,Fire,Groceries,1,Email,179.69,01/07/2024
+a0890498-d1c4-46c7-a5b2-1e02305bf816,CUST0133,Timothy Moore,Female,61,West,PROD022,Image,Groceries,4,Email,1155.4,20/06/2024
+db24d219-41f1-4488-b3a6-cc22f3f63d75,CUST0142,Tamara Mills,Male,31,South,PROD031,Process,Home & Kitchen,1,Email,50.15,19/06/2024
+3565a057-4ba6-4da7-ba01-bed6c7ad1d37,CUST0144,Sarah Gonzalez,Female,18,West,PROD048,We,Groceries,4,Email,162.97,26/06/2024
+3587e975-bb94-4fd0-a822-56230ad181aa,CUST0148,Brittany Gonzalez,Male,56,North,PROD085,Black,Clothing,1,Email,37.38,11/07/2024
+5193c24a-0483-4e1a-bdd2-b641b1fb710e,CUST0149,Benjamin Smith,Male,44,East,PROD054,Voice,Clothing,1,Email,426.5,03/07/2024
+566b9977-66b3-49a1-af88-4acdafcc3ea0,CUST0151,Scott Zimmerman,Male,32,East,PROD012,Nature,Home & Kitchen,5,Email,2070.5,24/06/2024
+6acea206-d702-48c6-866f-20364aba6715,CUST0151,Scott Zimmerman,Male,32,East,PROD033,War,Clothing,4,Email,133.96,30/06/2024
+e64e062f-00ba-495d-8c0c-34d4f433df8f,CUST0152,Anthony Sharp,Female,32,East,PROD058,Act,Home & Kitchen,1,Email,46.33,20/06/2024
+5897e127-6bb9-4f50-8494-36b5d803ab2f,CUST0153,Elizabeth Castro,Male,43,East,PROD089,Drug,Electronics,4,Email,1266.2,05/07/2024
+09b3e954-fe63-4d60-b33b-7222525dfc26,CUST0154,Sandra Robinson,Male,59,North,PROD018,Story,Groceries,5,Email,238.4,03/07/2024
+3f93698c-663b-47be-88e5-ec803aa02d0b,CUST0154,Sandra Robinson,Male,59,North,PROD030,Of,Sports,5,Email,1781.37,28/06/2024
+95f4fdb5-9fd8-49bc-a322-b5d7c8dbc950,CUST0158,Robert Butler,Male,56,West,PROD085,Black,Clothing,2,Email,83.06,11/07/2024
+fa9898ae-19f8-45a6-b330-e4d8e9be110d,CUST0160,Destiny Herring,Male,69,South,PROD070,Hard,Books,1,Email,326.36,17/06/2024
+058faf38-9290-455f-9933-807cb7b64357,CUST0164,Tara Kirby,Male,54,East,PROD034,Everything,Clothing,4,Email,1108.08,07/07/2024
+baeaae18-a737-4e67-a3ff-b94cbf4c0206,CUST0166,Mitchell Kim,Female,56,West,PROD048,We,Groceries,3,Email,115.44,03/07/2024
+30a0d49c-665e-4af5-81d9-b33e766ae535,CUST0173,Angela Smith,Male,49,West,PROD066,Sea,Home & Kitchen,5,Email,1184.95,18/06/2024
+9eca162f-546d-43d7-8117-0031c4fa0e59,CUST0176,Wendy Carr,Female,39,East,PROD020,Send,Books,3,Email,1425.84,16/06/2024
+1f6379bd-8e33-44ce-848a-72c03e955ffd,CUST0176,Wendy Carr,Female,39,East,PROD062,Important,Sports,4,Email,1814.6,07/07/2024
+7eea1cc5-14e7-490e-8f32-976a772b83f4,CUST0177,Karen Trevino,Female,45,West,PROD035,Nature,Clothing,2,Email,424.76,21/06/2024
+a8bd4613-2947-4636-90a2-bcf620855c27,CUST0182,Ashley Cortez,Male,45,East,PROD099,Officer,Books,1,Email,207.5,21/06/2024
+7b23059b-a744-451a-97d9-7cf3874dfdd9,CUST0185,Jordan Burke,Female,61,North,PROD012,Nature,Home & Kitchen,3,Email,1118.07,22/06/2024
+5a819a2c-e997-4908-aae7-48f7f7e6a78b,CUST0187,Keith Davis,Male,47,East,PROD050,Save,Groceries,2,Email,888.1,18/06/2024
+3fcf1ec4-c605-40b0-8068-4c3f357c85ee,CUST0188,Stephanie Powell,Male,28,West,PROD042,Involve,Home & Kitchen,1,Email,46.8,10/07/2024
+3c61bd38-766c-472d-b8c0-1582ae0841af,CUST0189,Willie Rivera,Male,45,South,PROD010,Unit,Books,5,Email,2258.8,23/06/2024
+fa4e37a0-9544-40a6-b84e-8284c1bb7340,CUST0192,Jonathon White,Female,50,North,PROD083,Environmental,Sports,2,Email,479.18,21/06/2024
+ac157ff9-4f4a-4a3d-a010-2d44ee6d6205,CUST0194,Crystal Gomez,Female,44,North,PROD099,Officer,Books,3,Email,691.65,27/06/2024
+f9a30b7d-be31-4ba0-8039-2a3d8a4b4b03,CUST0196,Mrs. Sheryl Torres,Male,30,West,PROD051,Sure,Electronics,5,Email,856.17,06/07/2024
+eebffa49-7e89-4694-bf1d-42c88b162591,CUST0198,Richard Johnson,Female,20,West,PROD084,Act,Electronics,3,Email,1340.6,29/06/2024
+a9fa8993-9816-4d00-82b1-818d7196f0f2,CUST0201,Monica Barr,Male,25,East,PROD022,Image,Groceries,4,Email,1155.4,26/06/2024
+c98e1cc5-8220-45c5-8c48-691ddb3ba94a,CUST0202,Mackenzie Kelley,Male,44,West,PROD044,Box,Electronics,2,Email,633.56,28/06/2024
+aaa44d6f-5821-47d8-86fa-17838c419ec3,CUST0203,Suzanne Duran,Male,26,East,PROD009,Everybody,Groceries,3,Email,159.74,19/06/2024
+d895fecb-ae22-4dc5-a99d-2b2e580b0906,CUST0206,Crystal Brown,Female,68,East,PROD002,Western,Clothing,2,Email,739.71,06/07/2024
+1b3482ca-842a-4cd0-8139-fd1c7bf477fc,CUST0207,John Allen,Female,59,East,PROD057,Part,Electronics,5,Email,908.44,22/06/2024
+13ae9e97-5933-4390-88b2-9f12f7b19d17,CUST0210,Nicholas Newman,Male,32,West,PROD056,Early,Electronics,1,Email,377.92,03/07/2024
+27db47d2-ff95-4040-91e9-1e7a3c0d593c,CUST0212,Jason Brooks,Female,49,North,PROD042,Involve,Home & Kitchen,1,Email,46.8,19/06/2024
+5cf075b4-cf93-41dc-b9fb-d5b375d2ba49,CUST0216,Lance Sanders,Female,66,East,PROD001,Fire,Groceries,5,Email,945.75,24/06/2024
+dad6d195-3971-46cc-bc1d-455937d1b6e3,CUST0219,Peter Ball,Female,29,North,PROD034,Everything,Clothing,5,Email,1385.1,02/07/2024
+687d9605-c7d4-4e6b-9f5c-40361cef5f91,CUST0225,Patricia Reyes,Male,66,South,PROD008,All,Home & Kitchen,4,Email,1438.3,21/06/2024
+d6a02ed7-7efd-454d-9d93-93fcacfc6870,CUST0226,Heather Baldwin,Female,34,South,PROD095,Couple,Home & Kitchen,3,Email,78.38,24/06/2024
+5f9c44a1-f2d3-4b4e-869c-0aa8e2dc114c,CUST0228,Christopher Gutierrez,Male,19,North,PROD077,Consumer,Electronics,4,Email,439.58,23/06/2024
+e8a7020c-b6cf-4b81-8ddf-bf2966e9cd45,CUST0228,Christopher Gutierrez,Male,19,North,PROD020,Send,Books,2,Email,903.03,07/07/2024
+4d8a8b7a-5ee2-4e43-8b81-10888fece6f8,CUST0230,Mark Simon,Male,45,West,PROD065,Use,Electronics,2,Email,18.05,11/07/2024
+b15bee2c-49ab-486e-a1a7-458c91bb968a,CUST0230,Mark Simon,Male,45,West,PROD037,Force,Books,3,Email,482.49,24/06/2024
+be90e711-249a-495d-bf3c-cf3b54d7ab2b,CUST0232,Richard Fuller,Male,54,East,PROD052,Economy,Sports,4,Email,753.88,30/06/2024
+4fd103d4-9b91-42dc-b004-9f9b0e709b94,CUST0234,Jillian Norris,Male,50,North,PROD089,Drug,Electronics,4,Email,1266.2,05/07/2024
+8b7596bb-d81c-4dce-ab90-21039e53d26f,CUST0236,Clinton Morris,Male,36,East,PROD074,Nature,Groceries,5,Email,952.8,26/06/2024
+f583567c-931e-47f7-be16-a2187da09ae5,CUST0238,Andrea Greer,Male,61,North,PROD012,Nature,Home & Kitchen,4,Email,1490.76,28/06/2024
+f856873a-8516-4415-91d5-b7723c41b1c1,CUST0240,Eric Wise,Male,49,West,PROD066,Sea,Home & Kitchen,4,Email,853.16,02/07/2024
+153e45c0-a249-4ac0-9d37-c55a5a79d34c,CUST0250,Karen Shelton,Male,51,West,PROD067,Professor,Groceries,3,Email,83.82,24/06/2024
+f1198f92-3830-499f-9bae-fabf4e072e22,CUST0251,Jason Ruiz,Female,23,East,PROD023,Ok,Groceries,5,Email,1429.92,21/06/2024
+1c170acc-26cc-45c8-9e61-9a916492053b,CUST0254,Mr. Douglas Padilla,Male,65,North,PROD018,Story,Groceries,3,Email,150.57,11/07/2024
+54863b50-58d6-44b4-a944-54f151be0caa,CUST0258,Matthew Avila,Male,23,West,PROD082,Beautiful,Sports,2,Email,892.24,22/06/2024
+7d00eeba-db3d-4c0f-b553-bf0ffa7e08b6,CUST0266,Julie Smith,Female,20,West,PROD085,Black,Clothing,2,Email,70.6,16/06/2024
+643fdef2-a899-49f2-afa2-09e34043b21b,CUST0271,Greg Vargas,Female,69,North,PROD027,Country,Clothing,4,Email,1148.86,10/07/2024
+1cff2a32-0b05-4bd9-a4a1-443427528f74,CUST0272,Zachary White,Male,58,East,PROD059,Determine,Groceries,4,Email,1324.95,17/06/2024
+a8578251-1f47-4225-821e-1288f7122355,CUST0278,Jason Davis,Female,18,North,PROD000,Drive,Electronics,5,Email,889.31,30/06/2024
+05f9f6f6-99af-46c1-a961-26ebe6245d40,CUST0280,Travis Stephens,Male,45,East,PROD061,Long,Clothing,5,Email,1021.2,17/06/2024
+31e9dde7-1ea1-4c8e-b6f4-c4f6280b70e3,CUST0283,Laurie Franklin,Female,40,South,PROD013,On,Groceries,5,Email,817.1,20/06/2024
+67133c98-22f0-43e4-bb1b-2619e7e49c48,CUST0283,Laurie Franklin,Female,40,South,PROD055,Determine,Groceries,5,Email,2095.55,18/06/2024
+73fc33fd-64fa-403a-b7f6-35907e7e07f8,CUST0288,Kelly Paul,Female,24,East,PROD082,Beautiful,Sports,4,Email,1606.03,09/07/2024
+980bca59-887c-48dc-9052-16c098675dae,CUST0293,Ashley Johnson,Male,66,West,PROD086,Vote,Clothing,1,Email,265.2,25/06/2024
+0f79bcff-b196-4f75-8c78-a2a39d822112,CUST0003,Ashley Lewis,Male,32,East,PROD038,Foot,Groceries,2,Email,119.6,26/07/2024
+a921deb6-fbd1-499b-ae93-9a9036e3df61,CUST0005,Ellen Holt,Male,25,West,PROD009,Everybody,Groceries,1,Email,53.25,23/07/2024
+46fe46eb-89a7-4424-8e79-0141a5a133d9,CUST0008,Gregory Chen,Female,36,East,PROD066,Sea,Home & Kitchen,2,Email,426.58,31/07/2024
+d5f56a85-6b74-4b77-a375-b0475153a0b1,CUST0020,Tracy Williams,Male,61,South,PROD071,Trip,Groceries,4,Email,1497.16,02/08/2024
+ec2030a6-6660-4256-b9d4-9090d05c56e8,CUST0023,James Nicholson,Female,19,South,PROD054,Voice,Clothing,3,Email,1421.67,02/08/2024
+a2be9bc9-3ecd-4d5b-b2bf-35512bad3533,CUST0023,James Nicholson,Female,19,South,PROD072,That,Clothing,2,Email,558.16,22/07/2024
+64c6f444-67c8-4f67-bc4f-7c9fdc42662d,CUST0027,Nichole Hawkins,Female,39,East,PROD019,Difficult,Sports,2,Email,309.81,30/07/2024
+1c152b6c-f7bc-49b7-b0ee-9dbc4c54afd3,CUST0033,Jacob Nguyen,Female,45,South,PROD022,Image,Groceries,4,Email,982.09,24/07/2024
+97d78aeb-343f-4250-bd89-9393b0337e4c,CUST0036,Nancy Mora,Female,64,East,PROD095,Couple,Home & Kitchen,2,Email,55,31/07/2024
+48530122-49c7-4844-8175-2fdf9495177a,CUST0040,Ricardo Robertson,Female,20,North,PROD018,Story,Groceries,5,Email,225.86,29/07/2024
+773de8bd-5ea6-4b22-a927-1b531621b243,CUST0044,Tiffany Howell,Male,38,East,PROD051,Sure,Electronics,1,Email,180.75,02/08/2024
+00aae6fa-d700-4686-b8cd-5cb45445b6f4,CUST0055,Connie Soto,Female,37,North,PROD062,Important,Sports,4,Email,1814.6,28/07/2024
+d0973672-1c00-472e-b81c-e586cefd1906,CUST0055,Connie Soto,Female,37,North,PROD002,Western,Clothing,3,Email,992.77,29/07/2024
+553c584f-73fc-411b-a3dd-b0db596a40d3,CUST0059,Tony Swanson,Male,61,East,PROD097,Fire,Clothing,3,Email,1212.4,29/07/2024
+bdf9d9c7-ee11-45b6-993f-596915376fb8,CUST0060,Jennifer Sheppard,Male,25,West,PROD099,Officer,Books,2,Email,438.04,21/07/2024
+3597bc4d-f77a-4d44-8dbd-998289f12dea,CUST0061,Grace Johnson,Male,64,North,PROD064,Until,Electronics,1,Email,236.41,28/07/2024
+260f71ce-a56c-4fac-81dd-a1522736a714,CUST0062,Dawn Turner,Male,52,West,PROD005,Decision,Clothing,4,Email,1719.64,26/07/2024
+043096a0-e4c1-4037-807e-6b63797fd990,CUST0064,Kyle Mccarthy,Female,34,East,PROD072,That,Clothing,2,Email,587.54,03/08/2024
+2d530503-0462-4d9f-b58f-db27efd0f771,CUST0069,Michael Carson,Male,19,East,PROD099,Officer,Books,5,Email,1152.75,28/07/2024
+d890943d-2e9b-4bb0-97d4-fd058bca5a02,CUST0071,John Lee,Female,59,North,PROD023,Ok,Groceries,3,Email,810.29,31/07/2024
+f633431f-402e-470d-84c0-73c3b51b709b,CUST0073,Kara Gonzalez,Female,46,East,PROD079,Civil,Books,5,Email,46.83,23/07/2024
+6a50025e-a58b-406c-b744-802cb10f6560,CUST0075,Kimberly Cherry,Male,43,East,PROD036,Write,Sports,1,Email,399.97,30/07/2024
+fd9a5bb8-8123-4463-81a0-333a6b9cd2d2,CUST0077,Alexis Romero,Male,51,West,PROD052,Economy,Sports,2,Email,320.4,29/07/2024
+69340d3b-b2c5-4085-810d-63c94a37d957,CUST0085,Aaron Black,Female,31,South,PROD098,Will,Home & Kitchen,5,Email,2228.4,29/07/2024
+8958becf-7ab7-4dd7-83bb-c03da841d40b,CUST0087,Rebecca Sweeney MD,Female,57,West,PROD009,Everybody,Groceries,3,Email,151.33,01/08/2024
+9527b399-3027-475c-b4c4-dcb3281a9f5f,CUST0089,Teresa Lopez,Male,33,East,PROD099,Officer,Books,4,Email,783.87,03/08/2024
+887af86b-569c-4bf6-a031-57062ae50522,CUST0097,Kevin Washington,Female,58,South,PROD076,Power,Electronics,5,Email,2066.06,23/07/2024
+9ec4788f-4b43-452f-bbe3-ae8cb863f3fa,CUST0102,Marcus Mills,Female,42,East,PROD012,Nature,Home & Kitchen,1,Email,393.4,03/08/2024
+2bb251e7-8735-4c88-b533-8a2d3969ccf2,CUST0122,Robin Griffin,Female,24,North,PROD022,Image,Groceries,5,Email,1444.25,31/07/2024
+a9182537-c0bf-4894-908d-57ad3ed930e5,CUST0131,Christina Graham,Male,54,West,PROD020,Send,Books,1,Email,427.75,01/08/2024
+a375c167-0edb-485b-a3ae-c8b0b09feef1,CUST0132,Timothy Stephens,Male,52,South,PROD028,Term,Groceries,5,Email,1792.79,22/07/2024
+728f2b4d-d83a-4e2f-bdf4-18412c0eb126,CUST0153,Elizabeth Castro,Male,43,East,PROD011,Computer,Home & Kitchen,5,Email,1084.18,23/07/2024
+f4637326-62a7-4e0a-ba17-4f405a71ee45,CUST0153,Elizabeth Castro,Male,43,East,PROD004,Many,Sports,5,Email,1979.31,03/08/2024
+015332b6-b1ec-46c2-b8a9-82fc61cd5159,CUST0161,Dr. Christopher Foster MD,Male,49,North,PROD002,Western,Clothing,2,Email,739.71,21/07/2024
+4677dfa7-8241-49e9-a408-d1e73b6812e7,CUST0173,Angela Smith,Male,49,West,PROD028,Term,Groceries,3,Email,1075.68,26/07/2024
+7cd76d6e-d6b1-4d7c-9879-4f2b3a719801,CUST0175,Jason Jenkins,Male,68,East,PROD092,Everything,Home & Kitchen,2,Email,536.59,05/08/2024
+525071a5-a3c8-4eaa-a86a-823708e8458f,CUST0181,Kristin Jones,Male,23,South,PROD027,Country,Clothing,5,Email,1520.55,27/07/2024
+4843eade-bde7-4ec0-b808-6fe55c38d344,CUST0183,Angela Myers,Male,45,West,PROD008,All,Home & Kitchen,5,Email,1608.62,29/07/2024
+f82251b3-f38c-45fd-8101-35ee6a33212a,CUST0186,Samantha Hardin,Male,37,West,PROD047,Apply,Clothing,3,Email,904.2,25/07/2024
+9d2cf71c-c219-42e4-90b4-925a238d1b7b,CUST0187,Keith Davis,Male,47,East,PROD044,Box,Electronics,2,Email,633.56,03/08/2024
+cb89a01d-c459-47ef-becf-fa913bfcc949,CUST0189,Willie Rivera,Male,45,South,PROD070,Hard,Books,2,Email,554.81,21/07/2024
+e0c864c7-4cb9-4e05-8d1c-a0f8c215d669,CUST0195,Jill Summers,Female,69,North,PROD067,Professor,Groceries,3,Email,83.82,31/07/2024
+b599a0da-ec50-4b8a-acfe-61bda94d30bd,CUST0196,Mrs. Sheryl Torres,Male,30,West,PROD083,Environmental,Sports,4,Email,905.11,01/08/2024
+ff894904-38b5-4675-8530-258ee345415f,CUST0203,Suzanne Duran,Male,26,East,PROD063,Or,Books,2,Email,108.07,02/08/2024
+daaab67c-fcf6-4bc9-836d-2d7f7b4dda3e,CUST0212,Jason Brooks,Female,49,North,PROD005,Decision,Clothing,5,Email,2149.55,27/07/2024
+9024ac19-7f05-4c9c-bf2e-3a0bf0247d23,CUST0214,Donna Young,Female,58,North,PROD078,Number,Books,1,Email,457.71,05/08/2024
+a82e46da-d915-4235-b820-ac155582eb05,CUST0220,Kenneth Cooper,Male,56,North,PROD022,Image,Groceries,2,Email,491.04,02/08/2024
+028176e3-3d24-489b-8513-47c4d62f6580,CUST0221,Tiffany Collins,Male,19,South,PROD037,Force,Books,4,Email,679.06,24/07/2024
+7c0383af-9737-4643-be1b-0abef1abbac1,CUST0246,Kristy Turner,Female,55,East,PROD049,Cut,Clothing,1,Email,42.29,22/07/2024
+cbfac6d6-2235-4fb3-9d7a-fa3ceba9581e,CUST0247,John Spears,Male,41,North,PROD064,Until,Electronics,2,Email,472.81,28/07/2024
+1e1438e7-1c3c-4ca1-8e0c-3af08a2710bd,CUST0249,Beth Edwards,Female,69,East,PROD042,Involve,Home & Kitchen,2,Email,99.11,22/07/2024
+c4c113a0-c705-4875-943c-ecf5baa29c50,CUST0251,Jason Ruiz,Female,23,East,PROD029,Responsibility,Electronics,3,Email,1011.92,25/07/2024
+358dfafc-5fda-4a8c-b05b-b33b7b22300d,CUST0257,Charles Howell,Male,26,North,PROD028,Term,Groceries,5,Email,1887.15,23/07/2024
+8b3bbc68-0a80-4f82-b191-5943cd73bc14,CUST0258,Matthew Avila,Male,23,West,PROD009,Everybody,Groceries,3,Email,151.33,21/07/2024
+216e8ecd-f9fe-4a71-bf4d-42c837de8d11,CUST0260,John Sampson,Female,46,West,PROD054,Voice,Clothing,5,Email,2014.03,22/07/2024
+09c40f7b-4f76-4f0e-a2d0-b82f52ffe8bb,CUST0266,Julie Smith,Female,20,West,PROD093,Movie,Books,4,Email,1000.42,28/07/2024
+0eb495c0-0c97-4fe9-ba12-3c0f5d30bc4c,CUST0274,Vanessa Elliott,Female,57,South,PROD023,Ok,Groceries,3,Email,857.95,24/07/2024
+a964883f-4240-431f-9281-17302e08badd,CUST0278,Jason Davis,Female,18,North,PROD004,Many,Sports,3,Email,1397.16,28/07/2024
+7f79acd4-5a3f-4d8c-9767-f4d22c815026,CUST0279,Joseph Taylor,Female,28,West,PROD037,Force,Books,3,Email,536.1,27/07/2024
+37c86e12-35f0-41d7-92ce-bdfa24e5f5fb,CUST0284,Kevin Wilson,Female,48,East,PROD055,Determine,Groceries,4,Email,1873.67,23/07/2024
+85a5b11e-cdf5-472d-bf4a-bca974a4c7aa,CUST0290,Martin Parsons,Male,43,South,PROD072,That,Clothing,2,Email,558.16,28/07/2024
+b803810b-2916-4d88-89ef-5fadd442a525,CUST0293,Ashley Johnson,Male,66,West,PROD089,Drug,Electronics,1,Email,300.72,28/07/2024
+09a23cc1-0c30-4327-8ecb-5d16822ec643,CUST0299,Heather Gray,Male,54,North,PROD013,On,Groceries,1,Email,147.08,27/07/2024
+960b7ebb-876f-4289-bdf4-5d4c55a9667c,CUST0011,Victoria Wilson,Male,28,East,PROD038,Foot,Groceries,4,SMS,214.03,09/12/2024
+7d915662-2b77-427e-a325-c3516556ec61,CUST0017,Joe Harrison,Male,39,South,PROD025,While,Electronics,4,SMS,600.56,25/12/2024
+185fde0b-b9dc-40f3-9e94-e03e70f8a99a,CUST0017,Joe Harrison,Male,39,South,PROD009,Everybody,Groceries,1,SMS,50.44,06/12/2024
+762bc180-9728-4787-8c88-5db521f7a958,CUST0020,Tracy Williams,Male,61,South,PROD062,Important,Sports,4,SMS,1633.14,15/12/2024
+919b7e36-8ceb-44b5-b30f-f0de4c73947f,CUST0024,Joyce Jones,Female,38,East,PROD088,Cell,Groceries,1,SMS,224.34,10/12/2024
+9b39c1b0-5acb-454b-9b1f-e0c9b25016cd,CUST0025,Brandon Thompson,Male,50,West,PROD046,Low,Groceries,2,SMS,823.64,16/12/2024
+625ed760-9b0f-4be0-9932-88e44b896935,CUST0026,Dwayne Barry,Male,29,South,PROD074,Nature,Groceries,4,SMS,724.13,05/12/2024
+5d11950b-3b4e-4178-b7f2-df151a8577a6,CUST0029,Thomas Sharp,Male,42,North,PROD099,Officer,Books,2,SMS,391.94,05/12/2024
+5c1c5a4f-e696-4103-866a-82362a9059a9,CUST0034,Sheri Weaver,Female,33,South,PROD044,Box,Electronics,2,SMS,703.96,05/12/2024
+c870fcaf-388f-4a82-b4cc-5d7bb466ee4a,CUST0041,Tammy Garrison,Female,54,South,PROD067,Professor,Groceries,4,SMS,118.33,23/12/2024
+9b3fed8f-f580-4a81-87ff-ffa9eae143de,CUST0043,Ian Perez,Male,24,East,PROD039,Meeting,Sports,5,SMS,322.06,15/12/2024
+f2148ff8-fcc9-4abe-8259-6f8666822de2,CUST0043,Ian Perez,Male,24,East,PROD027,Country,Clothing,4,SMS,1148.86,19/12/2024
+b5fe6434-6a70-4d8e-95b6-0e9a1ddde965,CUST0043,Ian Perez,Male,24,East,PROD014,Including,Books,1,SMS,425.87,11/12/2024
+580cf87d-6739-46e1-9236-9fda22b6a6a4,CUST0043,Ian Perez,Male,24,East,PROD067,Professor,Groceries,4,SMS,124.91,16/12/2024
+5f9dd30f-cf19-446b-9536-e9e3597e5edc,CUST0051,Luke Rocha,Female,67,North,PROD080,Whom,Electronics,5,SMS,2061.63,13/12/2024
+fc572913-ec36-4bfa-a23a-d366d3ee9cc9,CUST0055,Connie Soto,Female,37,North,PROD055,Determine,Groceries,2,SMS,887.53,22/12/2024
+6b76cf9e-9945-440e-9469-3b031c2fa044,CUST0063,Philip Jarvis,Female,31,South,PROD020,Send,Books,4,SMS,1615.95,14/12/2024
+cc722cbf-986f-4f07-97a6-c7afc2e86289,CUST0065,Harold Moore,Female,53,North,PROD099,Officer,Books,5,SMS,1095.11,14/12/2024
+32c27c8b-ec42-48c6-831a-45b30fad4d51,CUST0071,John Lee,Female,59,North,PROD030,Of,Sports,4,SMS,1583.44,20/12/2024
+5e56afb6-807e-4dd4-b1ac-05b9bd598fad,CUST0071,John Lee,Female,59,North,PROD091,Eat,Electronics,4,SMS,920,16/12/2024
+cb4354cb-8af5-42cc-b685-6db489e5e250,CUST0074,Jeffrey Kane,Male,35,North,PROD056,Early,Electronics,1,SMS,359.02,05/12/2024
+367e6337-4ab8-476d-813a-f04a7b1fd48b,CUST0089,Teresa Lopez,Male,33,East,PROD033,War,Clothing,2,SMS,56.93,13/12/2024
+8d70db0d-0c72-4e1f-81a1-45528f00cfbc,CUST0093,Patrick Cortez,Male,41,East,PROD017,Time,Groceries,1,SMS,385.19,12/12/2024
+0af2528f-660c-4305-8638-1e00d580d0b0,CUST0098,Robert Gross,Male,46,West,PROD014,Including,Books,3,SMS,1277.6,11/12/2024
+42ce2ebe-988c-4b4c-90e0-44d2fdd65ee8,CUST0102,Marcus Mills,Female,42,East,PROD005,Decision,Clothing,3,SMS,1160.76,25/12/2024
+cd7ecd11-f0e2-4350-8c50-8b0f1087304e,CUST0103,Roger Gonzalez,Male,24,North,PROD016,Budget,Home & Kitchen,3,SMS,29.53,15/12/2024
+9042db06-b49f-4034-9cfe-5e6bac50173c,CUST0103,Roger Gonzalez,Male,24,North,PROD088,Cell,Groceries,3,SMS,712.61,23/12/2024
+fc09c0f3-dc98-42b2-8e86-cace606fe952,CUST0104,Sergio Moore,Male,26,South,PROD069,Answer,Books,5,SMS,284.31,24/12/2024
+68330efc-8e15-4c2f-82b5-72ee20d08a6b,CUST0116,Michael Morris,Female,50,South,PROD040,Line,Home & Kitchen,3,SMS,1031.26,16/12/2024
+b42180f9-36d7-4baf-b327-d9e5cec9dcd0,CUST0134,Erin Gonzalez,Male,57,East,PROD028,Term,Groceries,3,SMS,1132.29,14/12/2024
+b0c7e4f8-0334-4ed2-83bb-fd16c8f176c7,CUST0134,Erin Gonzalez,Male,57,East,PROD018,Story,Groceries,5,SMS,213.31,14/12/2024
+986f232a-111b-4695-a963-012f931eec35,CUST0136,Jennifer Porter,Male,44,West,PROD003,None,Books,2,SMS,312.66,12/12/2024
+78860a8e-716d-4668-9a8b-83819d82b9ab,CUST0151,Scott Zimmerman,Male,32,East,PROD019,Difficult,Sports,2,SMS,293.51,24/12/2024
+a99c95ff-0670-4cee-bffe-930af1894232,CUST0153,Elizabeth Castro,Male,43,East,PROD061,Long,Clothing,1,SMS,193.49,17/12/2024
+c04df2d4-37e4-47b3-aa6d-fc738c61ac32,CUST0154,Sandra Robinson,Male,59,North,PROD083,Environmental,Sports,4,SMS,1064.84,23/12/2024
+6c5764bd-6309-4409-86bb-b6a4b05e6d22,CUST0154,Sandra Robinson,Male,59,North,PROD015,From,Sports,1,SMS,187.77,06/12/2024
+b04553a0-755f-44aa-b0ba-c12696148f19,CUST0156,David Dalton,Male,68,South,PROD014,Including,Books,2,SMS,806.9,20/12/2024
+890d5693-276d-4500-b096-2c1584ecffd8,CUST0159,Maria Bates,Male,66,South,PROD092,Everything,Home & Kitchen,3,SMS,946.92,20/12/2024
+fcaa5d8c-903b-4570-ac4d-903dee6a9c13,CUST0163,Dr. Johnny Schroeder DVM,Male,47,West,PROD037,Force,Books,4,SMS,679.06,24/12/2024
+7a115d61-40ee-4ab8-883c-0c4d620c799a,CUST0166,Mitchell Kim,Female,56,West,PROD071,Trip,Groceries,1,SMS,336.86,10/12/2024
+69346d20-00ff-4327-ba0e-91c3eff527fd,CUST0170,Matthew Townsend,Male,46,West,PROD010,Unit,Books,5,SMS,2145.86,13/12/2024
+fa586604-0af4-4b40-b5e9-6885605b6c7f,CUST0187,Keith Davis,Male,47,East,PROD097,Fire,Clothing,4,SMS,1711.62,20/12/2024
+2d22fc99-6fff-4ee0-9a24-a1d19eb6a2d7,CUST0188,Stephanie Powell,Male,28,West,PROD066,Sea,Home & Kitchen,3,SMS,710.97,19/12/2024
+5112459b-98c8-487e-bfee-423a46c7f8b4,CUST0188,Stephanie Powell,Male,28,West,PROD020,Send,Books,3,SMS,1425.84,06/12/2024
+7cb49b9b-1885-4738-b24c-f6c57ee348ed,CUST0188,Stephanie Powell,Male,28,West,PROD014,Including,Books,5,SMS,1905.19,15/12/2024
+4fd2f22e-624d-492d-818f-4a797b485a16,CUST0195,Jill Summers,Female,69,North,PROD057,Part,Electronics,4,SMS,650.25,07/12/2024
+ef39893e-43dc-4fd6-b4e8-3c8ff1a5efb8,CUST0195,Jill Summers,Female,69,North,PROD055,Determine,Groceries,5,SMS,2342.08,06/12/2024
+0a939a68-5858-4309-9c35-a29cc0b3a1c6,CUST0198,Richard Johnson,Female,20,West,PROD071,Trip,Groceries,4,SMS,1347.44,15/12/2024
+3f022a56-9f82-4cc0-b4a6-cbed479a0417,CUST0199,Tanner Hamilton,Male,56,South,PROD086,Vote,Clothing,1,SMS,279.16,12/12/2024
+de69b908-2b76-4afc-8739-40b7cf4b00a2,CUST0199,Tanner Hamilton,Male,56,South,PROD039,Meeting,Sports,2,SMS,143.98,09/12/2024
+3d817e8e-2509-4090-954a-3335916e1a7d,CUST0205,Ricky Hunt,Female,50,West,PROD097,Fire,Clothing,5,SMS,2377.25,06/12/2024
+39e4690a-890c-4d64-a491-ae909d37b525,CUST0209,Brooke Frank,Female,41,East,PROD019,Difficult,Sports,3,SMS,415.8,15/12/2024
+80c02032-bb6d-4967-b851-bafbfde4d118,CUST0212,Jason Brooks,Female,49,North,PROD061,Long,Clothing,4,SMS,816.96,10/12/2024
+97bbe959-cd20-4fbb-ab58-d98f8e45704d,CUST0214,Donna Young,Female,58,North,PROD021,Financial,Groceries,4,SMS,1616.87,15/12/2024
+6c32da1a-7afd-4e2c-a10d-25d25be29e8c,CUST0216,Lance Sanders,Female,66,East,PROD065,Use,Electronics,3,SMS,31.86,23/12/2024
+ac8e422e-5096-42dc-86b4-9ce2f5af53ae,CUST0217,Mia Hunter,Female,66,South,PROD010,Unit,Books,4,SMS,1716.69,16/12/2024
+8a07f616-cea5-45da-bd4d-f2bb9e009e34,CUST0222,James Barron,Female,20,South,PROD081,Wish,Home & Kitchen,4,SMS,89.62,08/12/2024
+72990d6a-5eb2-453a-a4e5-b7fc04090064,CUST0224,Miss Krystal Brewer,Male,54,South,PROD089,Drug,Electronics,4,SMS,1266.2,19/12/2024
+343fd982-c6b6-4ace-98e5-ed94ae771ea0,CUST0227,Brittany Chambers,Male,66,West,PROD044,Box,Electronics,4,SMS,1407.92,20/12/2024
+fd9c92aa-2c1f-4886-94ac-05f69e0bbfb4,CUST0228,Christopher Gutierrez,Male,19,North,PROD096,Bed,Home & Kitchen,3,SMS,389.02,19/12/2024
+6523053b-7296-4891-a8cd-b7df1d9a4e99,CUST0228,Christopher Gutierrez,Male,19,North,PROD002,Western,Clothing,4,SMS,1479.42,14/12/2024
+763790d4-476c-4fb5-8d5f-eb24bbc553c5,CUST0232,Richard Fuller,Male,54,East,PROD011,Computer,Home & Kitchen,3,SMS,688.77,22/12/2024
+e47674c2-2ee9-425a-a2ef-1d3e061857c9,CUST0245,Parker Allen,Male,34,North,PROD059,Determine,Groceries,2,SMS,701.44,22/12/2024
+e29c5470-fd71-4ae5-be9c-7105b1be2806,CUST0258,Matthew Avila,Male,23,West,PROD043,More,Groceries,2,SMS,79.27,20/12/2024
+ed1efd74-00d5-491a-b2e6-c5aca848aed8,CUST0265,Sandra Young,Female,43,West,PROD046,Low,Groceries,4,SMS,1400.19,19/12/2024
+82aeb125-7f01-434a-998c-8eb731a65d83,CUST0266,Julie Smith,Female,20,West,PROD034,Everything,Clothing,5,SMS,1315.84,14/12/2024
+68fc1589-ce79-4d10-91f0-8906a95b0fdb,CUST0268,Eric Rodriguez,Female,37,East,PROD066,Sea,Home & Kitchen,5,SMS,1125.7,14/12/2024
+08ec91d6-1913-44de-aea1-a02e8c9f39f0,CUST0269,Dr. Erica Jones PhD,Female,49,East,PROD073,Note,Electronics,5,SMS,2165.76,22/12/2024
+12611712-f6fd-429d-a6c1-c8a5131d8e5f,CUST0270,Michelle Higgins,Male,24,South,PROD016,Budget,Home & Kitchen,2,SMS,20.72,22/12/2024
+b5e31439-3508-44d2-87ae-2aab5b8c594e,CUST0273,Sabrina Jordan,Male,50,West,PROD030,Of,Sports,3,SMS,1009.44,16/12/2024
+64cc24f5-2784-4bea-a7b5-92a8e2f56d96,CUST0274,Vanessa Elliott,Female,57,South,PROD036,Write,Sports,1,SMS,377.75,18/12/2024
+caac1a27-b10b-4807-8cf6-a3704dc58367,CUST0274,Vanessa Elliott,Female,57,South,PROD013,On,Groceries,2,SMS,277.81,09/12/2024
+dde4d347-2e23-44a1-9e5a-76afc4d6836a,CUST0276,Amanda Williams,Male,35,West,PROD028,Term,Groceries,1,SMS,320.82,06/12/2024
+12f92c36-5927-4765-a11f-9aafdb72c94f,CUST0278,Jason Davis,Female,18,North,PROD060,Citizen,Sports,2,SMS,534.68,12/12/2024
+4c027a55-63bb-4a75-bd09-ca187858c0f9,CUST0280,Travis Stephens,Male,45,East,PROD073,Note,Electronics,2,SMS,818.18,22/12/2024
+a6898a07-f97e-458d-806d-cf2fe9ece303,CUST0283,Laurie Franklin,Female,40,South,PROD011,Computer,Home & Kitchen,5,SMS,1147.95,24/12/2024
+6d6aac42-efe8-4ab2-8fae-aaee13080e44,CUST0284,Kevin Wilson,Female,48,East,PROD033,War,Clothing,2,SMS,63.63,13/12/2024
+0a7a292f-6adf-41af-8e9e-a8ad8623b6f9,CUST0289,Mrs. Jessica Butler,Female,33,North,PROD082,Beautiful,Sports,5,SMS,2007.54,19/12/2024
+8d014096-2023-4bc0-867e-3fccf15a7049,CUST0293,Ashley Johnson,Male,66,West,PROD093,Movie,Books,3,SMS,750.31,21/12/2024
+c4bb4487-fff8-4860-a8dc-3544bc0b0e57,CUST0294,Dr. Mariah Lopez DVM,Female,19,West,PROD012,Nature,Home & Kitchen,4,SMS,1573.58,12/12/2024
+acaabe92-3e4f-4f01-a9b7-649764358075,CUST0295,Gina Clark,Male,18,South,PROD076,Power,Electronics,3,SMS,1239.64,13/12/2024
+b681f6a7-3753-4a5d-9e79-1d2e7557c144,CUST0296,Patrick Cardenas,Female,65,West,PROD046,Low,Groceries,1,SMS,411.82,06/12/2024
+c3828656-8e9f-4ae3-ba4d-f184227f5ac8,CUST0000,Christina Thomas,Male,56,North,PROD004,Many,Sports,4,Email,1676.59,28/12/2024
+a3d29cf6-dd48-48b0-8353-1f1407d5cd77,CUST0004,Kayla Anderson,Male,60,South,PROD022,Image,Groceries,4,Email,982.09,12/01/2025
+0a6e1549-5cfc-45cd-9729-1589b6ea0481,CUST0007,Hannah Smith,Male,56,North,PROD041,Military,Home & Kitchen,5,Email,1477.34,28/12/2024
+54e71a35-e14c-4300-8433-a66bca33f269,CUST0008,Gregory Chen,Female,36,East,PROD033,War,Clothing,5,Email,142.33,28/12/2024
+6ea6661d-2fd5-4109-873d-9393b9f20662,CUST0011,Victoria Wilson,Male,28,East,PROD042,Involve,Home & Kitchen,2,Email,104.61,09/01/2025
+261063cd-9b40-40da-aed6-d95483ba95f1,CUST0017,Joe Harrison,Male,39,South,PROD004,Many,Sports,5,Email,1979.31,20/01/2025
+ff07ecb7-9f6d-409b-b0b5-c44fcd2f557b,CUST0022,Tina Mclean,Female,55,North,PROD045,Family,Clothing,5,Email,184.59,19/01/2025
+2ff38c45-e9ca-430d-843b-c182da0ad5f9,CUST0022,Tina Mclean,Female,55,North,PROD033,War,Clothing,4,Email,113.87,31/12/2024
+581936aa-a528-4242-9444-be25d055c51f,CUST0022,Tina Mclean,Female,55,North,PROD089,Drug,Electronics,5,Email,1345.34,22/01/2025
+89c7357d-eb8d-4167-8b43-07189be8bf63,CUST0024,Joyce Jones,Female,38,East,PROD006,Season,Groceries,3,Email,554.24,14/01/2025
+717d0ce0-dd24-4f2d-880e-be407341c301,CUST0025,Brandon Thompson,Male,50,West,PROD086,Vote,Clothing,4,Email,949.14,18/01/2025
+179d31ef-9291-4038-8c0e-4eeae8e69a6e,CUST0028,Omar Jones,Male,61,South,PROD063,Or,Books,5,Email,285.19,15/01/2025
+5b752a98-38a5-4af1-a3ad-e77b42d9f7e2,CUST0029,Thomas Sharp,Male,42,North,PROD009,Everybody,Groceries,4,Email,201.78,27/12/2024
+26bf814c-b93b-43c2-9e68-0b6a063c9f04,CUST0033,Jacob Nguyen,Female,45,South,PROD039,Meeting,Sports,4,Email,257.65,20/01/2025
+cfb74af0-81e6-45b2-9454-e5caed43f4cf,CUST0034,Sheri Weaver,Female,33,South,PROD011,Computer,Home & Kitchen,1,Email,255.1,30/12/2024
+8b3f8d82-114d-4090-b13a-99d99f2b5e81,CUST0034,Sheri Weaver,Female,33,South,PROD044,Box,Electronics,3,Email,1055.94,21/01/2025
+4c064a58-92a8-40f6-8ab7-a39acbc94572,CUST0035,Justin Turner,Male,32,West,PROD018,Story,Groceries,1,Email,50.19,24/01/2025
+034d9e9d-c9f8-4980-9eb2-3fc3443764dd,CUST0049,Elizabeth Wright,Male,42,East,PROD056,Early,Electronics,4,Email,1360.51,21/01/2025
+fce52647-9e3f-4073-9122-fcceaa15f4e7,CUST0051,Luke Rocha,Female,67,North,PROD032,Sport,Sports,2,Email,424.56,02/01/2025
+34bab740-694d-4272-a443-3db445d03d1b,CUST0051,Luke Rocha,Female,67,North,PROD036,Write,Sports,5,Email,2222.05,24/01/2025
+930547a5-6412-43a1-80e2-c98ddc58627e,CUST0054,Matthew Hernandez,Male,19,East,PROD072,That,Clothing,1,Email,264.39,26/12/2024
+da361746-9621-4efc-83a4-a753cf4f190a,CUST0054,Matthew Hernandez,Male,19,East,PROD005,Decision,Clothing,2,Email,730.85,18/01/2025
+d1606ba1-ac22-4564-981f-3b8c2fb610aa,CUST0061,Grace Johnson,Male,64,North,PROD087,Four,Home & Kitchen,5,Email,2302.8,22/01/2025
+eda2a890-cadd-4918-b099-066bcaea8048,CUST0066,Stephen Leon,Male,67,West,PROD055,Determine,Groceries,5,Email,2465.35,30/12/2024
+9eec801e-f895-4112-9d77-d2463670b383,CUST0070,John Nelson,Male,23,West,PROD084,Act,Electronics,2,Email,893.74,24/01/2025
+9f2d7976-a640-4760-b73f-501e2f6631a1,CUST0070,John Nelson,Male,23,West,PROD020,Send,Books,2,Email,903.03,27/12/2024
+e49ae390-03ac-4fbe-b5ec-c13d598c85f9,CUST0072,Amy Olson,Female,21,East,PROD065,Use,Electronics,4,Email,36.11,04/01/2025
+d5bb29ae-8699-4c0a-b0c7-86f0ae9d9e7e,CUST0073,Kara Gonzalez,Female,46,East,PROD074,Nature,Groceries,2,Email,343.01,05/01/2025
+45f3c45d-e00f-477a-a884-df78a8df7300,CUST0077,Alexis Romero,Male,51,West,PROD000,Drive,Electronics,4,Email,837,16/01/2025
+29d59dc9-2e33-4973-9996-40825be4c7ae,CUST0078,Kimberly Andrews,Female,27,East,PROD086,Vote,Clothing,4,Email,1004.98,07/01/2025
+caebd969-dd1d-4bd0-b672-97e6caf5371a,CUST0084,Alyssa Simmons,Male,25,West,PROD041,Military,Home & Kitchen,5,Email,1321.83,12/01/2025
+95f60844-52c8-4ed9-b9a3-2d5fa3bad7b2,CUST0085,Aaron Black,Female,31,South,PROD082,Beautiful,Sports,5,Email,2230.6,31/12/2024
+0155238b-27b4-4a64-8275-22ab2d96fde4,CUST0085,Aaron Black,Female,31,South,PROD092,Everything,Home & Kitchen,3,Email,804.88,07/01/2025
+b5991802-1c44-4dc4-9c51-151fed0a2461,CUST0086,Kenneth Molina,Female,40,East,PROD093,Movie,Books,3,Email,838.58,08/01/2025
+3f765ecd-5c88-4796-8538-d42512a668b5,CUST0086,Kenneth Molina,Female,40,East,PROD099,Officer,Books,4,Email,783.87,03/01/2025
+b12f8166-fe8f-4401-8c6f-90d420b148d8,CUST0088,Amanda Hoffman,Female,38,North,PROD080,Whom,Electronics,1,Email,436.58,27/12/2024
+311bec0b-546f-4d8b-ae06-73073961aa0d,CUST0090,Jessica Mcneil,Male,62,East,PROD039,Meeting,Sports,4,Email,303.12,06/01/2025
+c83b8055-9f3c-4899-904c-c199262d7e7f,CUST0095,Sheri Ramos,Male,42,West,PROD070,Hard,Books,3,Email,930.13,21/01/2025
+2d28bc73-e5f4-4f6e-9af7-fcdf34e595c8,CUST0097,Kevin Washington,Female,58,South,PROD067,Professor,Groceries,4,Email,124.91,06/01/2025
+e9e36106-6788-4644-a4bc-817fdfedb71d,CUST0099,Rose Simpson,Female,32,South,PROD047,Apply,Clothing,5,Email,1507.01,06/01/2025
+ca62378e-fd84-4828-8bd8-024d1c989b37,CUST0102,Marcus Mills,Female,42,East,PROD030,Of,Sports,2,Email,712.55,03/01/2025
+19afe354-c789-4346-a9b5-f9b29ab229ff,CUST0106,Susan Perkins,Female,18,South,PROD057,Part,Electronics,3,Email,487.69,17/01/2025
+3c3d4ea7-2199-4eae-a054-2099ce7436b4,CUST0111,Samantha Hernandez,Female,68,South,PROD043,More,Groceries,4,Email,167.87,11/01/2025
+9dae0a4f-c5b5-4ed4-b154-673936812ef3,CUST0112,Summer Harris,Male,34,West,PROD003,None,Books,3,Email,521.1,19/01/2025
+7e628c7c-abbe-402a-9a65-5fce18909054,CUST0115,Jessica Pittman,Male,52,West,PROD081,Wish,Home & Kitchen,3,Email,75.13,06/01/2025
+67e46084-7198-4b4c-aeaf-fcb1f3af6474,CUST0121,Rebecca Thornton,Male,45,South,PROD027,Country,Clothing,5,Email,1436.08,07/01/2025
+c01abf0d-08e9-406b-89e6-7395e7e2a6f9,CUST0121,Rebecca Thornton,Male,45,South,PROD084,Act,Electronics,4,Email,1886.78,13/01/2025
+ddfa3a51-8ccb-42a0-a1f9-7b1956945367,CUST0126,Antonio Woods,Female,51,South,PROD067,Professor,Groceries,3,Email,88.75,09/01/2025
+0b966861-7566-4bbb-8a64-2d6d31fd5c61,CUST0128,Nicole Hernandez,Male,65,North,PROD071,Trip,Groceries,1,Email,355.58,29/12/2024
+d6918cca-50f2-43f7-9513-eb8787d82fc0,CUST0130,David Clark PhD,Male,41,North,PROD061,Long,Clothing,2,Email,429.98,04/01/2025
+96db3c3f-0945-4b3f-8509-d83db21be56a,CUST0136,Jennifer Porter,Male,44,West,PROD070,Hard,Books,2,Email,587.45,18/01/2025
+e8e6800c-9647-42e0-8c05-81bb5f893ef0,CUST0136,Jennifer Porter,Male,44,West,PROD099,Officer,Books,4,Email,922.2,12/01/2025
+ad4cae7f-51b8-419e-8b56-7b48c53e7a98,CUST0141,Margaret Erickson,Male,64,East,PROD068,Break,Books,3,Email,162.72,15/01/2025
+cf68204f-68ac-4ab2-a452-e4658aa5181b,CUST0149,Benjamin Smith,Male,44,East,PROD094,Left,Home & Kitchen,5,Email,2255.35,15/01/2025
+306588aa-d8d1-49b3-a107-9ee268954322,CUST0153,Elizabeth Castro,Male,43,East,PROD020,Send,Books,2,Email,855.5,09/01/2025
+b40a2b86-c1ef-46d6-8b68-4e0f26323de9,CUST0154,Sandra Robinson,Male,59,North,PROD062,Important,Sports,5,Email,2041.42,17/01/2025
+95ea62d9-ba2d-4909-91df-cc35010899fa,CUST0157,Michael Cabrera,Male,49,South,PROD020,Send,Books,4,Email,1711.01,03/01/2025
+7ee0722a-fbab-4800-b249-a9c4d6713b07,CUST0160,Destiny Herring,Male,69,South,PROD050,Save,Groceries,5,Email,2466.95,31/12/2024
+680940aa-0753-4322-bf37-4b98853eaae9,CUST0161,Dr. Christopher Foster MD,Male,49,North,PROD063,Or,Books,5,Email,270.18,06/01/2025
+bfb32557-97a8-44d0-823e-a392f40ebf11,CUST0166,Mitchell Kim,Female,56,West,PROD071,Trip,Groceries,1,Email,318.15,26/12/2024
+e3036c9d-c0c4-41fb-add7-7144485a787a,CUST0169,Jessica Bernard,Female,60,West,PROD071,Trip,Groceries,4,Email,1272.59,15/01/2025
+3e801cad-e26b-408a-98d5-a78af3844e50,CUST0169,Jessica Bernard,Female,60,West,PROD042,Involve,Home & Kitchen,3,Email,148.66,27/12/2024
+8bd26bbc-dfc0-4a4a-aea4-8ac94a76e46a,CUST0173,Angela Smith,Male,49,West,PROD076,Power,Electronics,5,Email,1848.58,31/12/2024
+374f01fb-f838-4ac9-a823-30f7686e7e78,CUST0173,Angela Smith,Male,49,West,PROD048,We,Groceries,5,Email,215.03,15/01/2025
+021b7d25-7f2d-492f-b2cf-433fb81630b7,CUST0176,Wendy Carr,Female,39,East,PROD076,Power,Electronics,1,Email,391.46,30/12/2024
+a1376198-218e-4eef-a1be-b4f25c6aa549,CUST0177,Karen Trevino,Female,45,West,PROD066,Sea,Home & Kitchen,3,Email,710.97,17/01/2025
+e64a0f1a-b35b-467e-94ec-736272a60baf,CUST0178,Lisa Melton,Female,19,West,PROD015,From,Sports,2,Email,336,03/01/2025
+f920fd4e-7748-4be8-9750-577d1ce95a80,CUST0179,Casey Perez,Female,59,South,PROD071,Trip,Groceries,2,Email,748.58,31/12/2024
+100b207d-8a1d-4710-8213-b877ed6c8f1f,CUST0180,Shannon Larsen,Female,62,West,PROD037,Force,Books,3,Email,509.29,05/01/2025
+d426126f-5124-4d66-9e3c-904814da06a4,CUST0183,Angela Myers,Male,45,West,PROD062,Important,Sports,1,Email,385.6,26/12/2024
+8bbc4a3b-a792-4498-91c8-7c46f7d0bcbf,CUST0184,Jessica Warren DDS,Female,61,West,PROD017,Time,Groceries,3,Email,1155.56,19/01/2025
+97b2497d-93a2-4ece-8ad3-d69b77568d8f,CUST0189,Willie Rivera,Male,45,South,PROD011,Computer,Home & Kitchen,5,Email,1211.72,14/01/2025
+932c3e5f-fdd7-47be-8e77-80184678c98c,CUST0191,Joseph Cooper,Male,56,South,PROD007,Accept,Sports,5,Email,1600.89,11/01/2025
+bd2b0fa1-7859-4620-9153-533785a965ef,CUST0192,Jonathon White,Female,50,North,PROD019,Difficult,Sports,2,Email,309.81,03/01/2025
+f22b60b7-4962-4c06-ab4c-8983c5c8f0ef,CUST0193,Jill Alvarado,Male,18,West,PROD009,Everybody,Groceries,4,Email,190.57,20/01/2025
+b4ac8396-1383-4b7f-a218-aafef8f902d0,CUST0193,Jill Alvarado,Male,18,West,PROD039,Meeting,Sports,3,Email,215.97,16/01/2025
+9984f582-6248-4567-9ea3-8d0e9f4f39b1,CUST0193,Jill Alvarado,Male,18,West,PROD045,Family,Clothing,2,Email,73.84,21/01/2025
+f86f2ef7-87fa-4f40-a2e4-54812e3f0974,CUST0195,Jill Summers,Female,69,North,PROD067,Professor,Groceries,3,Email,83.82,24/01/2025
+450026a2-02ed-4050-a0f5-e2bc6965a922,CUST0198,Richard Johnson,Female,20,West,PROD031,Process,Home & Kitchen,3,Email,142.93,01/01/2025
+b29bea7c-d39d-4a6f-b2a3-7d75d891210b,CUST0200,Amber Salazar,Male,23,North,PROD037,Force,Books,1,Email,169.76,10/01/2025
+56d66dab-3fcc-4858-a00c-550c939ec3a4,CUST0201,Monica Barr,Male,25,East,PROD062,Important,Sports,2,Email,816.57,06/01/2025
+63c700a0-8665-4c47-9151-e0916ee4a1ae,CUST0210,Nicholas Newman,Male,32,West,PROD046,Low,Groceries,2,Email,700.09,05/01/2025
+b5174eaf-76be-46ce-a7bb-392365db7b30,CUST0210,Nicholas Newman,Male,32,West,PROD002,Western,Clothing,2,Email,778.64,13/01/2025
+b8d93291-2844-4bce-bd3a-4454ddffcb6c,CUST0212,Jason Brooks,Female,49,North,PROD022,Image,Groceries,2,Email,548.82,14/01/2025
+798cca35-80c6-41b2-bd04-26cba4636af6,CUST0212,Jason Brooks,Female,49,North,PROD048,We,Groceries,4,Email,181.08,10/01/2025
+4e260fe9-306e-4bcc-b5a2-9e8a564e4a5d,CUST0212,Jason Brooks,Female,49,North,PROD052,Economy,Sports,1,Email,169.62,02/01/2025
+09bff26f-2eb8-455b-951c-3c0ec697d186,CUST0213,Kayla Anderson,Male,41,West,PROD071,Trip,Groceries,5,Email,1777.88,24/01/2025
+da054afc-221e-4090-8a2c-a00f94f61f3f,CUST0213,Kayla Anderson,Male,41,West,PROD022,Image,Groceries,2,Email,519.93,12/01/2025
+306fc02a-fee7-4fb7-9ae5-78a0ba44628f,CUST0216,Lance Sanders,Female,66,East,PROD088,Cell,Groceries,2,Email,448.68,16/01/2025
+1f2d3739-b69c-4c57-8537-048a59146894,CUST0219,Peter Ball,Female,29,North,PROD061,Long,Clothing,4,Email,859.96,19/01/2025
+5b6b66a6-fbb9-4e73-9e5a-914deed94c25,CUST0222,James Barron,Female,20,South,PROD087,Four,Home & Kitchen,2,Email,872.64,17/01/2025
+dcd24842-234d-411e-94d7-f250cb00bd4b,CUST0228,Christopher Gutierrez,Male,19,North,PROD076,Power,Electronics,1,Email,413.21,17/01/2025
+77285eb8-2a77-4d2b-95c6-10dec8fe28a8,CUST0232,Richard Fuller,Male,54,East,PROD064,Until,Electronics,5,Email,1057.61,12/01/2025
+1b158072-9ac7-4318-b6b5-3ec943f2447d,CUST0234,Jillian Norris,Male,50,North,PROD013,On,Groceries,2,Email,294.16,06/01/2025
+dfa2163c-af4f-45f5-b092-cfee978b9078,CUST0235,Emily Price,Male,18,South,PROD032,Sport,Sports,2,Email,424.56,15/01/2025
+797a6a58-859b-4f53-9fbc-1061db4e1c36,CUST0235,Emily Price,Male,18,South,PROD091,Eat,Electronics,3,Email,690,26/12/2024
+cf9a2347-4f9b-4bcc-b339-521fa55ed524,CUST0238,Andrea Greer,Male,61,North,PROD080,Whom,Electronics,1,Email,460.84,05/01/2025
+f2df0a8a-e8fb-4055-95ca-54999f944f47,CUST0238,Andrea Greer,Male,61,North,PROD066,Sea,Home & Kitchen,1,Email,236.99,24/01/2025
+88d1eab3-76b9-4c6f-a6a9-97148010f2b1,CUST0240,Eric Wise,Male,49,West,PROD036,Write,Sports,5,Email,2222.05,06/01/2025
+18b0729c-3b38-4044-8056-0bef2e3526b2,CUST0245,Parker Allen,Male,34,North,PROD040,Line,Home & Kitchen,2,Email,649.31,02/01/2025
+c97ac971-7280-4012-bdc1-d968c5111358,CUST0245,Parker Allen,Male,34,North,PROD069,Answer,Books,4,Email,227.45,21/01/2025
+353a1526-492e-4898-80e2-e11a2a625194,CUST0246,Kristy Turner,Female,55,East,PROD015,From,Sports,5,Email,889.42,22/01/2025
+86bfa6b7-90de-4c69-9f38-0fae5f20ee5d,CUST0249,Beth Edwards,Female,69,East,PROD084,Act,Electronics,4,Email,1886.78,15/01/2025
+a931db67-31f4-4b80-adbf-72ff84928b86,CUST0251,Jason Ruiz,Female,23,East,PROD025,While,Electronics,1,Email,142.63,08/01/2025
+0aaa3ae8-b3e2-40e9-97b9-776526197f53,CUST0253,Blake Martinez,Female,28,East,PROD096,Bed,Home & Kitchen,4,Email,489.87,22/01/2025
+cf094ba1-20bc-4185-93ac-2e6603cf3310,CUST0255,Debra Campbell,Male,33,West,PROD057,Part,Electronics,3,Email,573.75,29/12/2024
+04a975c5-d477-469b-bb29-876cbd3a96bd,CUST0263,Christina Glenn,Male,53,South,PROD073,Note,Electronics,2,Email,914.43,26/12/2024
+3e916a89-f0aa-4678-b502-30d1d28121b3,CUST0266,Julie Smith,Female,20,West,PROD061,Long,Clothing,3,Email,548.22,04/01/2025
+9f93be41-4965-4f0a-927c-7e0a2ba67eef,CUST0266,Julie Smith,Female,20,West,PROD052,Economy,Sports,3,Email,480.6,22/01/2025
+d3bd7815-f0f9-44fb-9fdf-a0df6525a58a,CUST0269,Dr. Erica Jones PhD,Female,49,East,PROD069,Answer,Books,5,Email,315.9,19/01/2025
+68ac9a72-8549-4b17-af14-6136956b7d36,CUST0270,Michelle Higgins,Male,24,South,PROD001,Fire,Groceries,3,Email,510.71,16/01/2025
+c9426ed1-e9ff-4c86-af92-fc19635cfeed,CUST0272,Zachary White,Male,58,East,PROD090,Huge,Clothing,2,Email,628.92,12/01/2025
+48dd96c9-ee2f-4b11-a2f5-3297fa3aea97,CUST0273,Sabrina Jordan,Male,50,West,PROD010,Unit,Books,4,Email,1716.69,29/12/2024
+05a4deb6-1723-40bf-90e8-a7f3eeccfd55,CUST0273,Sabrina Jordan,Male,50,West,PROD043,More,Groceries,1,Email,39.64,14/01/2025
+7e061208-9fa8-419b-bc6a-08abb020f9d5,CUST0276,Amanda Williams,Male,35,West,PROD027,Country,Clothing,1,Email,321,26/12/2024
+dc693a49-e6c2-42a1-86a1-db2c712bd359,CUST0277,Dr. Gregory Griffin,Male,57,East,PROD089,Drug,Electronics,4,Email,1202.89,09/01/2025
+07ee83ed-d921-4bf7-bc67-f44769da4248,CUST0278,Jason Davis,Female,18,North,PROD049,Cut,Clothing,2,Email,84.58,26/12/2024
+4f6063b9-0d4c-4218-94aa-82474fa5efa3,CUST0279,Joseph Taylor,Female,28,West,PROD027,Country,Clothing,4,Email,1351.6,15/01/2025
+d10adbc3-84bb-4243-a5c0-dd8d7f9eda5c,CUST0280,Travis Stephens,Male,45,East,PROD001,Fire,Groceries,1,Email,189.15,01/01/2025
+91963827-2962-447c-943f-1c2d19a6368e,CUST0281,Kelly Carpenter,Female,42,South,PROD059,Determine,Groceries,5,Email,1948.45,05/01/2025
+2c3f3b26-19a0-4056-bd89-24ae9e5cdab5,CUST0283,Laurie Franklin,Female,40,South,PROD026,Figure,Sports,5,Email,796.53,05/01/2025
+b154087a-4bb9-42cb-b547-017bb48fdbbe,CUST0283,Laurie Franklin,Female,40,South,PROD076,Power,Electronics,5,Email,1957.32,06/01/2025
+bd648a98-808b-4aac-baf9-9be991c5454c,CUST0283,Laurie Franklin,Female,40,South,PROD071,Trip,Groceries,2,Email,748.58,03/01/2025
+2ff29932-35ce-4c49-b80d-39581d5dfa40,CUST0283,Laurie Franklin,Female,40,South,PROD005,Decision,Clothing,4,Email,1633.66,31/12/2024
+f2830343-d2e8-4fa0-8910-e64b09dfa863,CUST0284,Kevin Wilson,Female,48,East,PROD063,Or,Books,1,Email,54.04,07/01/2025
+904ad4a9-6b44-4a05-9d76-9312691b1f22,CUST0285,Dana Blackburn,Female,47,East,PROD095,Couple,Home & Kitchen,4,Email,99,01/01/2025
+f1b8b530-fd43-4b18-9cb1-4efe6639a4ed,CUST0285,Dana Blackburn,Female,47,East,PROD095,Couple,Home & Kitchen,5,Email,116.88,01/01/2025
+1afc5491-911e-4cbe-aeca-c393c25a92e1,CUST0287,Katie Beasley,Male,52,East,PROD041,Military,Home & Kitchen,4,Email,1057.47,13/01/2025
+a815aca9-d0a8-4d8a-91a0-41a8d2d952af,CUST0287,Katie Beasley,Male,52,East,PROD049,Cut,Clothing,2,Email,84.58,28/12/2024
+76699893-abc7-4441-ac67-c8b90c201420,CUST0287,Katie Beasley,Male,52,East,PROD091,Eat,Electronics,1,Email,230,30/12/2024
+0d7b24b6-8c65-4f7e-adf2-98abbd2ec47d,CUST0288,Kelly Paul,Female,24,East,PROD081,Wish,Home & Kitchen,1,Email,23.72,03/01/2025
+f907c741-8113-4359-b46a-14d6f0f35270,CUST0294,Dr. Mariah Lopez DVM,Female,19,West,PROD037,Force,Books,3,Email,536.1,08/01/2025
+f0d2989e-0103-42cf-9212-0bc2b2943279,CUST0299,Heather Gray,Male,54,North,PROD013,On,Groceries,2,Email,326.84,04/01/2025
+b346d6b6-c17b-4e22-9e9a-c3fd2f701e92,CUST0002,Jerry Velasquez,Female,46,North,PROD010,Unit,Books,1,Email,406.58,14/09/2024
+9dc3f609-62ac-47d4-95d2-b80df3f28563,CUST0004,Kayla Anderson,Male,60,South,PROD038,Foot,Groceries,4,Email,251.8,16/09/2024
+d192dd32-25cd-4717-91a8-698bab851e24,CUST0027,Nichole Hawkins,Female,39,East,PROD067,Professor,Groceries,4,Email,111.76,13/09/2024
+17331c38-29cf-40c4-ac78-2979cec265ea,CUST0033,Jacob Nguyen,Female,45,South,PROD019,Difficult,Sports,3,Email,489.18,24/09/2024
+24d83741-780e-4a55-8944-8dd9ae9fd28e,CUST0037,Kyle Pugh,Male,68,East,PROD057,Part,Electronics,2,Email,325.12,19/09/2024
+4e8c1c58-b052-4b89-8bd9-d5160e3d9f80,CUST0039,Samuel Kelly,Male,69,South,PROD072,That,Clothing,1,Email,293.77,23/09/2024
+3e1d6719-4f6f-4347-8cc7-05acc249f7dd,CUST0046,Cody Conner,Female,56,East,PROD078,Number,Books,5,Email,2047.65,18/09/2024
+ff0d3aca-9b71-496b-ae12-b21afc58a8fe,CUST0046,Cody Conner,Female,56,East,PROD019,Difficult,Sports,1,Email,138.6,20/09/2024
+da2ac513-20c4-4101-a552-cd80f5c91535,CUST0047,Henry Johnson,Male,35,East,PROD047,Apply,Clothing,3,Email,1010.58,13/09/2024
+dd070a4c-2f69-4cb2-9a34-3959a32d9106,CUST0067,Jennifer Clark,Female,57,North,PROD049,Cut,Clothing,5,Email,199.71,24/09/2024
+d054527f-23f3-4ed7-90b6-7e6b01ac401d,CUST0067,Jennifer Clark,Female,57,North,PROD025,While,Electronics,1,Email,135.13,15/09/2024
+59025f12-0562-414b-836e-6c219f4601e4,CUST0068,Sandra Walker,Male,21,South,PROD080,Whom,Electronics,5,Email,2182.9,13/09/2024
+f84d2314-7345-47a8-95ac-bef3b30b37a7,CUST0072,Amy Olson,Female,21,East,PROD099,Officer,Books,1,Email,207.5,16/09/2024
+b3928525-2799-41f1-b5ea-170341001065,CUST0077,Alexis Romero,Male,51,West,PROD001,Fire,Groceries,2,Email,321.56,14/09/2024
+02b853e0-c760-4b85-aa7d-c07fa366ddfd,CUST0087,Rebecca Sweeney MD,Female,57,West,PROD042,Involve,Home & Kitchen,5,Email,261.54,21/09/2024
+4a57574b-a9d6-4779-8ea4-7f0351120a4d,CUST0089,Teresa Lopez,Male,33,East,PROD053,Nothing,Home & Kitchen,2,Email,814.68,16/09/2024
+390511e4-cdea-4de9-ac49-4cdc66b6dc5a,CUST0103,Roger Gonzalez,Male,24,North,PROD013,On,Groceries,4,Email,621,18/09/2024
+6710ab28-79be-4a67-ba38-ef1e1b750fe8,CUST0118,Steven Taylor,Male,59,West,PROD051,Sure,Electronics,2,Email,361.49,13/09/2024
+86ff4c3b-5419-4771-b8bb-039553515289,CUST0120,Tony Herring,Male,58,South,PROD081,Wish,Home & Kitchen,4,Email,94.9,18/09/2024
+db026226-19b6-4b9e-9a8e-945a86d0dd99,CUST0125,Heather Newman,Male,29,South,PROD060,Citizen,Sports,1,Email,253.27,16/09/2024
+ce6cb4e1-7294-4a63-af4a-49b7ef19996c,CUST0129,Richard Anderson,Male,40,South,PROD061,Long,Clothing,3,Email,612.72,21/09/2024
+997e573c-cc71-4627-8641-01172984e79d,CUST0130,David Clark PhD,Male,41,North,PROD047,Apply,Clothing,2,Email,602.8,21/09/2024
+185c121c-3c26-4099-82de-d3fe1032aaaf,CUST0135,Thomas Norman,Male,39,West,PROD083,Environmental,Sports,5,Email,1264.5,15/09/2024
+44ac383b-d2fa-4a05-bd4a-eb6f4c35219a,CUST0152,Anthony Sharp,Female,32,East,PROD086,Vote,Clothing,3,Email,837.48,17/09/2024
+0b24a915-77c9-4142-adff-fccd77551b9f,CUST0153,Elizabeth Castro,Male,43,East,PROD033,War,Clothing,2,Email,66.98,16/09/2024
+41fbcbfb-cfa2-42cf-8c36-ab87a48a887f,CUST0154,Sandra Robinson,Male,59,North,PROD025,While,Electronics,4,Email,510.48,17/09/2024
+63ef3b69-7271-4d08-96ec-752135186c75,CUST0158,Robert Butler,Male,56,West,PROD043,More,Groceries,3,Email,139.89,17/09/2024
+f6f3feab-e631-47aa-b35e-22715d2b051d,CUST0168,Christopher Silva,Male,32,South,PROD056,Early,Electronics,3,Email,963.7,19/09/2024
+c8e569e9-3414-4c83-8b08-96d0c4df87c2,CUST0178,Lisa Melton,Female,19,West,PROD044,Box,Electronics,2,Email,668.76,20/09/2024
+afdbc8fd-d002-4253-ac1a-a81501d864ae,CUST0183,Angela Myers,Male,45,West,PROD056,Early,Electronics,5,Email,1700.64,18/09/2024
+819db70c-4abd-4cbf-841a-8221df113356,CUST0184,Jessica Warren DDS,Female,61,West,PROD070,Hard,Books,5,Email,1468.62,15/09/2024
+f990b839-3750-4c4e-8115-df64debfbd60,CUST0187,Keith Davis,Male,47,East,PROD069,Answer,Books,2,Email,107.41,24/09/2024
+d133e341-feff-45e9-bdd6-04ff9aa3c547,CUST0196,Mrs. Sheryl Torres,Male,30,West,PROD019,Difficult,Sports,2,Email,326.12,22/09/2024
+60085da7-fa13-42e7-b98b-bb279ac1c331,CUST0202,Mackenzie Kelley,Male,44,West,PROD092,Everything,Home & Kitchen,5,Email,1578.2,20/09/2024
+4eb2b4c3-1cfe-4d83-9fe1-ebe9327b3d48,CUST0211,Alicia Maynard,Male,49,East,PROD038,Foot,Groceries,3,Email,188.85,24/09/2024
+e8686448-f267-43ee-8971-0cbf5907be01,CUST0214,Donna Young,Female,58,North,PROD013,On,Groceries,5,Email,817.1,17/09/2024
+b8947fe8-8e9c-4dc7-bad6-280ffacdd04c,CUST0237,Brent Gonzalez,Female,19,North,PROD015,From,Sports,4,Email,790.6,23/09/2024
+1a0b8831-334a-4c6f-9042-7a2f101a13c9,CUST0249,Beth Edwards,Female,69,East,PROD029,Responsibility,Electronics,1,Email,357.15,22/09/2024
+dfd67a8e-b0ed-41f0-86f1-865ea44fce3b,CUST0258,Matthew Avila,Male,23,West,PROD049,Cut,Clothing,4,Email,178.56,22/09/2024
+4835bf5f-6705-4584-80ca-95d425d581f7,CUST0265,Sandra Young,Female,43,West,PROD012,Nature,Home & Kitchen,1,Email,393.4,24/09/2024
+7ea810e7-7c9c-4303-85c0-a3f15349a7dc,CUST0276,Amanda Williams,Male,35,West,PROD046,Low,Groceries,5,Email,1853.19,13/09/2024
+65cf6f55-de0b-42bb-9ccb-2b19ad8a96f5,CUST0285,Dana Blackburn,Female,47,East,PROD046,Low,Groceries,1,Email,350.05,13/09/2024
+4ae5dcc8-a13d-4e8c-b653-42fd60431d6f,CUST0289,Mrs. Jessica Butler,Female,33,North,PROD072,That,Clothing,3,Email,793.18,15/09/2024
+e2ab700f-4375-4f06-92f4-90ff188062b1,CUST0297,Daniel Valdez,Female,29,West,PROD088,Cell,Groceries,4,Email,1002.93,22/09/2024
+1d978376-22ed-47b2-88bd-79571cad05ae,CUST0003,Ashley Lewis,Male,32,East,PROD014,Including,Books,3,Email,1210.36,05/06/2024
+a4174a3c-df81-457a-8764-13a27f541d8d,CUST0006,Monica Brewer,Male,38,South,PROD036,Write,Sports,4,Email,1510.99,11/06/2024
+85d8e554-7e40-44e9-ba95-0ea1597340f5,CUST0013,Sara Davis,Male,53,South,PROD084,Act,Electronics,3,Email,1415.08,11/06/2024
+1d9c5e3c-776c-4a29-9b1e-157c3ea57a46,CUST0016,Gregory Hill,Female,20,West,PROD036,Write,Sports,4,Email,1688.76,07/06/2024
+04eb6c96-83cb-4dd1-a581-3ac5149f487b,CUST0022,Tina Mclean,Female,55,North,PROD051,Sure,Electronics,4,Email,722.99,31/05/2024
+f6c011d8-07fe-4fb5-a502-997132b12252,CUST0022,Tina Mclean,Female,55,North,PROD016,Budget,Home & Kitchen,2,Email,20.72,03/06/2024
+c3d05aa0-9650-4eb3-a16e-190799c7fb67,CUST0023,James Nicholson,Female,19,South,PROD041,Military,Home & Kitchen,1,Email,279.92,02/06/2024
+27791557-b76d-4515-9480-9fc2d1e95485,CUST0027,Nichole Hawkins,Female,39,East,PROD045,Family,Clothing,1,Email,34.87,09/06/2024
+198c3d06-53e3-4b3c-8706-00b7a627d232,CUST0028,Omar Jones,Male,61,South,PROD045,Family,Clothing,5,Email,205.1,12/06/2024
+17d9a652-3e1e-4b1f-a351-b0753c8f3458,CUST0029,Thomas Sharp,Male,42,North,PROD000,Drive,Electronics,4,Email,753.3,13/06/2024
+7b531f3f-7654-450e-8af1-33ceccbacbbc,CUST0033,Jacob Nguyen,Female,45,South,PROD026,Figure,Sports,2,Email,285.07,07/06/2024
+27de426f-d2af-4e4c-b4fc-187463bb7925,CUST0040,Ricardo Robertson,Female,20,North,PROD099,Officer,Books,1,Email,207.5,01/06/2024
+964e4a09-42d9-4ae7-a4f1-4876fedcc1df,CUST0044,Tiffany Howell,Male,38,East,PROD009,Everybody,Groceries,1,Email,53.25,12/06/2024
+78e42585-e5dc-4944-a890-f4219b563ad3,CUST0046,Cody Conner,Female,56,East,PROD065,Use,Electronics,4,Email,42.48,04/06/2024
+f3d14760-2cd0-42e0-a758-177b246113ac,CUST0051,Luke Rocha,Female,67,North,PROD092,Everything,Home & Kitchen,3,Email,899.57,08/06/2024
+f4835f2b-3945-4a0a-973e-def8b4420338,CUST0069,Michael Carson,Male,19,East,PROD024,Share,Clothing,4,Email,771.73,31/05/2024
+73c5ebc8-ba87-4fce-9877-92fa07879ad0,CUST0076,Jessica Martin,Female,61,East,PROD057,Part,Electronics,5,Email,812.81,05/06/2024
+b3783fce-e871-49b3-819b-ff4dff192b50,CUST0076,Jessica Martin,Female,61,East,PROD018,Story,Groceries,5,Email,250.95,10/06/2024
+d3b0368c-bf94-49f5-ad17-2a79dd33e0e7,CUST0081,Courtney Orozco,Male,48,South,PROD063,Or,Books,5,Email,255.17,01/06/2024
+bbc18e53-0ccc-4031-8c8c-91e4fd048bca,CUST0086,Kenneth Molina,Female,40,East,PROD073,Note,Electronics,4,Email,1636.35,31/05/2024
+572094da-a88c-4f1d-9fd6-eb13fc91a113,CUST0088,Amanda Hoffman,Female,38,North,PROD024,Share,Clothing,2,Email,453.96,11/06/2024
+29b4d8c9-63cb-40ad-9354-855e2d8330d3,CUST0088,Amanda Hoffman,Female,38,North,PROD084,Act,Electronics,1,Email,422.04,01/06/2024
+1f88428d-ae2f-470a-941b-ad996795f4f5,CUST0088,Amanda Hoffman,Female,38,North,PROD060,Citizen,Sports,2,Email,534.68,07/06/2024
+d722186c-1cdd-41f1-9ff4-22c9371a0270,CUST0099,Rose Simpson,Female,32,South,PROD014,Including,Books,2,Email,896.56,08/06/2024
+75cef8c4-f85a-4fe1-8f0d-421575127125,CUST0105,Angelica Cannon,Female,41,East,PROD008,All,Home & Kitchen,1,Email,378.5,11/06/2024
+991c3b8f-3a27-4030-90b4-f939c32b1859,CUST0108,Patricia May,Female,25,South,PROD019,Difficult,Sports,2,Email,309.81,06/06/2024
+c16e8e74-0a94-42f5-8726-ff55c1d9178a,CUST0132,Timothy Stephens,Male,52,South,PROD052,Economy,Sports,4,Email,640.8,12/06/2024
+66dcdc04-cc30-4427-a924-64dace69c288,CUST0135,Thomas Norman,Male,39,West,PROD084,Act,Electronics,1,Email,471.69,05/06/2024
+83c3d102-9da2-4da6-8976-916e9f3d186f,CUST0136,Jennifer Porter,Male,44,West,PROD057,Part,Electronics,2,Email,363.38,13/06/2024
+7a3a80fc-d93e-4cee-b336-611e93de33b3,CUST0141,Margaret Erickson,Male,64,East,PROD018,Story,Groceries,2,Email,90.34,04/06/2024
+5c0f8a87-e4a9-4418-8fad-f9dd68f613a3,CUST0143,Randy Wilson,Female,20,East,PROD011,Computer,Home & Kitchen,1,Email,242.34,03/06/2024
+80796921-cb74-4b54-8139-7fdb69d55d41,CUST0145,Andrea Dixon,Female,22,South,PROD010,Unit,Books,2,Email,813.17,09/06/2024
+ee83d8e2-0d9a-412e-8b60-67e15eea507f,CUST0166,Mitchell Kim,Female,56,West,PROD058,Act,Home & Kitchen,4,Email,185.32,02/06/2024
+ad81872c-4855-4fed-994b-3770d641bc62,CUST0169,Jessica Bernard,Female,60,West,PROD072,That,Clothing,1,Email,293.77,03/06/2024
+8f8cb65c-a4b9-45e5-9c05-8f54aac93fb0,CUST0169,Jessica Bernard,Female,60,West,PROD047,Apply,Clothing,3,Email,957.39,02/06/2024
+46fbdb20-0f12-49ef-a0b4-87ed6c6a65f7,CUST0170,Matthew Townsend,Male,46,West,PROD041,Military,Home & Kitchen,1,Email,295.47,13/06/2024
+30efd536-cfb3-472f-b018-bede28054244,CUST0172,Allison Green,Female,30,West,PROD038,Foot,Groceries,3,Email,179.41,01/06/2024
+467e9c42-1c2e-4ed8-97f8-badcc8a20acf,CUST0174,Sandra Robinson,Male,24,North,PROD098,Will,Home & Kitchen,4,Email,1693.58,10/06/2024
+7a324840-752d-4eb4-8da6-d25989397936,CUST0177,Karen Trevino,Female,45,West,PROD084,Act,Electronics,4,Email,1886.78,08/06/2024
+30895c42-b6b5-4bbe-a3c8-231284c27177,CUST0185,Jordan Burke,Female,61,North,PROD039,Meeting,Sports,2,Email,143.98,12/06/2024
+20d9e7d7-e0c4-4f35-8ae5-3c1d25656b43,CUST0188,Stephanie Powell,Male,28,West,PROD059,Determine,Groceries,5,Email,1656.18,09/06/2024
+99ab4a03-b81a-499b-a837-3fb5687a1104,CUST0192,Jonathon White,Female,50,North,PROD083,Environmental,Sports,4,Email,958.36,11/06/2024
+58c3d04a-f503-47ce-8e07-7e3a96b25285,CUST0202,Mackenzie Kelley,Male,44,West,PROD031,Process,Home & Kitchen,2,Email,85.26,12/06/2024
+fd4207b1-66e9-4e3e-905b-6aad7838da1d,CUST0206,Crystal Brown,Female,68,East,PROD052,Economy,Sports,1,Email,188.47,02/06/2024
+268e419a-7f1b-4dad-926f-89a01afa5b89,CUST0211,Alicia Maynard,Male,49,East,PROD033,War,Clothing,2,Email,60.28,11/06/2024
+efb51901-d53e-417d-a371-f84c620c3c88,CUST0217,Mia Hunter,Female,66,South,PROD088,Cell,Groceries,3,Email,673.02,04/06/2024
+ab633307-d971-4d0d-aa25-69fffc4da3eb,CUST0220,Kenneth Cooper,Male,56,North,PROD066,Sea,Home & Kitchen,4,Email,853.16,06/06/2024
+52de2466-caec-4718-8f6f-0c0cf57176ca,CUST0221,Tiffany Collins,Male,19,South,PROD050,Save,Groceries,1,Email,468.72,05/06/2024
+ada56d98-8a7e-4e04-af1c-955801276712,CUST0228,Christopher Gutierrez,Male,19,North,PROD010,Unit,Books,4,Email,1626.34,09/06/2024
+9274a936-4c9e-4df0-838e-0d5da9ae2636,CUST0233,Joshua Collins,Male,49,South,PROD070,Hard,Books,2,Email,554.81,13/06/2024
+63b443f0-eb0e-4b7a-a2e3-3fe492465a5f,CUST0236,Clinton Morris,Male,36,East,PROD090,Huge,Clothing,2,Email,593.98,07/06/2024
+27396e74-4e89-41b2-91f1-e12233066162,CUST0239,Brenda Johnson,Male,43,East,PROD070,Hard,Books,2,Email,652.72,05/06/2024
+8ee62822-b50b-4ede-a631-3e56bf3d2ffa,CUST0240,Eric Wise,Male,49,West,PROD056,Early,Electronics,3,Email,1020.38,10/06/2024
+3bf3e167-26e7-4df9-9ae1-5b2a8f26f136,CUST0240,Eric Wise,Male,49,West,PROD058,Act,Home & Kitchen,5,Email,196.9,03/06/2024
+07fa5bc8-2adc-45fe-957e-9f0fda943ee3,CUST0254,Mr. Douglas Padilla,Male,65,North,PROD003,None,Books,4,Email,590.58,03/06/2024
+80f3610d-5545-49a9-a300-f801adb07fdc,CUST0255,Debra Campbell,Male,33,West,PROD070,Hard,Books,3,Email,881.17,02/06/2024
+077931f1-e992-4c41-9cb0-2c8c2ee46579,CUST0274,Vanessa Elliott,Female,57,South,PROD087,Four,Home & Kitchen,4,Email,1842.24,06/06/2024
+9947e5ed-e618-4c16-b31e-6cbeb5198bab,CUST0277,Dr. Gregory Griffin,Male,57,East,PROD007,Accept,Sports,1,Email,320.18,09/06/2024
+e8137cf9-4d5e-4af5-828a-ba39148d2ee5,CUST0279,Joseph Taylor,Female,28,West,PROD045,Family,Clothing,3,Email,104.6,03/06/2024
+70c0e279-ba69-4e46-985e-5f6cdc5222d4,CUST0281,Kelly Carpenter,Female,42,South,PROD036,Write,Sports,5,Email,1999.85,06/06/2024
+8d6909a3-e54f-44d1-8d08-3b2ed363a71c,CUST0290,Martin Parsons,Male,43,South,PROD004,Many,Sports,2,Email,838.3,12/06/2024
+1291b480-4e64-4563-831c-336e4759af57,CUST0299,Heather Gray,Male,54,North,PROD032,Sport,Sports,1,Email,224.77,31/05/2024
+bba54bf1-bcda-49ca-abea-6c2c6b9107f8,CUST0000,Christina Thomas,Male,56,North,PROD090,Huge,Clothing,5,Social Media,1572.3,28/03/2025
+f681eb86-6d76-40a8-a531-b526b2e34eef,CUST0012,Kimberly Berger,Male,41,South,PROD092,Everything,Home & Kitchen,5,Social Media,1499.29,25/03/2025
+0c4c3c06-037a-4868-a857-a0a2d92caca7,CUST0017,Joe Harrison,Male,39,South,PROD078,Number,Books,5,Social Media,2288.55,17/03/2025
+f20b17fa-f569-4ff6-adc0-55b599511929,CUST0017,Joe Harrison,Male,39,South,PROD064,Until,Electronics,5,Social Media,1182.04,15/03/2025
+03bb7edf-bf56-4c55-900f-e9bfe822989d,CUST0019,Barbara Cook,Female,41,South,PROD050,Save,Groceries,3,Social Media,1406.16,15/03/2025
+6ca22a0a-069f-4a30-b77e-27ed0bd21e64,CUST0019,Barbara Cook,Female,41,South,PROD068,Break,Books,2,Social Media,114.86,21/03/2025
+69a2c55a-8251-4261-9c49-57e3ac62fafa,CUST0020,Tracy Williams,Male,61,South,PROD087,Four,Home & Kitchen,3,Social Media,1236.24,26/03/2025
+32ae652f-506c-460b-af4c-92cc2521f290,CUST0025,Brandon Thompson,Male,50,West,PROD050,Save,Groceries,5,Social Media,2096.91,26/03/2025
+857921c1-d7bf-4982-a5c3-6e745727530e,CUST0026,Dwayne Barry,Male,29,South,PROD036,Write,Sports,5,Social Media,1999.85,14/03/2025
+e26cd19c-f41a-4484-83c1-1f92587780f3,CUST0031,Jose Terrell,Male,44,North,PROD047,Apply,Clothing,5,Social Media,1772.95,23/03/2025
+bec4ce2a-a809-4647-b558-5d639c34fb04,CUST0032,Misty Shelton,Female,59,West,PROD043,More,Groceries,3,Social Media,125.9,22/03/2025
+e163373a-6b0a-4f0d-a45c-d8980d43a5e8,CUST0034,Sheri Weaver,Female,33,South,PROD097,Fire,Clothing,4,Social Media,1901.8,26/03/2025
+ac4738f6-0d7c-4f06-8709-1039fad05910,CUST0037,Kyle Pugh,Male,68,East,PROD090,Huge,Clothing,3,Social Media,995.79,08/03/2025
+09126c87-65a4-4cb0-a109-62d83746feb0,CUST0037,Kyle Pugh,Male,68,East,PROD045,Family,Clothing,5,Social Media,205.1,16/03/2025
+4962ee94-14ca-4777-953f-e5d3f63c4706,CUST0038,Justin Hudson,Female,61,South,PROD085,Black,Clothing,1,Social Media,41.53,12/03/2025
+ee20b090-e17d-4c72-a050-588f03b2c1cf,CUST0040,Ricardo Robertson,Female,20,North,PROD041,Military,Home & Kitchen,3,Social Media,839.75,10/03/2025
+c83ecccd-a6da-4023-9eb6-336f9419190b,CUST0040,Ricardo Robertson,Female,20,North,PROD088,Cell,Groceries,4,Social Media,1002.93,06/03/2025
+6f3f153d-103e-4aa0-8d15-6740c2e6b80a,CUST0041,Tammy Garrison,Female,54,South,PROD047,Apply,Clothing,2,Social Media,709.18,28/03/2025
+79542e98-515b-4d64-9575-50ab02bfe95c,CUST0043,Ian Perez,Male,24,East,PROD098,Will,Home & Kitchen,5,Social Media,2005.56,24/03/2025
+f4438b2b-b430-4b00-84a2-2f4856156dc9,CUST0043,Ian Perez,Male,24,East,PROD074,Nature,Groceries,5,Social Media,857.52,17/03/2025
+fc13284a-7d5d-4927-ac49-183ac5c38f1e,CUST0044,Tiffany Howell,Male,38,East,PROD087,Four,Home & Kitchen,3,Social Media,1308.96,17/03/2025
+0dab0aa3-a713-4db0-bb93-349915a8c470,CUST0047,Henry Johnson,Male,35,East,PROD089,Drug,Electronics,4,Social Media,1266.2,21/03/2025
+e6e1dd75-c09c-4a80-be67-24bfb3740e83,CUST0050,Peter Stewart,Female,31,North,PROD089,Drug,Electronics,1,Social Media,300.72,29/03/2025
+eb839fb1-6109-4d0d-813d-8bff4e32ae86,CUST0054,Matthew Hernandez,Male,19,East,PROD030,Of,Sports,4,Social Media,1425.1,23/03/2025
+173ac9ba-3f27-4e9a-aa59-1ed581d036dc,CUST0055,Connie Soto,Female,37,North,PROD044,Box,Electronics,5,Social Media,1583.91,25/03/2025
+a51abbf4-c87b-4fc8-8f58-87dea9aa6f65,CUST0055,Connie Soto,Female,37,North,PROD087,Four,Home & Kitchen,5,Social Media,2060.4,12/03/2025
+cb979367-2bb4-4d4a-a7ac-4e5bb0cc48b9,CUST0056,Richard Gray,Female,45,North,PROD036,Write,Sports,1,Social Media,422.19,06/03/2025
+14330bcb-f82a-4024-928a-2b9f09b71c14,CUST0056,Richard Gray,Female,45,North,PROD089,Drug,Electronics,2,Social Media,569.79,29/03/2025
+5b6b7405-64ce-4663-8bd4-1099efd3df9a,CUST0058,Elizabeth Allen,Female,24,East,PROD051,Sure,Electronics,4,Social Media,646.88,20/03/2025
+dc23937d-b4df-4eb4-addc-9c10d00edffd,CUST0061,Grace Johnson,Male,64,North,PROD050,Save,Groceries,2,Social Media,838.76,06/03/2025
+e1216826-0222-4473-aaff-e66b2223bb55,CUST0061,Grace Johnson,Male,64,North,PROD089,Drug,Electronics,5,Social Media,1345.34,31/03/2025
+6562dc39-e614-4c07-8a55-c52e6a83305a,CUST0069,Michael Carson,Male,19,East,PROD038,Foot,Groceries,3,Social Media,179.41,29/03/2025
+cc926e95-bcea-4938-b200-28875c14ab86,CUST0069,Michael Carson,Male,19,East,PROD096,Bed,Home & Kitchen,4,Social Media,576.32,29/03/2025
+d2b66940-8641-4ffc-bdb8-5e52e1b3220d,CUST0079,Linda Reed,Female,53,West,PROD017,Time,Groceries,3,Social Media,1223.53,21/03/2025
+bc76b8ca-e79e-4f90-9d03-035dae9d668a,CUST0080,Miss Nicole Walker,Female,31,East,PROD064,Until,Electronics,4,Social Media,846.09,09/03/2025
+11a9b438-8e10-4232-89ee-005d16f118cb,CUST0084,Alyssa Simmons,Male,25,West,PROD056,Early,Electronics,3,Social Media,1077.07,09/03/2025
+6af7feb0-d691-4d35-8698-5b81cfa57366,CUST0084,Alyssa Simmons,Male,25,West,PROD057,Part,Electronics,4,Social Media,688.5,29/03/2025
+bc338307-ced8-458e-910c-46052bd6ea27,CUST0085,Aaron Black,Female,31,South,PROD059,Determine,Groceries,4,Social Media,1324.95,28/03/2025
+83d1d5fa-74dd-473f-9fc8-c5f86a9eb8c5,CUST0087,Rebecca Sweeney MD,Female,57,West,PROD022,Image,Groceries,1,Social Media,245.52,23/03/2025
+6dd457f2-dfa6-415c-9fa0-071e76cea583,CUST0090,Jessica Mcneil,Male,62,East,PROD030,Of,Sports,5,Social Media,1781.37,26/03/2025
+bb88845f-d2c3-462d-98bf-2eadb4c80511,CUST0095,Sheri Ramos,Male,42,West,PROD062,Important,Sports,5,Social Media,2154.84,17/03/2025
+b2c7b2c4-bfb7-4c4a-abb9-cfb0f160b1a8,CUST0095,Sheri Ramos,Male,42,West,PROD025,While,Electronics,5,Social Media,638.09,13/03/2025
+98876af1-2574-4885-86a0-7234e6ac4bf3,CUST0096,Ashley Fuller,Male,62,West,PROD066,Sea,Home & Kitchen,3,Social Media,604.32,24/03/2025
+f91de687-4d7e-4dae-93b9-f20ead73cf08,CUST0097,Kevin Washington,Female,58,South,PROD017,Time,Groceries,1,Social Media,430.5,09/03/2025
+5561088d-c1ea-4d4f-89a9-91b035ff9c26,CUST0102,Marcus Mills,Female,42,East,PROD096,Bed,Home & Kitchen,3,Social Media,389.02,19/03/2025
+b7cefe4a-93b1-47dd-bfd6-3f01f371bf23,CUST0114,Susan Mccarthy,Male,52,West,PROD085,Black,Clothing,5,Social Media,197.27,10/03/2025
+311bfff8-20fd-4a01-adaf-5fbec82be8c8,CUST0114,Susan Mccarthy,Male,52,West,PROD066,Sea,Home & Kitchen,4,Social Media,853.16,21/03/2025
+b540f434-6ace-44d6-a2a1-864feb06bd4e,CUST0118,Steven Taylor,Male,59,West,PROD028,Term,Groceries,2,Social Media,679.37,17/03/2025
+c1fb4b75-81b6-4863-898f-665e36d61c6d,CUST0119,Robert Hampton,Female,56,West,PROD069,Answer,Books,3,Social Media,189.54,08/03/2025
+f28b4396-a128-4adb-b451-0a047863b17c,CUST0120,Tony Herring,Male,58,South,PROD000,Drive,Electronics,1,Social Media,209.25,26/03/2025
+6c43d843-addf-4175-9e57-c9c05896fe99,CUST0121,Rebecca Thornton,Male,45,South,PROD044,Box,Electronics,3,Social Media,1003.14,27/03/2025
+17dbfda4-6b3d-45f9-8cd0-70411b9bab91,CUST0124,Charlene Jackson,Male,25,West,PROD055,Determine,Groceries,5,Social Media,2095.55,12/03/2025
+5efb03df-26fb-4337-9786-ad254c4e9521,CUST0124,Charlene Jackson,Male,25,West,PROD074,Nature,Groceries,1,Social Media,181.03,07/03/2025
+842c28f2-a5f0-477b-bfc7-6e973d067941,CUST0131,Christina Graham,Male,54,West,PROD024,Share,Clothing,1,Social Media,226.98,19/03/2025
+3cab68dc-4f7e-4315-bb37-df28590d76d4,CUST0132,Timothy Stephens,Male,52,South,PROD053,Nothing,Home & Kitchen,4,Social Media,1384.96,22/03/2025
+4dc2a4d8-f41a-40a8-93f4-30255659b950,CUST0137,Stephanie Lopez,Female,52,West,PROD019,Difficult,Sports,4,Social Media,619.63,09/03/2025
+a31bd87a-7f93-430a-8616-d623ecd29ad9,CUST0137,Stephanie Lopez,Female,52,West,PROD063,Or,Books,2,Social Media,120.08,05/03/2025
+3c75bf4e-83fb-4ab3-b902-8c3e8fefd908,CUST0139,Derrick Acevedo,Female,52,West,PROD015,From,Sports,3,Social Media,504.01,10/03/2025
+9aa6a446-5fcb-4213-bba6-a8be073222aa,CUST0144,Sarah Gonzalez,Female,18,West,PROD097,Fire,Clothing,4,Social Media,1616.53,13/03/2025
+a82f27f5-dc18-44ee-99af-211910d54867,CUST0145,Andrea Dixon,Female,22,South,PROD003,None,Books,4,Social Media,694.8,06/03/2025
+ab78869c-0048-457a-8fc0-fbfca0c3ec46,CUST0148,Brittany Gonzalez,Male,56,North,PROD087,Four,Home & Kitchen,3,Social Media,1454.4,05/03/2025
+fa7c5413-70e2-455e-a379-450d6cd0bea3,CUST0156,David Dalton,Male,68,South,PROD072,That,Clothing,5,Social Media,1468.85,20/03/2025
+1ec82ea9-93d0-4dfa-abb4-e12932414811,CUST0160,Destiny Herring,Male,69,South,PROD022,Image,Groceries,4,Social Media,1039.86,14/03/2025
+6573ba2f-a900-451f-8954-9e45a1ad5413,CUST0161,Dr. Christopher Foster MD,Male,49,North,PROD019,Difficult,Sports,4,Social Media,652.24,01/04/2025
+5b8607cc-342a-4697-9d6d-711002c98b00,CUST0162,Shelby Coleman,Female,21,West,PROD080,Whom,Electronics,4,Social Media,1940.36,27/03/2025
+f2e8da69-0a37-484a-b80f-5c86c23d9cde,CUST0163,Dr. Johnny Schroeder DVM,Male,47,West,PROD052,Economy,Sports,4,Social Media,678.49,08/03/2025
+7c0d2a82-0360-4a82-ba88-f29f2bb60a3b,CUST0164,Tara Kirby,Male,54,East,PROD025,While,Electronics,2,Social Media,270.25,16/03/2025
+a349bd8c-2b7f-42b2-a8b5-286e9b7c3c20,CUST0171,Kevin Jackson,Female,53,North,PROD036,Write,Sports,4,Social Media,1510.99,08/03/2025
+dd4d6b30-375a-4ad1-ac69-16d42810d9d8,CUST0171,Kevin Jackson,Female,53,North,PROD008,All,Home & Kitchen,1,Social Media,340.65,12/03/2025
+fd623701-a113-4748-9632-51c091f8ba34,CUST0172,Allison Green,Female,30,West,PROD098,Will,Home & Kitchen,5,Social Media,2116.98,28/03/2025
+5a82ed1f-f78f-4b32-a2c6-0c2bd13ca888,CUST0172,Allison Green,Female,30,West,PROD053,Nothing,Home & Kitchen,5,Social Media,1731.19,26/03/2025
+b811cafd-cb4a-47cd-8fac-d70f99868800,CUST0174,Sandra Robinson,Male,24,North,PROD077,Consumer,Electronics,5,Social Media,491.64,23/03/2025
+9cd6a710-55e6-4f66-bb6a-265ddedb190d,CUST0176,Wendy Carr,Female,39,East,PROD002,Western,Clothing,4,Social Media,1557.28,05/03/2025
+17a31142-6e5d-40d0-9e69-3f0deeaca336,CUST0180,Shannon Larsen,Female,62,West,PROD040,Line,Home & Kitchen,5,Social Media,1718.78,24/03/2025
+ec94c0a9-b2e4-4c6d-9952-5a8b409c2457,CUST0184,Jessica Warren DDS,Female,61,West,PROD090,Huge,Clothing,2,Social Media,628.92,28/03/2025
+ad63fad9-dd07-4184-9d97-b3699c174e96,CUST0185,Jordan Burke,Female,61,North,PROD049,Cut,Clothing,5,Social Media,234.95,27/03/2025
+8d85242e-2fe3-4498-8867-c48beecf2bf2,CUST0189,Willie Rivera,Male,45,South,PROD085,Black,Clothing,5,Social Media,176.5,12/03/2025
+eb954331-4dea-4c25-99f1-c6807f899d43,CUST0191,Joseph Cooper,Male,56,South,PROD032,Sport,Sports,1,Social Media,224.77,15/03/2025
+7c43b22c-b27d-47c3-8420-f8165230cef7,CUST0192,Jonathon White,Female,50,North,PROD098,Will,Home & Kitchen,5,Social Media,2005.56,20/03/2025
+d85add1b-4422-4247-a4cf-8af8fc3e18cd,CUST0196,Mrs. Sheryl Torres,Male,30,West,PROD006,Season,Groceries,1,Social Media,184.75,11/03/2025
+49a5acd6-acab-4aac-8cde-d32bdab98c6e,CUST0198,Richard Johnson,Female,20,West,PROD091,Eat,Electronics,5,Social Media,1150,19/03/2025
+8e10a96b-f404-4d38-a4d3-b2445d1ff993,CUST0203,Suzanne Duran,Male,26,East,PROD094,Left,Home & Kitchen,2,Social Media,902.14,12/03/2025
+704e35a5-0058-4471-94a5-8a01496df153,CUST0205,Ricky Hunt,Female,50,West,PROD010,Unit,Books,5,Social Media,2145.86,09/03/2025
+0aeba422-b6b3-4ff6-8654-9e937abd3930,CUST0206,Crystal Brown,Female,68,East,PROD030,Of,Sports,1,Social Media,336.48,30/03/2025
+a96ae4a3-91ce-40fb-afea-efe65be4f9fb,CUST0208,Shannon Dean,Male,61,West,PROD035,Nature,Clothing,1,Social Media,201.2,31/03/2025
+e0a7dee2-3fbf-487d-8c41-c40a65455176,CUST0211,Alicia Maynard,Male,49,East,PROD082,Beautiful,Sports,5,Social Media,2119.07,12/03/2025
+12c3aeb1-eb95-4c40-a1ac-1e28a9f9f000,CUST0212,Jason Brooks,Female,49,North,PROD089,Drug,Electronics,5,Social Media,1345.34,13/03/2025
+f7d73b99-4a77-4b1b-82ea-3386703bcd7b,CUST0214,Donna Young,Female,58,North,PROD031,Process,Home & Kitchen,2,Social Media,90.27,29/03/2025
+2573e7af-ca66-4957-8615-1368c41b806d,CUST0214,Donna Young,Female,58,North,PROD039,Meeting,Sports,3,Social Media,193.24,16/03/2025
+03e73dcb-e423-4f1e-9b6d-34ce464a702a,CUST0218,Danielle Munoz,Female,69,North,PROD011,Computer,Home & Kitchen,3,Social Media,650.5,28/03/2025
+83b3e5ee-f1d3-4194-b35d-74c1fdf17859,CUST0219,Peter Ball,Female,29,North,PROD071,Trip,Groceries,5,Social Media,1871.45,24/03/2025
+7aad2e16-becc-4196-b787-7d036c3d2111,CUST0220,Kenneth Cooper,Male,56,North,PROD057,Part,Electronics,2,Social Media,325.12,25/03/2025
+0c4d0042-f26e-41d5-9638-92f68fef334e,CUST0220,Kenneth Cooper,Male,56,North,PROD098,Will,Home & Kitchen,2,Social Media,846.79,26/03/2025
+1d2d0566-caff-40b6-941d-27bc6178841f,CUST0227,Brittany Chambers,Male,66,West,PROD048,We,Groceries,1,Social Media,40.74,17/03/2025
+494b88c7-604d-466a-b38e-7b945603601f,CUST0231,Michael Davis,Male,40,East,PROD017,Time,Groceries,2,Social Media,770.37,23/03/2025
+a906689f-737e-4aca-ac80-cce13af4d5f1,CUST0232,Richard Fuller,Male,54,East,PROD016,Budget,Home & Kitchen,5,Social Media,44.03,15/03/2025
+5cabee4c-a4b9-495a-b6b5-f06aaef54928,CUST0236,Clinton Morris,Male,36,East,PROD098,Will,Home & Kitchen,2,Social Media,846.79,31/03/2025
+1c7cd596-0a7d-4ad4-b4b8-a8cbd9c2a7fc,CUST0243,Robert White,Female,21,North,PROD064,Until,Electronics,2,Social Media,497.7,10/03/2025
+3f934e34-883d-4af0-a8d1-8bbf1d8b085b,CUST0247,John Spears,Male,41,North,PROD022,Image,Groceries,4,Social Media,1155.4,23/03/2025
+90b1a00f-dc7b-4843-841c-0d139684fe77,CUST0247,John Spears,Male,41,North,PROD092,Everything,Home & Kitchen,5,Social Media,1420.38,05/03/2025
+b9b6f392-8d43-4c37-aeaf-b065428d47c7,CUST0250,Karen Shelton,Male,51,West,PROD067,Professor,Groceries,5,Social Media,147.92,20/03/2025
+07b412d8-6c5d-4a65-95a3-dad40e8c0289,CUST0254,Mr. Douglas Padilla,Male,65,North,PROD058,Act,Home & Kitchen,5,Social Media,208.48,17/03/2025
+e1b3bb70-68f2-476e-bb42-56f23872a67d,CUST0255,Debra Campbell,Male,33,West,PROD068,Break,Books,4,Social Media,255.24,18/03/2025
+1abb7921-8b04-4933-a68b-18301960d2b4,CUST0256,Mr. Seth Pena,Female,50,West,PROD019,Difficult,Sports,3,Social Media,489.18,22/03/2025
+6b24fe95-6a2b-44ea-bc99-e454cdf60fd1,CUST0260,John Sampson,Female,46,West,PROD099,Officer,Books,2,Social Media,438.04,18/03/2025
+18713e3d-3ce0-4873-a220-6c792a86226b,CUST0261,Michael Bartlett,Male,20,South,PROD051,Sure,Electronics,2,Social Media,342.47,05/03/2025
+c7c51ba6-068f-4e55-9266-cd122485b2db,CUST0266,Julie Smith,Female,20,West,PROD098,Will,Home & Kitchen,3,Social Media,1337.04,11/03/2025
+b9f6655f-689a-4e40-ad67-378a9222fb41,CUST0267,Daniel Clements,Male,36,West,PROD025,While,Electronics,3,Social Media,382.86,30/03/2025
+cdc1343d-1a07-469c-b0c9-27181798b866,CUST0267,Daniel Clements,Male,36,West,PROD058,Act,Home & Kitchen,5,Social Media,220.07,26/03/2025
+0321865c-27dd-4869-a168-681ef14a57d9,CUST0268,Eric Rodriguez,Female,37,East,PROD026,Figure,Sports,2,Social Media,335.38,14/03/2025
+20868d96-d0ed-4ebd-9e60-6df06533f46c,CUST0269,Dr. Erica Jones PhD,Female,49,East,PROD052,Economy,Sports,4,Social Media,753.88,07/03/2025
+03da4bde-b00b-4218-86c7-a32e5e2765a5,CUST0269,Dr. Erica Jones PhD,Female,49,East,PROD021,Financial,Groceries,1,Social Media,475.55,06/03/2025
+1fcf3ca2-331b-4c5f-a9bd-541170b4078a,CUST0281,Kelly Carpenter,Female,42,South,PROD078,Number,Books,1,Social Media,457.71,21/03/2025
+8b9dd187-970c-44a3-86a7-bee665c9fe9d,CUST0282,John Taylor,Male,67,West,PROD052,Economy,Sports,1,Social Media,179.05,25/03/2025
+9fe7e727-5225-455c-bf21-74341b65956b,CUST0286,William Richardson,Male,59,East,PROD009,Everybody,Groceries,5,Social Media,252.22,21/03/2025
+5f4579fa-5534-4d21-8002-ae0bfe938cd6,CUST0287,Katie Beasley,Male,52,East,PROD082,Beautiful,Sports,5,Social Media,2007.54,22/03/2025
+1bd258f3-caca-4368-9c72-130a3517cf7e,CUST0290,Martin Parsons,Male,43,South,PROD078,Number,Books,2,Social Media,915.42,28/03/2025
+b0be5558-9b50-4081-bf4d-b5635085a5c9,CUST0291,Joseph Palmer,Male,65,North,PROD086,Vote,Clothing,3,Social Media,711.86,18/03/2025
+f12c2bd5-8b03-4e7f-838f-4973608b4d9e,CUST0292,Michael Wilkinson,Female,69,South,PROD066,Sea,Home & Kitchen,2,Social Media,402.88,10/03/2025
+e7059465-29de-4a0e-b4e4-900a441f2aea,CUST0293,Ashley Johnson,Male,66,West,PROD071,Trip,Groceries,2,Social Media,636.29,08/03/2025
+e76f29ec-0e41-451d-a85a-ddaa2ed4b3bc,CUST0295,Gina Clark,Male,18,South,PROD097,Fire,Clothing,3,Social Media,1355.03,30/03/2025
+dbb434f4-44bc-4d6c-a008-1aeffa834868,CUST0296,Patrick Cardenas,Female,65,West,PROD029,Responsibility,Electronics,1,Social Media,396.83,19/03/2025
+858d9ec0-07dc-4ad2-96ef-b256cd419d8e,CUST0297,Daniel Valdez,Female,29,West,PROD000,Drive,Electronics,1,Social Media,177.86,08/03/2025
+05fed06a-ebee-4de0-8b64-af56cbbbb0ae,CUST0298,Jessica Mcdaniel,Male,22,West,PROD031,Process,Home & Kitchen,2,Social Media,90.27,09/03/2025
+661a154b-1aa2-4ed2-b494-15eb40465f56,CUST0000,Christina Thomas,Male,56,North,PROD054,Voice,Clothing,2,NULL,900.39,13/05/2024
+217fba73-615f-401a-b40b-d116d6db0a40,CUST0000,Christina Thomas,Male,56,North,PROD027,Country,Clothing,4,NULL,1351.6,10/04/2025
+5c25a16e-9e82-4ca5-9841-bc154ba66b26,CUST0000,Christina Thomas,Male,56,North,PROD006,Season,Groceries,4,NULL,738.99,13/10/2024
+41650dfd-5455-4bfe-9c56-582fea39571d,CUST0000,Christina Thomas,Male,56,North,PROD092,Everything,Home & Kitchen,1,NULL,284.08,20/10/2024
+51fd2918-f456-4019-90a2-40ac454c6a1a,CUST0002,Jerry Velasquez,Female,46,North,PROD090,Huge,Clothing,2,NULL,663.86,13/04/2025
+85f8e787-1318-4599-af99-3e2faa39f969,CUST0003,Ashley Lewis,Male,32,East,PROD026,Figure,Sports,3,NULL,477.92,17/11/2024
+5910c3e4-d95d-45a8-b9dd-7675f74927ac,CUST0003,Ashley Lewis,Male,32,East,PROD033,War,Clothing,4,NULL,127.26,08/05/2024
+0ba20902-ef06-4e5a-bd9b-3f0d88bb0b7f,CUST0003,Ashley Lewis,Male,32,East,PROD050,Save,Groceries,3,NULL,1258.14,16/02/2025
+9ed8d83a-7411-4f74-8af0-fd60495b2b37,CUST0004,Kayla Anderson,Male,60,South,PROD001,Fire,Groceries,3,NULL,567.45,17/02/2025
+d4bb9903-1e56-48d7-a2ef-d4bad275ca68,CUST0004,Kayla Anderson,Male,60,South,PROD047,Apply,Clothing,2,NULL,638.26,13/05/2024
+b13819b7-0278-4dc3-85bc-d224c9338c18,CUST0004,Kayla Anderson,Male,60,South,PROD098,Will,Home & Kitchen,4,NULL,1604.45,29/09/2024
+5ac700d1-d156-4a80-886e-e87201c9fc13,CUST0005,Ellen Holt,Male,25,West,PROD033,War,Clothing,2,NULL,63.63,06/11/2024
+b9aace19-f356-4d5d-9e1b-fff78b92f88a,CUST0005,Ellen Holt,Male,25,West,PROD000,Drive,Electronics,5,NULL,993.94,21/10/2024
+6571b48e-cfda-4bb7-935f-283b38d7c9e6,CUST0006,Monica Brewer,Male,38,South,PROD002,Western,Clothing,5,NULL,1751.94,12/10/2024
+2510c6ee-ce9d-4240-a59c-df92c7f88b75,CUST0006,Monica Brewer,Male,38,South,PROD090,Huge,Clothing,2,NULL,698.8,21/10/2024
+9765a6ce-af8f-453b-a2e3-5e7a4c335a0c,CUST0006,Monica Brewer,Male,38,South,PROD026,Figure,Sports,4,NULL,670.76,18/08/2024
+ca7aec7e-bb87-43aa-8e0d-0a5056d2ead4,CUST0006,Monica Brewer,Male,38,South,PROD058,Act,Home & Kitchen,4,NULL,157.52,22/10/2024
+1e41d0e4-9f53-4ecb-825e-54476369a5c9,CUST0006,Monica Brewer,Male,38,South,PROD052,Economy,Sports,1,NULL,188.47,07/11/2024
+e6a1bc01-53b0-4d98-bc66-4f3813300b79,CUST0007,Hannah Smith,Male,56,North,PROD092,Everything,Home & Kitchen,2,NULL,536.59,26/01/2025
+f967762b-9923-467e-ab7a-bb0dda74e1f4,CUST0007,Hannah Smith,Male,56,North,PROD033,War,Clothing,5,NULL,167.45,29/01/2025
+be887bd3-0964-43a4-9627-89c5035657a4,CUST0007,Hannah Smith,Male,56,North,PROD045,Family,Clothing,2,NULL,73.84,26/04/2024
+f5e03430-0321-48b3-9284-b354f27cd988,CUST0007,Hannah Smith,Male,56,North,PROD094,Left,Home & Kitchen,3,NULL,1217.89,07/08/2024
+fc04922a-a41a-4746-a77a-520099ab0e28,CUST0007,Hannah Smith,Male,56,North,PROD027,Country,Clothing,2,NULL,675.8,18/11/2024
+810c5cd2-a9f4-4cea-a9ed-788978317945,CUST0007,Hannah Smith,Male,56,North,PROD033,War,Clothing,2,NULL,66.98,26/02/2025
+6a2a878c-56ef-4704-b834-3a54534eb28b,CUST0007,Hannah Smith,Male,56,North,PROD021,Financial,Groceries,3,NULL,1426.65,22/10/2024
+c25d4d3a-ca7d-4ec1-bfd2-b0ebbc3a234a,CUST0009,Rebecca Summers,Male,40,East,PROD058,Act,Home & Kitchen,1,NULL,41.7,30/11/2024
+cb726c75-6be9-47d6-8a31-d78d18d287b1,CUST0009,Rebecca Summers,Male,40,East,PROD056,Early,Electronics,3,NULL,963.7,09/04/2025
+c6b72fa5-a28f-4046-b675-6c76d02ff4ee,CUST0009,Rebecca Summers,Male,40,East,PROD086,Vote,Clothing,1,NULL,265.2,20/07/2024
+fc9dc1cc-c4dc-400a-b8a5-307ce32dd907,CUST0009,Rebecca Summers,Male,40,East,PROD064,Until,Electronics,1,NULL,211.52,13/08/2024
+87290639-ab3b-4eee-ad7e-c1cb99109b98,CUST0009,Rebecca Summers,Male,40,East,PROD048,We,Groceries,5,NULL,226.35,21/04/2024
+25941737-be87-4eec-a5f1-50c9a67e996c,CUST0010,Haley Thomas,Male,28,North,PROD006,Season,Groceries,3,NULL,619.45,30/05/2024
+2d84e486-f2ec-4056-a958-3d963c68330e,CUST0010,Haley Thomas,Male,28,North,PROD041,Military,Home & Kitchen,2,NULL,528.73,10/10/2024
+a2933771-5916-4c43-85f0-31016e44c8fd,CUST0011,Victoria Wilson,Male,28,East,PROD043,More,Groceries,1,NULL,44.3,07/08/2024
+5dd70a56-1b9e-409a-975d-5b12c303b898,CUST0012,Kimberly Berger,Male,41,South,PROD048,We,Groceries,2,NULL,90.54,25/02/2025
+cd4fed0d-6d7c-479d-8a38-b3079db5487e,CUST0012,Kimberly Berger,Male,41,South,PROD066,Sea,Home & Kitchen,3,NULL,604.32,25/09/2024
+4b6ad2bf-d85b-4d65-906f-f8947e8dfafc,CUST0012,Kimberly Berger,Male,41,South,PROD022,Image,Groceries,4,NULL,1097.63,05/02/2025
+027af5c7-46b6-4a6f-8a9a-5a9709ed30f5,CUST0013,Sara Davis,Male,53,South,PROD011,Computer,Home & Kitchen,2,NULL,510.2,10/09/2024
+41574f23-76d1-4c5b-a950-fe2b1a3feb89,CUST0013,Sara Davis,Male,53,South,PROD053,Nothing,Home & Kitchen,1,NULL,346.24,07/08/2024
+da6cbaec-50ff-41a6-86f1-a670d275d774,CUST0013,Sara Davis,Male,53,South,PROD083,Environmental,Sports,4,NULL,958.36,13/10/2024
+41be4b01-b6c7-4b58-9248-da3cf0226870,CUST0013,Sara Davis,Male,53,South,PROD097,Fire,Clothing,5,NULL,2139.52,11/02/2025
+b251ffdf-fc88-4b47-b6f9-3ad3b4985e2a,CUST0014,Brian Salazar,Male,57,North,PROD080,Whom,Electronics,5,NULL,2304.18,03/03/2025
+50a0a9ea-0e58-4573-aa99-32098e097b55,CUST0014,Brian Salazar,Male,57,North,PROD061,Long,Clothing,1,NULL,193.49,09/11/2024
+58446475-2694-4a6c-ac75-aa43b0e1e6f5,CUST0014,Brian Salazar,Male,57,North,PROD060,Citizen,Sports,1,NULL,281.41,22/05/2024
+c6d3360d-1b77-4ffb-9318-4cfc4f22ea4d,CUST0015,Barbara Alvarez MD,Male,41,East,PROD063,Or,Books,5,NULL,270.18,09/10/2024
+e5d936c3-91d3-474d-a2d1-1bff313857e7,CUST0015,Barbara Alvarez MD,Male,41,East,PROD055,Determine,Groceries,2,NULL,838.22,18/05/2024
+eab13ad6-47d2-45ca-8a73-9cbfeed01535,CUST0015,Barbara Alvarez MD,Male,41,East,PROD071,Trip,Groceries,3,NULL,1066.73,18/05/2024
+4664ed51-892c-4261-805a-04fb79b9f408,CUST0016,Gregory Hill,Female,20,West,PROD034,Everything,Clothing,4,NULL,1108.08,03/02/2025
+afab266a-fe20-4083-91a0-6e29d9294a1a,CUST0018,Roberta Curtis,Female,19,South,PROD016,Budget,Home & Kitchen,5,NULL,46.62,21/10/2024
+061a2547-d4d2-4b78-8871-069b13ee9b96,CUST0018,Roberta Curtis,Female,19,South,PROD037,Force,Books,2,NULL,357.4,01/10/2024
+3582c6f7-5597-460c-a119-00abe9c56ee7,CUST0018,Roberta Curtis,Female,19,South,PROD074,Nature,Groceries,5,NULL,905.16,04/02/2025
+4b2579e8-9498-4e5f-80ad-8beb5318c5cb,CUST0018,Roberta Curtis,Female,19,South,PROD088,Cell,Groceries,5,NULL,1187.69,23/08/2024
+c61f18af-10ec-4444-9696-8ada92cad64a,CUST0018,Roberta Curtis,Female,19,South,PROD043,More,Groceries,1,NULL,41.97,09/10/2024
+23050f11-8125-4bd5-9da4-e4139a105db7,CUST0019,Barbara Cook,Female,41,South,PROD001,Fire,Groceries,3,NULL,567.45,09/10/2024
+1d087c0e-1235-4187-9a66-fd6ae79bf7c3,CUST0019,Barbara Cook,Female,41,South,PROD022,Image,Groceries,3,NULL,736.57,30/08/2024
+25b0519c-a540-49c7-8d53-829a702ea561,CUST0021,Kimberly Solomon,Male,47,West,PROD036,Write,Sports,1,NULL,399.97,02/04/2025
+dc753e38-a810-45de-b387-ba4ad57482b3,CUST0021,Kimberly Solomon,Male,47,West,PROD054,Voice,Clothing,1,NULL,402.81,19/11/2024
+80e05784-c055-4d1c-9c51-6b3cb2d93ffe,CUST0021,Kimberly Solomon,Male,47,West,PROD000,Drive,Electronics,5,NULL,889.31,21/10/2024
+94b7ad45-31ed-4e25-9a90-60b8fef80cf1,CUST0021,Kimberly Solomon,Male,47,West,PROD031,Process,Home & Kitchen,5,NULL,213.14,21/10/2024
+93c7ee4e-2067-46a2-9f88-520545048b32,CUST0021,Kimberly Solomon,Male,47,West,PROD051,Sure,Electronics,1,NULL,180.75,04/05/2024
+357aa579-33f1-43b2-b3e4-d00ccaea0ff7,CUST0022,Tina Mclean,Female,55,North,PROD040,Line,Home & Kitchen,4,NULL,1298.63,03/04/2025
+972cff7b-3674-4b49-a52b-e39f4be0ba9a,CUST0023,James Nicholson,Female,19,South,PROD082,Beautiful,Sports,5,NULL,2007.54,02/05/2024
+75422286-9d11-4184-adf9-b67a8ad4bbec,CUST0023,James Nicholson,Female,19,South,PROD051,Sure,Electronics,1,NULL,180.75,28/04/2024
+58186f7b-96d6-4d09-bbf0-88ca46373988,CUST0024,Joyce Jones,Female,38,East,PROD084,Act,Electronics,1,NULL,496.52,09/09/2024
+46cb52da-b4f0-479f-b5ba-e9238c3bf2bb,CUST0024,Joyce Jones,Female,38,East,PROD048,We,Groceries,4,NULL,153.92,07/11/2024
+6b54008f-e272-439e-a0d0-f4d1b7ac39fa,CUST0025,Brandon Thompson,Male,50,West,PROD095,Couple,Home & Kitchen,4,NULL,99,22/05/2024
+799ad7d1-eb0d-4aa8-ac95-f48744c352ad,CUST0025,Brandon Thompson,Male,50,West,PROD068,Break,Books,1,NULL,60.62,27/09/2024
+d00ab6db-0033-4515-b8b3-865945d26ccf,CUST0026,Dwayne Barry,Male,29,South,PROD019,Difficult,Sports,2,NULL,326.12,02/12/2024
+122701e2-d704-48a4-b2a2-babc641bd76a,CUST0027,Nichole Hawkins,Female,39,East,PROD059,Determine,Groceries,1,NULL,389.69,21/05/2024
+3703f09d-fa53-4f6d-9e66-0e863fe2c149,CUST0027,Nichole Hawkins,Female,39,East,PROD043,More,Groceries,5,NULL,233.15,25/11/2024
+5a48b1ea-46b1-48f6-8740-aa897f770f29,CUST0028,Omar Jones,Male,61,South,PROD065,Use,Electronics,2,NULL,21.24,01/10/2024
+1ad96510-3083-48fe-a8a1-57e8f58a452e,CUST0028,Omar Jones,Male,61,South,PROD025,While,Electronics,3,NULL,427.9,31/10/2024
+cf6624bb-171f-46d2-afcf-5d4f31f99b70,CUST0029,Thomas Sharp,Male,42,North,PROD047,Apply,Clothing,3,NULL,1063.77,04/04/2025
+b417e5a4-c35b-485c-8f47-e3e82b874a71,CUST0030,Cheryl May,Female,66,West,PROD021,Financial,Groceries,3,NULL,1283.99,09/08/2024
+c528d385-96f1-4b63-9088-84ed78e6362f,CUST0030,Cheryl May,Female,66,West,PROD050,Save,Groceries,5,NULL,2220.26,14/08/2024
+dfd823dd-b6fb-43b2-b51f-b2a33bbd3027,CUST0030,Cheryl May,Female,66,West,PROD007,Accept,Sports,3,NULL,1073.54,20/05/2024
+2e85cf6a-54a1-43c5-9cf7-122138f2b615,CUST0030,Cheryl May,Female,66,West,PROD033,War,Clothing,3,NULL,95.45,04/03/2025
+d7d37883-1816-46c7-b127-569a25f17451,CUST0031,Jose Terrell,Male,44,North,PROD050,Save,Groceries,3,NULL,1406.16,09/10/2024
+9611e5bc-747b-4b00-a47b-90e11a9b72d7,CUST0031,Jose Terrell,Male,44,North,PROD061,Long,Clothing,4,NULL,730.97,23/02/2025
+edac2092-62c0-40ab-8b2b-267a5d1339fa,CUST0031,Jose Terrell,Male,44,North,PROD090,Huge,Clothing,2,NULL,663.86,04/02/2025
+c8bd7507-5643-4050-b148-e50a767e3f7b,CUST0031,Jose Terrell,Male,44,North,PROD085,Black,Clothing,1,NULL,35.3,15/11/2024
+8ed699ba-d0e4-49f3-9224-498173992baa,CUST0031,Jose Terrell,Male,44,North,PROD011,Computer,Home & Kitchen,3,NULL,650.5,15/05/2024
+2bb3300d-4340-4982-a2a9-29ddca91fd81,CUST0031,Jose Terrell,Male,44,North,PROD088,Cell,Groceries,3,NULL,752.2,12/04/2025
+cf392d9f-4a73-44fe-8982-c3b78f0ed7c0,CUST0031,Jose Terrell,Male,44,North,PROD080,Whom,Electronics,3,NULL,1236.98,16/10/2024
+6dab3f77-aa63-48cb-8642-8c6ff875dcd1,CUST0031,Jose Terrell,Male,44,North,PROD048,We,Groceries,4,NULL,162.97,28/02/2025
+cb731855-2c18-4f98-9ea0-164d941d769c,CUST0032,Misty Shelton,Female,59,West,PROD060,Citizen,Sports,4,NULL,1013.08,22/11/2024
+6f311e2f-de42-4e95-9dae-8478fa52f559,CUST0032,Misty Shelton,Female,59,West,PROD014,Including,Books,4,NULL,1793.12,03/04/2025
+68fb5f1a-46c4-4f14-af82-c0dd6c13ed19,CUST0032,Misty Shelton,Female,59,West,PROD013,On,Groceries,1,NULL,138.91,04/02/2025
+e8f37709-01a6-4f95-9f3f-da9b72bb6663,CUST0033,Jacob Nguyen,Female,45,South,PROD016,Budget,Home & Kitchen,3,NULL,27.97,25/05/2024
+3739989d-59b0-45fa-9c32-b6cd0c1d7ecd,CUST0033,Jacob Nguyen,Female,45,South,PROD060,Citizen,Sports,1,NULL,253.27,01/12/2024
+34b61828-ef5b-4f27-994d-2f2f16ffb661,CUST0034,Sheri Weaver,Female,33,South,PROD038,Foot,Groceries,1,NULL,62.95,26/05/2024
+62328e35-08eb-47a0-801c-1bf35f4d0b80,CUST0034,Sheri Weaver,Female,33,South,PROD048,We,Groceries,2,NULL,86.01,01/02/2025
+bb401d3b-6047-4bba-b7a4-4b5478c22079,CUST0034,Sheri Weaver,Female,33,South,PROD039,Meeting,Sports,3,NULL,204.61,14/04/2025
+e713456b-19b4-431c-af52-af2dcc5b577a,CUST0035,Justin Turner,Male,32,West,PROD035,Nature,Clothing,4,NULL,804.82,09/08/2024
+31e24245-2014-454a-8857-84fa55dc1d7b,CUST0035,Justin Turner,Male,32,West,PROD030,Of,Sports,3,NULL,1128.2,21/05/2024
+eedcbd30-7cf5-4346-9dfe-0eb8009a5045,CUST0035,Justin Turner,Male,32,West,PROD059,Determine,Groceries,3,NULL,1052.16,20/08/2024
+ce24becf-6ebf-414f-82b3-8c7f3d09a639,CUST0035,Justin Turner,Male,32,West,PROD029,Responsibility,Electronics,4,NULL,1349.22,23/02/2025
+b6db7359-461d-48e0-b8cc-5b4e3265b842,CUST0036,Nancy Mora,Female,64,East,PROD087,Four,Home & Kitchen,2,NULL,872.64,07/02/2025
+8e5c0d43-4050-4da1-9888-e50faab1b2b3,CUST0036,Nancy Mora,Female,64,East,PROD050,Save,Groceries,1,NULL,419.38,04/02/2025
+dd48bcac-94ea-462e-971b-02dffbc81c0e,CUST0036,Nancy Mora,Female,64,East,PROD029,Responsibility,Electronics,4,NULL,1587.32,13/07/2024
+533d9dd2-e0cc-49c7-a1d4-2283cd4067bc,CUST0036,Nancy Mora,Female,64,East,PROD010,Unit,Books,2,NULL,813.17,25/10/2024
+955ef6bd-13e4-4c9c-ba43-e7c8430e7fa2,CUST0036,Nancy Mora,Female,64,East,PROD038,Foot,Groceries,1,NULL,59.8,09/04/2025
+1a1e331a-a5af-47ed-90d2-6ed14c4e8467,CUST0037,Kyle Pugh,Male,68,East,PROD056,Early,Electronics,3,NULL,1020.38,05/05/2024
+796cbf34-11ae-4b36-98b0-a4f033a66e4d,CUST0037,Kyle Pugh,Male,68,East,PROD024,Share,Clothing,5,NULL,1078.15,21/04/2025
+806b7872-6764-4c2c-b78c-4d31993b15e2,CUST0037,Kyle Pugh,Male,68,East,PROD047,Apply,Clothing,4,NULL,1418.36,11/05/2024
+2e814a89-e5e8-4c11-8eb9-b1ac9791126c,CUST0038,Justin Hudson,Female,61,South,PROD002,Western,Clothing,1,NULL,369.85,24/05/2024
+1ca55fc4-13b1-4ceb-9e59-14d717157fa3,CUST0038,Justin Hudson,Female,61,South,PROD023,Ok,Groceries,2,NULL,635.52,08/10/2024
+acdb8e13-e786-44d8-a867-a403fe6bbb0f,CUST0039,Samuel Kelly,Male,69,South,PROD066,Sea,Home & Kitchen,3,NULL,604.32,15/05/2024
+55ff7f8e-d3f1-40e5-aaac-b7848e9b0598,CUST0040,Ricardo Robertson,Female,20,North,PROD064,Until,Electronics,3,NULL,746.55,21/08/2024
+93819a9c-7cb8-48b1-81ae-f45186459cf6,CUST0040,Ricardo Robertson,Female,20,North,PROD086,Vote,Clothing,4,NULL,1116.64,26/01/2025
+cccb91d1-26ef-4783-a5df-ef06a8d76e6a,CUST0041,Tammy Garrison,Female,54,South,PROD041,Military,Home & Kitchen,5,NULL,1477.34,17/11/2024
+76d7a13d-08f7-4010-924a-cc63bea3f596,CUST0041,Tammy Garrison,Female,54,South,PROD034,Everything,Clothing,4,NULL,941.87,10/09/2024
+cb849d3b-0ff0-442c-b201-82002f682d73,CUST0041,Tammy Garrison,Female,54,South,PROD035,Nature,Clothing,2,NULL,424.76,11/02/2025
+d3f404ec-5b07-475d-880f-219f70c7eabb,CUST0043,Ian Perez,Male,24,East,PROD067,Professor,Groceries,3,NULL,98.61,07/05/2024
+773b07e0-b2e5-4d67-a79c-7d78d1b5a49a,CUST0043,Ian Perez,Male,24,East,PROD014,Including,Books,2,NULL,806.9,02/04/2025
+ca7d7124-f646-47d6-85ae-d8014f3fb0fd,CUST0043,Ian Perez,Male,24,East,PROD017,Time,Groceries,4,NULL,1540.74,21/08/2024
+3bef1ff9-96f1-4a06-a79e-2443ea6a2d63,CUST0043,Ian Perez,Male,24,East,PROD018,Story,Groceries,5,NULL,238.4,16/04/2025
+4bde58c0-6787-45e6-9652-3d5fde551d08,CUST0044,Tiffany Howell,Male,38,East,PROD035,Nature,Clothing,4,NULL,804.82,11/08/2024
+ced7b94f-4918-4af0-94e2-e1ba7ad4e551,CUST0045,Alexis Moss,Male,26,North,PROD090,Huge,Clothing,3,NULL,890.97,30/11/2024
+595a9258-f7cd-4ace-9439-a32fc5a988d2,CUST0045,Alexis Moss,Male,26,North,PROD008,All,Home & Kitchen,3,NULL,1078.72,26/10/2024
+dbf2c22e-4b6a-44fb-952e-5a56d08b040d,CUST0045,Alexis Moss,Male,26,North,PROD056,Early,Electronics,3,NULL,1020.38,03/11/2024
+3889e3e2-645f-4dd0-8d57-ae49ad3d026c,CUST0046,Cody Conner,Female,56,East,PROD060,Citizen,Sports,3,NULL,717.6,25/02/2025
+0bcd9536-c739-4ac0-9805-e22cf65b491d,CUST0046,Cody Conner,Female,56,East,PROD055,Determine,Groceries,1,NULL,493.07,07/02/2025
+4aede117-21bb-40cf-be7b-5bba984fa14b,CUST0046,Cody Conner,Female,56,East,PROD028,Term,Groceries,4,NULL,1358.75,30/11/2024
+4641669d-189a-48c7-a5be-2bfe7173ab74,CUST0046,Cody Conner,Female,56,East,PROD050,Save,Groceries,5,NULL,2096.91,23/10/2024
+a2204588-75c3-4a1c-b9f0-484766f1d7cb,CUST0046,Cody Conner,Female,56,East,PROD000,Drive,Electronics,3,NULL,533.59,17/08/2024
+5f591b9e-a5b4-4773-a245-c0b08788a4c5,CUST0046,Cody Conner,Female,56,East,PROD099,Officer,Books,5,NULL,1152.75,22/04/2024
+1045334b-796d-46d5-9195-8a34eca41048,CUST0046,Cody Conner,Female,56,East,PROD077,Consumer,Electronics,5,NULL,520.56,28/02/2025
+bef6dbe1-fcd6-4e15-a300-255993adebcb,CUST0046,Cody Conner,Female,56,East,PROD092,Everything,Home & Kitchen,5,NULL,1578.2,14/05/2024
+4e80ccbe-54c0-4380-9523-1ee86c616659,CUST0047,Henry Johnson,Male,35,East,PROD051,Sure,Electronics,4,NULL,646.88,19/04/2025
+f8df445c-63e2-4dda-b53a-69a472c23b4c,CUST0047,Henry Johnson,Male,35,East,PROD051,Sure,Electronics,5,NULL,856.17,03/04/2025
+9f73ff0d-c307-4e6f-9cee-4dbc334f4f9b,CUST0047,Henry Johnson,Male,35,East,PROD044,Box,Electronics,2,NULL,668.76,16/08/2024
+da0c0fe4-5d93-4fda-bbff-d5be755bf052,CUST0047,Henry Johnson,Male,35,East,PROD007,Accept,Sports,5,NULL,1789.23,06/10/2024
+ef9f1140-5821-477d-a342-ad15735dc618,CUST0048,Laura Roberts,Male,21,West,PROD040,Line,Home & Kitchen,4,NULL,1375.02,12/09/2024
+5d96ed56-6e3b-4372-93ed-8d204029ae0e,CUST0048,Laura Roberts,Male,21,West,PROD059,Determine,Groceries,1,NULL,370.21,03/05/2024
+9fd1e441-be6b-4f8d-a44e-269f53891ca9,CUST0048,Laura Roberts,Male,21,West,PROD004,Many,Sports,4,NULL,1676.59,12/07/2024
+4cd482f4-51e8-4759-b7f6-a0aad781b238,CUST0049,Elizabeth Wright,Male,42,East,PROD006,Season,Groceries,3,NULL,554.24,09/10/2024
+57ab43a5-647a-43f8-8e2f-f917a5f31b0f,CUST0049,Elizabeth Wright,Male,42,East,PROD058,Act,Home & Kitchen,5,NULL,220.07,16/05/2024
+262b8df6-8816-4677-b790-f4277ccc0954,CUST0050,Peter Stewart,Female,31,North,PROD097,Fire,Clothing,2,NULL,903.35,14/11/2024
+460cdbd9-642e-4174-853e-2f5dd22cbdcf,CUST0050,Peter Stewart,Female,31,North,PROD055,Determine,Groceries,2,NULL,986.14,02/11/2024
+2f8f5bb4-4890-46bd-b5c6-7b179e20da4e,CUST0050,Peter Stewart,Female,31,North,PROD080,Whom,Electronics,4,NULL,1940.36,16/10/2024
+55b24444-0016-4787-8f78-afb7c43de285,CUST0050,Peter Stewart,Female,31,North,PROD025,While,Electronics,5,NULL,638.09,29/04/2024
+bf93da97-29ee-4622-a3de-85c485572e9f,CUST0050,Peter Stewart,Female,31,North,PROD004,Many,Sports,5,NULL,1979.31,28/02/2025
+747c377d-6922-4601-87bb-bd3f41fff94f,CUST0050,Peter Stewart,Female,31,North,PROD032,Sport,Sports,5,NULL,1061.4,28/09/2024
+e5021c4a-ce35-4c2d-82dc-ceead1dff5a8,CUST0051,Luke Rocha,Female,67,North,PROD056,Early,Electronics,1,NULL,321.23,25/01/2025
+d75d3e4a-1334-4eaa-a909-5fe15e089131,CUST0051,Luke Rocha,Female,67,North,PROD061,Long,Clothing,5,NULL,1021.2,02/02/2025
+3caa51cc-d726-4869-af54-71f1ec7fa867,CUST0051,Luke Rocha,Female,67,North,PROD022,Image,Groceries,1,NULL,259.97,29/04/2024
+e8c4a571-7334-4dee-ae5b-264c3e498f51,CUST0052,Stephen Johnson,Female,26,East,PROD018,Story,Groceries,3,NULL,143.04,04/05/2024
+cf78c458-7bc8-4cfd-9018-882068820078,CUST0052,Stephen Johnson,Female,26,East,PROD003,None,Books,1,NULL,156.33,21/04/2025
+8f0dd858-9caf-4fc5-a2b1-2a00a8407dff,CUST0052,Stephen Johnson,Female,26,East,PROD078,Number,Books,5,NULL,2288.55,14/11/2024
+4487e0e5-6b68-4fe1-8562-2b5da97dff93,CUST0052,Stephen Johnson,Female,26,East,PROD090,Huge,Clothing,5,NULL,1572.3,04/04/2025
+f2ed0095-353f-44f2-ad54-da418065c9a9,CUST0052,Stephen Johnson,Female,26,East,PROD012,Nature,Home & Kitchen,1,NULL,351.98,26/09/2024
+135af88b-53dc-4e9f-82af-d033d1483de7,CUST0052,Stephen Johnson,Female,26,East,PROD036,Write,Sports,3,NULL,1266.57,11/09/2024
+b47969ce-4ae0-4a74-b20f-af7a65d72513,CUST0053,Taylor Smith,Female,43,South,PROD026,Figure,Sports,5,NULL,796.53,26/02/2025
+9b8207c2-3c62-46c6-89be-744f6924c36c,CUST0053,Taylor Smith,Female,43,South,PROD009,Everybody,Groceries,3,NULL,159.74,24/04/2024
+9d748bc8-f7fe-4ff7-887d-2a5d17f6d867,CUST0053,Taylor Smith,Female,43,South,PROD026,Figure,Sports,5,NULL,712.68,28/11/2024
+1b45f2ad-6f2c-4184-8172-c2fd505769f9,CUST0054,Matthew Hernandez,Male,19,East,PROD098,Will,Home & Kitchen,5,NULL,2005.56,23/05/2024
+dcd0836b-7516-4951-a31b-1ac79fd92486,CUST0055,Connie Soto,Female,37,North,PROD078,Number,Books,5,NULL,2288.55,05/10/2024
+b5da2336-1462-4b89-af26-e39f45676ac7,CUST0055,Connie Soto,Female,37,North,PROD098,Will,Home & Kitchen,2,NULL,802.22,30/10/2024
+d0a6f1b2-a0c2-4938-8b4e-f56eb74290e5,CUST0055,Connie Soto,Female,37,North,PROD073,Note,Electronics,5,NULL,2406.4,11/11/2024
+59284492-6410-4dde-87c1-c1be1168cc63,CUST0056,Richard Gray,Female,45,North,PROD099,Officer,Books,3,NULL,657.07,08/10/2024
+4cc08e0d-fbc7-49e8-a771-28453f701429,CUST0056,Richard Gray,Female,45,North,PROD073,Note,Electronics,4,NULL,1828.86,08/02/2025
+8967f8c5-1a56-4656-bca0-cf422e4e54b2,CUST0056,Richard Gray,Female,45,North,PROD012,Nature,Home & Kitchen,5,NULL,2070.5,01/11/2024
+bb2be3fd-9257-4b17-889b-3a60b2d2446d,CUST0056,Richard Gray,Female,45,North,PROD039,Meeting,Sports,4,NULL,257.65,16/05/2024
+1bdf7688-a589-4c4d-80a6-bcb9312ea9d1,CUST0057,Danny King,Male,64,West,PROD085,Black,Clothing,4,NULL,141.2,29/04/2024
+24b66164-5efe-4621-9907-95734e85e324,CUST0058,Elizabeth Allen,Female,24,East,PROD059,Determine,Groceries,1,NULL,370.21,10/04/2025
+484fe5f0-d38e-4bc4-b5c2-10708ad354f7,CUST0058,Elizabeth Allen,Female,24,East,PROD097,Fire,Clothing,3,NULL,1355.03,13/07/2024
+3e811404-faec-42fe-aa88-f13a8bc491f1,CUST0058,Elizabeth Allen,Female,24,East,PROD075,Someone,Books,5,NULL,622.33,11/04/2025
+f6f65f8d-6fe7-4487-9b2e-74a75cb90dff,CUST0059,Tony Swanson,Male,61,East,PROD087,Four,Home & Kitchen,2,NULL,824.16,07/08/2024
+c7771f46-7a5a-4d88-bd11-b6866ceaf3c7,CUST0059,Tony Swanson,Male,61,East,PROD012,Nature,Home & Kitchen,1,NULL,414.1,14/07/2024
+db93bc63-de93-4f77-a5c3-e27a8f544998,CUST0059,Tony Swanson,Male,61,East,PROD096,Bed,Home & Kitchen,3,NULL,389.02,27/05/2024
+f8f971eb-d7ba-4bc6-bc26-9b8db62032fa,CUST0060,Jennifer Sheppard,Male,25,West,PROD016,Budget,Home & Kitchen,1,NULL,8.81,06/09/2024
+09c444b9-09f3-432f-997e-83cfd00627fc,CUST0060,Jennifer Sheppard,Male,25,West,PROD098,Will,Home & Kitchen,1,NULL,401.11,21/08/2024
+dfdc90bb-32fc-4847-9ddc-192b8b61520c,CUST0060,Jennifer Sheppard,Male,25,West,PROD034,Everything,Clothing,2,NULL,526.34,07/02/2025
+ffe0f7e0-0f94-44a7-85ec-e70191cf2e92,CUST0061,Grace Johnson,Male,64,North,PROD096,Bed,Home & Kitchen,4,NULL,547.5,20/05/2024
+69c6662a-433b-49f7-bcae-480760234b3a,CUST0062,Dawn Turner,Male,52,West,PROD058,Act,Home & Kitchen,1,NULL,44.01,02/02/2025
+68b3e267-fa30-4ec5-b59d-0872595fbe73,CUST0062,Dawn Turner,Male,52,West,PROD052,Economy,Sports,3,NULL,480.6,08/05/2024
+11fb6024-1089-439c-a5b5-afbb499244ae,CUST0062,Dawn Turner,Male,52,West,PROD073,Note,Electronics,5,NULL,2045.44,10/11/2024
+6b05d391-5a6d-49cc-b52c-c075ed1c454b,CUST0062,Dawn Turner,Male,52,West,PROD001,Fire,Groceries,1,NULL,179.69,21/05/2024
+7b6fb88f-d6b3-4bf6-97ca-e6314067e2da,CUST0062,Dawn Turner,Male,52,West,PROD090,Huge,Clothing,1,NULL,349.4,24/02/2025
+9c6b31ec-25c2-4101-9872-0c7ca9b4e87f,CUST0063,Philip Jarvis,Female,31,South,PROD066,Sea,Home & Kitchen,2,NULL,426.58,12/04/2025
+3f0118da-0bae-4023-952a-9e26696c9fa5,CUST0063,Philip Jarvis,Female,31,South,PROD075,Someone,Books,4,NULL,527.15,18/02/2025
+0251ebf9-7f5c-4037-a8f9-e69d05ae01be,CUST0063,Philip Jarvis,Female,31,South,PROD087,Four,Home & Kitchen,1,NULL,460.56,15/02/2025
+7a1ff06c-07aa-4d7c-b0a4-fc52b4b955e2,CUST0063,Philip Jarvis,Female,31,South,PROD046,Low,Groceries,1,NULL,350.05,10/04/2025
+442aa12f-3fda-4cd4-b740-c1155384d000,CUST0064,Kyle Mccarthy,Female,34,East,PROD094,Left,Home & Kitchen,4,NULL,1804.28,24/05/2024
+9ca250b5-2c2d-47e1-87c2-73d0abe1edbb,CUST0064,Kyle Mccarthy,Female,34,East,PROD008,All,Home & Kitchen,2,NULL,681.3,13/11/2024
+3f3da1e8-4757-4731-8c8f-84a9c3ca8c47,CUST0064,Kyle Mccarthy,Female,34,East,PROD040,Line,Home & Kitchen,1,NULL,324.66,02/04/2025
+4345edec-b686-4329-8346-18d6654f267a,CUST0064,Kyle Mccarthy,Female,34,East,PROD080,Whom,Electronics,3,NULL,1455.27,20/10/2024
+5b7cd3d1-8dac-4cca-b656-53d3e52145e6,CUST0064,Kyle Mccarthy,Female,34,East,PROD093,Movie,Books,2,NULL,529.63,22/04/2024
+8542eb2f-d1d9-47de-a4c8-300386db2bda,CUST0065,Harold Moore,Female,53,North,PROD013,On,Groceries,4,NULL,588.31,18/02/2025
+113a6c9d-6859-4c8f-814a-98f191283bbe,CUST0065,Harold Moore,Female,53,North,PROD073,Note,Electronics,5,NULL,2286.08,22/11/2024
+88067b13-246f-4507-aef3-f70fc0a19b64,CUST0066,Stephen Leon,Male,67,West,PROD025,While,Electronics,4,NULL,540.5,23/02/2025
+2a3faf38-0ccf-4b0d-a1bd-caf46eb79511,CUST0066,Stephen Leon,Male,67,West,PROD013,On,Groceries,4,NULL,588.31,04/04/2025
+4ca79d27-1bd3-4189-9f90-634ff9b275a1,CUST0066,Stephen Leon,Male,67,West,PROD061,Long,Clothing,4,NULL,859.96,17/11/2024
+5ffa819d-934e-4c5e-bc7d-2f416203e5a4,CUST0066,Stephen Leon,Male,67,West,PROD097,Fire,Clothing,2,NULL,808.26,08/08/2024
+6ad3bdef-104d-42dc-84c8-3d601e35185a,CUST0066,Stephen Leon,Male,67,West,PROD078,Number,Books,5,NULL,2047.65,05/05/2024
+c4729220-e417-4ae0-aacd-86557fedcf2b,CUST0066,Stephen Leon,Male,67,West,PROD048,We,Groceries,5,NULL,215.03,13/02/2025
+b6bcce42-6a17-49c2-a62a-9661a233b5c6,CUST0067,Jennifer Clark,Female,57,North,PROD011,Computer,Home & Kitchen,3,NULL,688.77,14/06/2024
+ec8f75ed-8f53-48e1-9848-2cefd7f608b0,CUST0067,Jennifer Clark,Female,57,North,PROD011,Computer,Home & Kitchen,2,NULL,433.67,29/04/2024
+fe58baae-e983-4286-8a0b-893a0c45098b,CUST0067,Jennifer Clark,Female,57,North,PROD075,Someone,Books,2,NULL,248.93,07/11/2024
+551a6d42-89a5-407d-bbb8-2845977bd70b,CUST0067,Jennifer Clark,Female,57,North,PROD027,Country,Clothing,1,NULL,321,03/09/2024
+e99b9e26-47f2-435d-9a27-1e0657735710,CUST0067,Jennifer Clark,Female,57,North,PROD090,Huge,Clothing,2,NULL,628.92,15/05/2024
+c7a8d189-b665-4bc6-b413-789225d5fdfd,CUST0067,Jennifer Clark,Female,57,North,PROD013,On,Groceries,1,NULL,155.25,13/07/2024
+960fad7b-21d3-4fef-8b58-ccf332cb7921,CUST0067,Jennifer Clark,Female,57,North,PROD043,More,Groceries,1,NULL,39.64,28/04/2024
+3adc6369-58ee-45d3-bc38-342d601fe179,CUST0067,Jennifer Clark,Female,57,North,PROD078,Number,Books,3,NULL,1300.86,15/06/2024
+5028e2e0-b31c-44ab-b6d1-f18168f1de39,CUST0068,Sandra Walker,Male,21,South,PROD064,Until,Electronics,4,NULL,895.86,10/02/2025
+15a7e39a-f86c-4ca0-a96f-6fe70e3ff9e2,CUST0068,Sandra Walker,Male,21,South,PROD040,Line,Home & Kitchen,1,NULL,362.85,27/09/2024
+227c8ccc-75df-4d1c-a376-b5de2e2eb302,CUST0068,Sandra Walker,Male,21,South,PROD059,Determine,Groceries,5,NULL,1948.45,16/07/2024
+9787860e-370a-4a79-a24f-7cfaa841c799,CUST0069,Michael Carson,Male,19,East,PROD098,Will,Home & Kitchen,4,NULL,1604.45,05/10/2024
+025bea6c-55c5-4c0c-b7ff-137fe86a128f,CUST0069,Michael Carson,Male,19,East,PROD089,Drug,Electronics,5,NULL,1503.61,18/11/2024
+ba70a4df-8f73-4899-9247-4fef356e626b,CUST0069,Michael Carson,Male,19,East,PROD037,Force,Books,1,NULL,151.89,02/09/2024
+a28ecbbd-d4ee-41b9-ad27-cb4b5397ebfe,CUST0070,John Nelson,Male,23,West,PROD080,Whom,Electronics,1,NULL,485.09,13/02/2025
+c40b6903-a572-4edb-893e-fb7bced1a300,CUST0070,John Nelson,Male,23,West,PROD097,Fire,Clothing,3,NULL,1283.71,25/08/2024
+72b6ac26-a903-4ae8-8643-da02df9f8055,CUST0070,John Nelson,Male,23,West,PROD004,Many,Sports,3,NULL,1187.59,22/11/2024
+d62d916d-6b4f-477b-b851-ca9c608ea0f9,CUST0070,John Nelson,Male,23,West,PROD091,Eat,Electronics,3,NULL,586.5,14/08/2024
+e6d4f0ab-f726-429d-8776-465f696bbc1d,CUST0070,John Nelson,Male,23,West,PROD000,Drive,Electronics,5,NULL,993.94,02/02/2025
+2dd4fe80-cd0b-4301-8ccc-fccbbcf9d672,CUST0070,John Nelson,Male,23,West,PROD073,Note,Electronics,4,NULL,1636.35,09/09/2024
+386cb5ce-bf66-4821-9da1-bca8f906c9df,CUST0070,John Nelson,Male,23,West,PROD053,Nothing,Home & Kitchen,2,NULL,773.95,13/05/2024
+f6eed16a-12ba-4c4d-9050-1a69b218b6a9,CUST0070,John Nelson,Male,23,West,PROD074,Nature,Groceries,5,NULL,905.16,10/05/2024
+371fdf10-9354-4172-b284-e7a4f6a36370,CUST0070,John Nelson,Male,23,West,PROD039,Meeting,Sports,5,NULL,359.96,16/04/2025
+46e0f676-9a81-4635-bc08-e6807a104879,CUST0071,John Lee,Female,59,North,PROD005,Decision,Clothing,1,NULL,386.92,03/02/2025
+75f2a130-1b23-47e4-9240-6a75159d74e7,CUST0071,John Lee,Female,59,North,PROD097,Fire,Clothing,4,NULL,1616.53,23/11/2024
+3bb8c3e4-8684-4346-800a-e8846fe73e57,CUST0071,John Lee,Female,59,North,PROD061,Long,Clothing,3,NULL,612.72,02/05/2024
+09217a8b-5943-4cad-b647-19751ef25561,CUST0071,John Lee,Female,59,North,PROD092,Everything,Home & Kitchen,5,NULL,1341.47,12/02/2025
+e2230f60-3dcb-4090-93bc-a9ef6ec9dac2,CUST0072,Amy Olson,Female,21,East,PROD062,Important,Sports,1,NULL,385.6,18/11/2024
+9c89e9c7-8fc2-4825-a270-842ee45f6b51,CUST0072,Amy Olson,Female,21,East,PROD096,Bed,Home & Kitchen,4,NULL,547.5,24/05/2024
+7657e71b-b791-4dde-84cd-92117c2685c8,CUST0073,Kara Gonzalez,Female,46,East,PROD077,Consumer,Electronics,4,NULL,462.72,29/01/2025
+965e96b6-d2b0-41c6-9a6b-bd291f49f1c6,CUST0073,Kara Gonzalez,Female,46,East,PROD025,While,Electronics,5,NULL,638.09,09/09/2024
+d916164d-6237-4264-83b8-d01397bc176f,CUST0073,Kara Gonzalez,Female,46,East,PROD008,All,Home & Kitchen,5,NULL,1892.5,12/02/2025
+2bfba78d-ffd1-474f-a397-d7dfab7ba83b,CUST0073,Kara Gonzalez,Female,46,East,PROD040,Line,Home & Kitchen,2,NULL,763.9,10/11/2024
+949fe543-1044-4cd4-acaf-fa8bf55c49e1,CUST0073,Kara Gonzalez,Female,46,East,PROD069,Answer,Books,4,NULL,240.08,09/02/2025
+5acdb081-99c8-4f93-960d-7203c69b4e99,CUST0074,Jeffrey Kane,Male,35,North,PROD060,Citizen,Sports,5,NULL,1195.99,16/07/2024
+5706cde6-d18c-4724-b358-27c2f2c34ccc,CUST0075,Kimberly Cherry,Male,43,East,PROD087,Four,Home & Kitchen,2,NULL,969.6,26/10/2024
+a378937a-4efc-43de-8cac-b37e03355fbc,CUST0075,Kimberly Cherry,Male,43,East,PROD007,Accept,Sports,3,NULL,1130.04,05/10/2024
+81c1b9ee-8513-45af-b212-d9113d77f4b9,CUST0075,Kimberly Cherry,Male,43,East,PROD084,Act,Electronics,2,NULL,844.08,09/04/2025
+e7ddfff9-3513-4086-bbb4-00126e43d323,CUST0076,Jessica Martin,Female,61,East,PROD034,Everything,Clothing,2,NULL,554.04,04/10/2024
+6dae9d84-465e-4e95-b6d2-fe08d2f4aa88,CUST0076,Jessica Martin,Female,61,East,PROD066,Sea,Home & Kitchen,2,NULL,473.98,26/02/2025
+2f2a4d0c-9731-45f1-92dd-76cca7f4d4ce,CUST0077,Alexis Romero,Male,51,West,PROD052,Economy,Sports,5,NULL,801,10/04/2025
+7a295541-c70f-4cb9-97c2-3af7a70c9c39,CUST0077,Alexis Romero,Male,51,West,PROD043,More,Groceries,4,NULL,177.19,20/04/2025
+fe73068d-a54a-4b37-ab4c-ce79962d0216,CUST0077,Alexis Romero,Male,51,West,PROD084,Act,Electronics,4,NULL,1787.47,17/11/2024
+e3e53d0f-6c92-4563-a2df-95c3217db92f,CUST0077,Alexis Romero,Male,51,West,PROD089,Drug,Electronics,3,NULL,807.2,12/11/2024
+2f32d17d-2888-4a1a-8b30-605bc24d9aba,CUST0078,Kimberly Andrews,Female,27,East,PROD058,Act,Home & Kitchen,5,NULL,208.48,04/05/2024
+2e6c7e6e-4965-46e9-b467-24d69e8e2621,CUST0078,Kimberly Andrews,Female,27,East,PROD006,Season,Groceries,3,NULL,652.05,11/08/2024
+83c26593-adfb-4547-9300-0b327eeb1616,CUST0078,Kimberly Andrews,Female,27,East,PROD041,Military,Home & Kitchen,5,NULL,1555.1,24/04/2024
+e14d7915-eb55-4a4a-b79f-8802f0f84e76,CUST0078,Kimberly Andrews,Female,27,East,PROD036,Write,Sports,2,NULL,844.38,12/10/2024
+e8c1b7d3-e70a-4552-adce-4120e6cbd850,CUST0079,Linda Reed,Female,53,West,PROD009,Everybody,Groceries,4,NULL,201.78,15/05/2024
+521e27ef-47d3-40b5-b35e-8bcc56e12d96,CUST0079,Linda Reed,Female,53,West,PROD053,Nothing,Home & Kitchen,1,NULL,346.24,16/11/2024
+1f7ada50-2900-479f-8cd8-1f21dfdb9a31,CUST0079,Linda Reed,Female,53,West,PROD084,Act,Electronics,4,NULL,1886.78,18/04/2025
+958b2fc8-cc90-40cd-8f86-ab15c12442b8,CUST0080,Miss Nicole Walker,Female,31,East,PROD000,Drive,Electronics,4,NULL,711.45,26/04/2024
+8fa19068-87a7-4b0c-8c55-406e748b4bee,CUST0080,Miss Nicole Walker,Female,31,East,PROD056,Early,Electronics,4,NULL,1284.93,15/04/2025
+c7643a2b-3495-4e6f-b2af-6b7d81cf698a,CUST0080,Miss Nicole Walker,Female,31,East,PROD093,Movie,Books,4,NULL,1000.42,10/08/2024
+7d509245-9a55-4fcf-9eb9-0e2afdeac95d,CUST0080,Miss Nicole Walker,Female,31,East,PROD006,Season,Groceries,1,NULL,195.62,04/03/2025
+2a932018-7230-421d-b3bf-64c4a4bcef08,CUST0080,Miss Nicole Walker,Female,31,East,PROD068,Break,Books,2,NULL,121.24,28/04/2024
+54244bda-a965-4d74-bf55-60a435f5e6f5,CUST0080,Miss Nicole Walker,Female,31,East,PROD063,Or,Books,1,NULL,54.04,25/02/2025
+83db0f44-11e2-4bfc-acd9-f49cccc67616,CUST0081,Courtney Orozco,Male,48,South,PROD039,Meeting,Sports,5,NULL,378.9,06/09/2024
+0ae93db7-b920-4765-87d7-aadd6bc77308,CUST0081,Courtney Orozco,Male,48,South,PROD012,Nature,Home & Kitchen,2,NULL,786.79,14/06/2024
+14dcc1c5-4f63-461f-8bc3-7d7200d32d22,CUST0081,Courtney Orozco,Male,48,South,PROD013,On,Groceries,4,NULL,555.63,03/10/2024
+8660b33c-eb7b-4d77-b11c-14d2853a6908,CUST0081,Courtney Orozco,Male,48,South,PROD080,Whom,Electronics,1,NULL,485.09,02/05/2024
+ce145944-39ef-41c1-8c46-ec9ff921b310,CUST0082,William Decker,Female,65,South,PROD023,Ok,Groceries,2,NULL,571.97,21/05/2024
+9ad5c9e3-6654-4610-90b1-2671b647bf9b,CUST0083,Sara Ortiz,Male,32,West,PROD063,Or,Books,3,NULL,162.11,12/11/2024
+a153cb98-4f60-4a84-9227-c8f41f708a5f,CUST0083,Sara Ortiz,Male,32,West,PROD057,Part,Electronics,1,NULL,191.25,02/04/2025
+dac723fe-d6d8-4055-a0ef-cf1c2cb897ff,CUST0083,Sara Ortiz,Male,32,West,PROD073,Note,Electronics,2,NULL,914.43,20/10/2024
+6ec8451d-c112-4ae7-9a57-386b7565c6e0,CUST0083,Sara Ortiz,Male,32,West,PROD018,Story,Groceries,2,NULL,100.38,22/02/2025
+86da8081-861c-4527-975e-570603fe4bb8,CUST0084,Alyssa Simmons,Male,25,West,PROD092,Everything,Home & Kitchen,4,NULL,1262.56,30/08/2024
+ab0b53f5-144b-4ce2-be56-0689f47e24df,CUST0084,Alyssa Simmons,Male,25,West,PROD020,Send,Books,3,NULL,1354.55,29/11/2024
+1360448a-98e4-4c07-a81e-55c982091387,CUST0084,Alyssa Simmons,Male,25,West,PROD078,Number,Books,2,NULL,915.42,07/10/2024
+9804484d-86fc-4d2d-ad53-6b1324690fe8,CUST0084,Alyssa Simmons,Male,25,West,PROD006,Season,Groceries,4,NULL,782.46,08/11/2024
+7e134a6a-9eca-4c5c-a1ae-22b139b8fb46,CUST0084,Alyssa Simmons,Male,25,West,PROD009,Everybody,Groceries,4,NULL,201.78,11/02/2025
+b137f2b0-c246-4da6-a0dc-461d9382bd4f,CUST0085,Aaron Black,Female,31,South,PROD055,Determine,Groceries,3,NULL,1257.33,21/04/2025
+79ed8587-f3d0-440d-8e6d-37cb415a3363,CUST0085,Aaron Black,Female,31,South,PROD047,Apply,Clothing,2,NULL,638.26,05/05/2024
+217b5966-2692-4526-9380-2b5200b5a167,CUST0085,Aaron Black,Female,31,South,PROD023,Ok,Groceries,5,NULL,1350.48,05/11/2024
+fc4e1ba4-70ba-4e64-8589-fe3f9a133d75,CUST0085,Aaron Black,Female,31,South,PROD054,Voice,Clothing,3,NULL,1421.67,04/04/2025
+890a2719-95d1-4309-9880-1494dce4b0cd,CUST0086,Kenneth Molina,Female,40,East,PROD017,Time,Groceries,3,NULL,1223.53,25/01/2025
+7ff82768-e9da-4d72-ad70-e7658f1f19e8,CUST0086,Kenneth Molina,Female,40,East,PROD086,Vote,Clothing,1,NULL,251.24,28/05/2024
+0b0e5fbe-50e9-4307-96ec-251d78e88af3,CUST0086,Kenneth Molina,Female,40,East,PROD044,Box,Electronics,5,NULL,1495.92,20/05/2024
+dabf3a28-1e3d-4244-a9f6-eb8b84188762,CUST0087,Rebecca Sweeney MD,Female,57,West,PROD084,Act,Electronics,5,NULL,2234.34,02/09/2024
+13f10616-f5e7-4f6b-a219-235efa446583,CUST0087,Rebecca Sweeney MD,Female,57,West,PROD081,Wish,Home & Kitchen,3,NULL,79.08,11/10/2024
+4bcf6dbf-a74f-4a3f-854c-199f806a16b2,CUST0088,Amanda Hoffman,Female,38,North,PROD045,Family,Clothing,2,NULL,77.94,23/11/2024
+0481cd60-6bcf-4ad6-96f1-0c698b52a9e0,CUST0089,Teresa Lopez,Male,33,East,PROD014,Including,Books,1,NULL,425.87,15/04/2025
+658643e4-4dd0-4f21-beb7-029617d41b10,CUST0089,Teresa Lopez,Male,33,East,PROD024,Share,Clothing,3,NULL,612.85,04/02/2025
+419094fa-b43d-48fb-bfa9-ff5a3df4ef74,CUST0089,Teresa Lopez,Male,33,East,PROD014,Including,Books,3,NULL,1344.84,19/10/2024
+e7a15cb1-2fe3-4489-8b85-84e66bea9458,CUST0090,Jessica Mcneil,Male,62,East,PROD098,Will,Home & Kitchen,4,NULL,1515.31,16/10/2024
+5974e764-07e2-4c04-ac77-171e6e103ef9,CUST0090,Jessica Mcneil,Male,62,East,PROD093,Movie,Books,1,NULL,250.1,09/08/2024
+4762e63e-1c3a-4407-be68-35be76ef2894,CUST0090,Jessica Mcneil,Male,62,East,PROD060,Citizen,Sports,5,NULL,1266.35,30/09/2024
+512de76d-2440-4540-9c30-98f03357d5c9,CUST0091,Ryan Moore,Female,35,South,PROD013,On,Groceries,1,NULL,155.25,15/05/2024
+9e8060e7-a485-4874-b07a-99e887fa7616,CUST0091,Ryan Moore,Female,35,South,PROD047,Apply,Clothing,5,NULL,1507.01,18/10/2024
+534404ed-7a4a-4551-bfa7-2c557ce720d5,CUST0092,Amy Rogers,Male,64,West,PROD074,Nature,Groceries,4,NULL,647.9,13/04/2025
+3ae960da-2b7c-4997-b4be-962598017765,CUST0092,Amy Rogers,Male,64,West,PROD018,Story,Groceries,5,NULL,213.31,22/11/2024
+70a35c6d-1169-4933-940a-ee79e2f14ed4,CUST0092,Amy Rogers,Male,64,West,PROD099,Officer,Books,5,NULL,1095.11,27/01/2025
+a8e3cc11-5669-45d5-8e7c-084e851ede6c,CUST0092,Amy Rogers,Male,64,West,PROD078,Number,Books,2,NULL,867.24,08/08/2024
+ef832d96-16df-40f1-b0e6-79bc92c2048d,CUST0093,Patrick Cortez,Male,41,East,PROD095,Couple,Home & Kitchen,2,NULL,46.75,10/09/2024
+32f8d2c3-8094-4890-9445-bc45e1d4fdbb,CUST0094,Travis Smith,Male,43,West,PROD096,Bed,Home & Kitchen,5,NULL,612.34,28/10/2024
+0e58a32c-f015-4293-bebc-1cfcd0f2feb8,CUST0094,Travis Smith,Male,43,West,PROD069,Answer,Books,1,NULL,63.18,02/12/2024
+28c677df-cbd0-4dba-ae20-06fc57090f68,CUST0094,Travis Smith,Male,43,West,PROD066,Sea,Home & Kitchen,1,NULL,225.14,02/09/2024
+56589c56-92c2-40fc-b9c0-1aa880a193c4,CUST0094,Travis Smith,Male,43,West,PROD002,Western,Clothing,5,NULL,1751.94,06/05/2024
+3e62ae2b-cd89-42b0-b705-3c6286064e3f,CUST0094,Travis Smith,Male,43,West,PROD040,Line,Home & Kitchen,2,NULL,763.9,21/10/2024
+23aa903d-c712-45d0-a1c8-eafaa271679f,CUST0094,Travis Smith,Male,43,West,PROD049,Cut,Clothing,4,NULL,159.77,15/04/2025
+09ad46be-9b01-43ad-ac0f-bd65b7495a0f,CUST0096,Ashley Fuller,Male,62,West,PROD092,Everything,Home & Kitchen,1,NULL,315.64,27/11/2024
+22ca19a7-d03f-4d38-9973-9105f7b035d2,CUST0096,Ashley Fuller,Male,62,West,PROD056,Early,Electronics,2,NULL,642.46,28/09/2024
+f509fa42-4003-4c2e-9795-58d6a6346275,CUST0096,Ashley Fuller,Male,62,West,PROD052,Economy,Sports,5,NULL,801,08/04/2025
+2f79526e-e771-4e84-9483-c77813a12572,CUST0096,Ashley Fuller,Male,62,West,PROD041,Military,Home & Kitchen,1,NULL,295.47,16/08/2024
+8f1433a3-4809-463a-92c7-cedb4138e130,CUST0097,Kevin Washington,Female,58,South,PROD037,Force,Books,4,NULL,607.58,03/12/2024
+957391e5-357e-4c37-8a94-e22de59c5158,CUST0099,Rose Simpson,Female,32,South,PROD037,Force,Books,4,NULL,679.06,04/05/2024
+1b0ba61e-65a8-4328-bd7d-8cf640138be4,CUST0099,Rose Simpson,Female,32,South,PROD040,Line,Home & Kitchen,4,NULL,1298.63,09/04/2025
+95ef0cda-cecc-4bac-bda2-f49f3ec87fc3,CUST0099,Rose Simpson,Female,32,South,PROD004,Many,Sports,5,NULL,2212.17,26/05/2024
+cc693a66-e764-43bb-8218-b89f4403d6e0,CUST0099,Rose Simpson,Female,32,South,PROD000,Drive,Electronics,1,NULL,209.25,28/08/2024
+6229feff-5b26-4927-bd27-a5f09b6c6aad,CUST0100,Joseph Jimenez,Female,62,North,PROD058,Act,Home & Kitchen,1,NULL,41.7,19/10/2024
+a1cd2593-2e01-4cf3-8493-6b55a11a5cfb,CUST0100,Joseph Jimenez,Female,62,North,PROD093,Movie,Books,5,NULL,1397.64,24/04/2024
+49845ed0-7954-4098-80ce-139bffc43073,CUST0100,Joseph Jimenez,Female,62,North,PROD026,Figure,Sports,3,NULL,452.76,03/04/2025
+79e64948-c178-41f5-ab99-3c7782f23bda,CUST0101,Kevin Garcia,Female,18,East,PROD054,Voice,Clothing,1,NULL,450.2,22/05/2024
+7c9660e0-4a72-4ab0-ab87-b49b0ecfbab4,CUST0101,Kevin Garcia,Female,18,East,PROD077,Consumer,Electronics,2,NULL,208.22,17/05/2024
+787f4dd8-0e13-41f6-aca1-69f9e00f940f,CUST0102,Marcus Mills,Female,42,East,PROD077,Consumer,Electronics,2,NULL,208.22,26/05/2024
+48cd5dd0-7e00-4593-b418-a85143d9dda8,CUST0102,Marcus Mills,Female,42,East,PROD087,Four,Home & Kitchen,3,NULL,1381.68,20/07/2024
+ea130bc2-d5c0-4f52-aba2-d3f427b47021,CUST0102,Marcus Mills,Female,42,East,PROD089,Drug,Electronics,5,NULL,1424.48,06/05/2024
+d96d2389-8f0b-4d93-a59a-a70b63e42356,CUST0103,Roger Gonzalez,Male,24,North,PROD080,Whom,Electronics,2,NULL,873.16,10/10/2024
+611d56a6-3650-49d2-829d-f609c2af3eb4,CUST0103,Roger Gonzalez,Male,24,North,PROD011,Computer,Home & Kitchen,4,NULL,1020.4,09/02/2025
+7d6ab301-6f1b-4d02-9645-86d1207dc011,CUST0104,Sergio Moore,Male,26,South,PROD047,Apply,Clothing,3,NULL,904.2,02/09/2024
+2ba47064-046b-4b64-9684-63e37ce5a39b,CUST0105,Angelica Cannon,Female,41,East,PROD007,Accept,Sports,5,NULL,1695.06,11/02/2025
+ee7125fb-a6ad-43da-b3bf-b58bddea5fa0,CUST0105,Angelica Cannon,Female,41,East,PROD024,Share,Clothing,4,NULL,817.13,11/04/2025
+04c0e456-40c8-4912-a2bd-4983a4a60ef7,CUST0105,Angelica Cannon,Female,41,East,PROD029,Responsibility,Electronics,2,NULL,753.98,19/08/2024
+7bbe0a95-923b-42a8-9cf3-5577d01a37ed,CUST0105,Angelica Cannon,Female,41,East,PROD092,Everything,Home & Kitchen,1,NULL,268.29,27/09/2024
+1c458af2-3087-4d32-a326-add2a1208bd6,CUST0105,Angelica Cannon,Female,41,East,PROD069,Answer,Books,3,NULL,170.59,15/11/2024
+5c514060-5176-4dfb-aa3f-ed4467478070,CUST0106,Susan Perkins,Female,18,South,PROD088,Cell,Groceries,4,NULL,950.15,19/04/2025
+35dc782f-fd9d-462b-a723-5920a643da95,CUST0106,Susan Perkins,Female,18,South,PROD073,Note,Electronics,3,NULL,1299.46,06/10/2024
+4a6280b8-6fa8-442c-89a2-8345e45e4455,CUST0106,Susan Perkins,Female,18,South,PROD088,Cell,Groceries,5,NULL,1121.7,22/05/2024
+ace5ab3d-669b-47f3-8fc8-5e1f7a7e5db5,CUST0107,Christopher Parker,Male,61,South,PROD098,Will,Home & Kitchen,5,NULL,1894.14,04/05/2024
+ced2ff90-b9d1-4aa7-bf70-b7ac3bc78ce8,CUST0107,Christopher Parker,Male,61,South,PROD097,Fire,Clothing,2,NULL,903.35,03/12/2024
+fcddb299-051b-417e-905c-0bff221c4dbc,CUST0107,Christopher Parker,Male,61,South,PROD079,Civil,Books,3,NULL,29.75,30/04/2024
+c405bd06-0075-48e8-8656-e9c5f33ff88b,CUST0107,Christopher Parker,Male,61,South,PROD095,Couple,Home & Kitchen,3,NULL,78.38,20/11/2024
+9e492c1e-a120-4a9d-bd27-9cfaf4cdbd9d,CUST0107,Christopher Parker,Male,61,South,PROD048,We,Groceries,5,NULL,226.35,25/05/2024
+e322b6e0-1098-4068-8f3d-9d54a58639a2,CUST0107,Christopher Parker,Male,61,South,PROD053,Nothing,Home & Kitchen,3,NULL,1099.82,29/04/2024
+172fbc7b-31a5-4f88-a4fe-c8a0791142b5,CUST0107,Christopher Parker,Male,61,South,PROD073,Note,Electronics,3,NULL,1443.84,16/02/2025
+1fcd77e7-6e78-47a6-aafe-0f6edbd331a1,CUST0108,Patricia May,Female,25,South,PROD004,Many,Sports,5,NULL,2095.74,16/05/2024
+ecb509d0-5f09-4753-b77b-4e48faf5ff92,CUST0109,Brianna Duarte,Female,41,North,PROD065,Use,Electronics,4,NULL,38.23,11/08/2024
+1c7604e8-609c-41d6-86c2-13294e4540dd,CUST0110,Bill Jackson,Male,28,North,PROD019,Difficult,Sports,5,NULL,693,08/11/2024
+9e6a745b-3905-411f-a339-e6039630ba14,CUST0110,Bill Jackson,Male,28,North,PROD041,Military,Home & Kitchen,2,NULL,622.04,22/04/2024
+7f7e3012-29a4-40b8-b20a-4ada1150f0b6,CUST0111,Samantha Hernandez,Female,68,South,PROD056,Early,Electronics,4,NULL,1436.1,08/08/2024
+56048745-2f44-4329-9cc0-630b23499753,CUST0111,Samantha Hernandez,Female,68,South,PROD054,Voice,Clothing,2,NULL,805.61,06/10/2024
+1f68fdfe-4ae6-409e-a869-b4cf0d4cd6e8,CUST0111,Samantha Hernandez,Female,68,South,PROD011,Computer,Home & Kitchen,1,NULL,242.34,09/11/2024
+205a1ac4-2e67-465a-bcd8-023268a3a494,CUST0111,Samantha Hernandez,Female,68,South,PROD096,Bed,Home & Kitchen,5,NULL,612.34,25/01/2025
+c2432b15-8381-46fa-a391-57787a5359f8,CUST0112,Summer Harris,Male,34,West,PROD081,Wish,Home & Kitchen,2,NULL,47.45,25/05/2024
+cdd447b8-effd-46a0-93e6-7c73267cde37,CUST0112,Summer Harris,Male,34,West,PROD050,Save,Groceries,5,NULL,2466.95,23/04/2024
+abd6b9c3-3cb5-47c3-b9b6-9f302fe8af7c,CUST0112,Summer Harris,Male,34,West,PROD008,All,Home & Kitchen,2,NULL,643.45,20/07/2024
+0be03bb2-f167-4a73-87b8-b99ecdb3067f,CUST0113,Kelly Taylor,Female,25,North,PROD028,Term,Groceries,2,NULL,641.63,23/04/2024
+fb32d5ce-2e9d-443f-8728-6512ad14bb57,CUST0113,Kelly Taylor,Female,25,North,PROD081,Wish,Home & Kitchen,5,NULL,131.8,08/02/2025
+3b9f590b-3195-4d5a-947d-9282394bdeb8,CUST0114,Susan Mccarthy,Male,52,West,PROD032,Sport,Sports,5,NULL,1123.83,10/05/2024
+c890b602-e07c-4705-b459-147ab9eaab3f,CUST0115,Jessica Pittman,Male,52,West,PROD017,Time,Groceries,2,NULL,906.32,10/08/2024
+4872e94b-37ff-4502-985b-763d88c7d8dd,CUST0115,Jessica Pittman,Male,52,West,PROD038,Foot,Groceries,3,NULL,179.41,04/10/2024
+77df3a46-8efe-4842-a6d4-67a74243037a,CUST0115,Jessica Pittman,Male,52,West,PROD038,Foot,Groceries,1,NULL,62.95,06/04/2025
+3f0661fc-d7c8-414d-82b6-723c4b7c8c0a,CUST0115,Jessica Pittman,Male,52,West,PROD086,Vote,Clothing,2,NULL,502.49,12/04/2025
+3efb485a-2950-4948-88ea-23ec9de653e7,CUST0115,Jessica Pittman,Male,52,West,PROD088,Cell,Groceries,3,NULL,712.61,03/03/2025
+5b6d2914-3ca4-4395-9276-bdf312249310,CUST0116,Michael Morris,Female,50,South,PROD017,Time,Groceries,3,NULL,1155.56,30/01/2025
+3ff5d0ce-6314-41d9-887f-90fdba0ccfb4,CUST0116,Michael Morris,Female,50,South,PROD095,Couple,Home & Kitchen,5,NULL,137.5,15/05/2024
+eac0219f-c0ce-4fd9-bce0-d7a5b595f0b8,CUST0117,Mr. David Robles,Male,22,West,PROD048,We,Groceries,5,NULL,215.03,12/09/2024
+bd128d23-bb56-4ede-bf6e-610b0b4ef93e,CUST0117,Mr. David Robles,Male,22,West,PROD027,Country,Clothing,5,NULL,1436.08,09/09/2024
+f1c4eb2e-49b7-4c84-b852-a9ca6b27569a,CUST0117,Mr. David Robles,Male,22,West,PROD009,Everybody,Groceries,5,NULL,252.22,28/05/2024
+3f3119c7-de43-4aa8-acda-24ec6f86ab54,CUST0117,Mr. David Robles,Male,22,West,PROD061,Long,Clothing,4,NULL,773.96,06/04/2025
+907a5f01-a0c0-4d4e-9f02-ce06d878218a,CUST0117,Mr. David Robles,Male,22,West,PROD057,Part,Electronics,2,NULL,382.5,24/05/2024
+734c7d95-9295-4e31-9338-e5fd282cb67d,CUST0118,Steven Taylor,Male,59,West,PROD059,Determine,Groceries,3,NULL,993.71,10/11/2024
+1c0424b7-9862-4505-a96d-1acc4ad87459,CUST0118,Steven Taylor,Male,59,West,PROD000,Drive,Electronics,5,NULL,941.62,15/02/2025
+d0bc72a6-fed2-4513-8604-8acebd524d24,CUST0118,Steven Taylor,Male,59,West,PROD048,We,Groceries,5,NULL,226.35,11/10/2024
+30735ca2-b326-4780-a4ed-fbfe0204b08e,CUST0119,Robert Hampton,Female,56,West,PROD042,Involve,Home & Kitchen,2,NULL,110.12,05/09/2024
+557813fc-8179-4f9c-a0bf-6a776bbee6c0,CUST0119,Robert Hampton,Female,56,West,PROD006,Season,Groceries,1,NULL,184.75,07/08/2024
+7a6f4b3b-0c3a-4101-901e-166392aad230,CUST0119,Robert Hampton,Female,56,West,PROD009,Everybody,Groceries,2,NULL,106.49,28/04/2024
+545c37ad-608e-4e3c-a192-746010ab2ffa,CUST0119,Robert Hampton,Female,56,West,PROD077,Consumer,Electronics,2,NULL,231.36,24/10/2024
+0db52d5a-126c-46b4-8585-f544a780c650,CUST0119,Robert Hampton,Female,56,West,PROD040,Line,Home & Kitchen,5,NULL,1718.78,22/10/2024
+8f634f72-7711-4869-8b86-b4deb0a440e4,CUST0121,Rebecca Thornton,Male,45,South,PROD091,Eat,Electronics,5,NULL,1035,04/04/2025
+424e5caa-c4c0-41bd-99e3-350698a1af5c,CUST0122,Robin Griffin,Female,24,North,PROD078,Number,Books,2,NULL,915.42,03/02/2025
+96bd91ce-4ce9-4505-a20d-91e162ee0d0c,CUST0122,Robin Griffin,Female,24,North,PROD083,Environmental,Sports,1,NULL,252.9,12/08/2024
+913d1d8e-8d8a-4bfb-b983-ad666caf62c6,CUST0122,Robin Griffin,Female,24,North,PROD041,Military,Home & Kitchen,1,NULL,264.37,31/10/2024
+91571cf9-e47c-4811-8262-874cc647888f,CUST0122,Robin Griffin,Female,24,North,PROD079,Civil,Books,2,NULL,20.94,19/02/2025
+8695c69d-77bb-4da2-a879-5a2ce4675d2a,CUST0123,Samantha Miller,Female,26,North,PROD063,Or,Books,5,NULL,285.19,28/09/2024
+9326d3df-f84b-4235-83d7-0dcd4a977593,CUST0123,Samantha Miller,Female,26,North,PROD073,Note,Electronics,4,NULL,1828.86,30/04/2024
+cccb4f31-3fc6-47d0-b7f9-db5fec5a4c1b,CUST0123,Samantha Miller,Female,26,North,PROD027,Country,Clothing,5,NULL,1520.55,20/10/2024
+d112c0f9-11e7-4a6b-b6d3-e300c188a6b6,CUST0123,Samantha Miller,Female,26,North,PROD028,Term,Groceries,3,NULL,1075.68,21/04/2025
+dde4f3ad-b036-4178-bd45-5bd7531f0358,CUST0123,Samantha Miller,Female,26,North,PROD042,Involve,Home & Kitchen,3,NULL,165.18,04/10/2024
+3facab3f-01a2-4737-9b5d-f1a67fbf6337,CUST0123,Samantha Miller,Female,26,North,PROD072,That,Clothing,5,NULL,1395.41,09/08/2024
+45a41b07-989c-4a3e-900b-9b57ec19ac7e,CUST0124,Charlene Jackson,Male,25,West,PROD006,Season,Groceries,5,NULL,1032.41,29/01/2025
+50f2ec5a-3292-489d-bcc2-49b119462ebd,CUST0124,Charlene Jackson,Male,25,West,PROD009,Everybody,Groceries,3,NULL,142.93,15/06/2024
+973557ee-c0ff-4aee-8288-f963f3d653e4,CUST0125,Heather Newman,Male,29,South,PROD011,Computer,Home & Kitchen,4,NULL,1020.4,27/05/2024
+3dd26a91-8f04-409c-93b1-0224fc17ef76,CUST0125,Heather Newman,Male,29,South,PROD005,Decision,Clothing,4,NULL,1547.68,04/12/2024
+8bd133ed-fc92-4038-bdeb-b3e3fb2e749d,CUST0126,Antonio Woods,Female,51,South,PROD090,Huge,Clothing,4,NULL,1187.96,29/09/2024
+151072d4-3706-47e0-904c-c74133989fca,CUST0126,Antonio Woods,Female,51,South,PROD038,Foot,Groceries,1,NULL,53.51,03/05/2024
+12b17cf1-97f7-49aa-82f6-6fe7b3ac3fd8,CUST0126,Antonio Woods,Female,51,South,PROD028,Term,Groceries,4,NULL,1358.75,12/05/2024
+47871bfa-a482-407c-8338-92a2a01d0d18,CUST0127,Jennifer Brown,Female,50,West,PROD018,Story,Groceries,3,NULL,143.04,05/05/2024
+59062005-7ceb-4f66-bc42-70fc9639eb40,CUST0127,Jennifer Brown,Female,50,West,PROD045,Family,Clothing,4,NULL,164.08,18/02/2025
+757408d2-7403-4438-83ab-41faf752239e,CUST0127,Jennifer Brown,Female,50,West,PROD004,Many,Sports,4,NULL,1862.88,27/10/2024
+10ba0a54-ef97-467e-8840-9e83e7870f8a,CUST0127,Jennifer Brown,Female,50,West,PROD049,Cut,Clothing,4,NULL,178.56,05/10/2024
+ca6c5291-f686-4280-91e9-713cb32ba67e,CUST0128,Nicole Hernandez,Male,65,North,PROD025,While,Electronics,5,NULL,675.63,14/07/2024
+21245acd-eead-47bb-88f1-275ab4afb359,CUST0128,Nicole Hernandez,Male,65,North,PROD031,Process,Home & Kitchen,4,NULL,190.57,21/11/2024
+5fa63c59-bc31-4823-92d8-35c4b2284fcc,CUST0128,Nicole Hernandez,Male,65,North,PROD024,Share,Clothing,1,NULL,226.98,01/05/2024
+234c1a79-7e51-46dd-b830-31f04bd7fb05,CUST0129,Richard Anderson,Male,40,South,PROD004,Many,Sports,2,NULL,838.3,05/11/2024
+fb8c9dc6-8e3c-4cd3-929a-81cdf95a5ab4,CUST0129,Richard Anderson,Male,40,South,PROD039,Meeting,Sports,5,NULL,341.01,19/10/2024
+d241f9cb-a556-458f-b28a-4ec2675af533,CUST0130,David Clark PhD,Male,41,North,PROD085,Black,Clothing,1,NULL,35.3,02/05/2024
+75519e79-37ae-4a7d-83be-cc9a8d5f601c,CUST0130,David Clark PhD,Male,41,North,PROD000,Drive,Electronics,2,NULL,418.5,17/02/2025
+dce7b363-5306-45fc-9cf6-087d64c4664c,CUST0130,David Clark PhD,Male,41,North,PROD098,Will,Home & Kitchen,5,NULL,2228.4,14/04/2025
+a3861450-db96-485e-8c50-eb4d8b28e8ec,CUST0130,David Clark PhD,Male,41,North,PROD078,Number,Books,2,NULL,915.42,27/04/2024
+d8a404e9-f9bf-460f-9a17-625bd84266a1,CUST0130,David Clark PhD,Male,41,North,PROD021,Financial,Groceries,1,NULL,428,02/03/2025
+14afc7a9-f03a-40f3-9a9c-bee803b5a06e,CUST0132,Timothy Stephens,Male,52,South,PROD023,Ok,Groceries,5,NULL,1350.48,25/10/2024
+1918a4be-b2cb-4457-a9d5-8be1c5a87dda,CUST0133,Timothy Moore,Female,61,West,PROD083,Environmental,Sports,3,NULL,758.7,27/02/2025
+b1b6560b-0729-4b3c-9a28-d61594bc357c,CUST0133,Timothy Moore,Female,61,West,PROD083,Environmental,Sports,3,NULL,798.63,11/10/2024
+a675da5b-c5f5-437e-87ca-7f93a2ecee43,CUST0133,Timothy Moore,Female,61,West,PROD068,Break,Books,4,NULL,229.72,29/01/2025
+945d877d-489b-4fe0-889f-892e97e71ce8,CUST0134,Erin Gonzalez,Male,57,East,PROD044,Box,Electronics,1,NULL,299.18,21/05/2024
+cbbddb31-fdbe-40ee-b90f-58e1da2c4517,CUST0134,Erin Gonzalez,Male,57,East,PROD091,Eat,Electronics,5,NULL,1150,01/05/2024
+dec86acf-de3e-46f5-a797-48ffe7145f15,CUST0134,Erin Gonzalez,Male,57,East,PROD093,Movie,Books,1,NULL,294.24,14/07/2024
+aa575ada-3263-426c-811f-10d5832da408,CUST0134,Erin Gonzalez,Male,57,East,PROD074,Nature,Groceries,5,NULL,905.16,05/11/2024
+1d5cd359-db67-4d09-ba89-379c577061db,CUST0134,Erin Gonzalez,Male,57,East,PROD031,Process,Home & Kitchen,3,NULL,150.45,28/10/2024
+17edbb4d-4ddc-47d7-956d-99494481d759,CUST0134,Erin Gonzalez,Male,57,East,PROD079,Civil,Books,2,NULL,22.04,28/02/2025
+8062e512-3152-4058-94e1-633758529c0b,CUST0134,Erin Gonzalez,Male,57,East,PROD010,Unit,Books,4,NULL,1535.98,25/04/2024
+60b19b3b-473f-404e-9123-5489322db3c5,CUST0135,Thomas Norman,Male,39,West,PROD015,From,Sports,1,NULL,187.77,26/05/2024
+5832f6f4-1d98-4314-a916-2a859ab9c14e,CUST0135,Thomas Norman,Male,39,West,PROD096,Bed,Home & Kitchen,1,NULL,144.08,02/09/2024
+f7ccd358-cce2-4546-92cd-a6990b19fbc3,CUST0136,Jennifer Porter,Male,44,West,PROD068,Break,Books,1,NULL,60.62,08/05/2024
+085abd75-bbc5-4b7f-b7dc-ec9542224cde,CUST0136,Jennifer Porter,Male,44,West,PROD077,Consumer,Electronics,4,NULL,416.45,05/11/2024
+80d5d619-a824-4221-93f7-6ffe976561c9,CUST0137,Stephanie Lopez,Female,52,West,PROD073,Note,Electronics,1,NULL,457.22,22/05/2024
+e306a822-a6ce-45bb-bc41-89a60f5b5d05,CUST0137,Stephanie Lopez,Female,52,West,PROD099,Officer,Books,5,NULL,1037.48,27/09/2024
+e6472ae7-050a-4a75-8860-4e9b8f2cbe5b,CUST0137,Stephanie Lopez,Female,52,West,PROD041,Military,Home & Kitchen,3,NULL,839.75,21/04/2024
+05309c21-958b-4308-b43c-b3c338ad3aca,CUST0137,Stephanie Lopez,Female,52,West,PROD060,Citizen,Sports,5,NULL,1266.35,12/04/2025
+97668c59-8ae1-4e8a-bec4-f0f5360c9128,CUST0138,Isaac Scott,Male,18,South,PROD005,Decision,Clothing,1,NULL,386.92,22/10/2024
+116a16f3-9fd1-4738-ba6b-3457a5efb692,CUST0138,Isaac Scott,Male,18,South,PROD009,Everybody,Groceries,5,NULL,252.22,04/10/2024
+59f56593-0de4-4fa5-8d49-1c265e75ea4e,CUST0138,Isaac Scott,Male,18,South,PROD023,Ok,Groceries,1,NULL,285.98,10/05/2024
+77077d26-5411-47e6-b548-b7883f7a8bd5,CUST0138,Isaac Scott,Male,18,South,PROD018,Story,Groceries,3,NULL,143.04,10/02/2025
+fa37343a-8262-4be5-8c59-e3d3b02515fb,CUST0139,Derrick Acevedo,Female,52,West,PROD027,Country,Clothing,5,NULL,1689.5,26/09/2024
+aed0d21c-9354-4983-ab69-aec1fdadb39d,CUST0139,Derrick Acevedo,Female,52,West,PROD049,Cut,Clothing,4,NULL,159.77,24/08/2024
+d18b97cb-b84a-4b34-b4e0-449c23a9f62c,CUST0139,Derrick Acevedo,Female,52,West,PROD042,Involve,Home & Kitchen,3,NULL,148.66,31/08/2024
+89fabed6-6bc8-4324-bd62-9895cde792e0,CUST0140,Jason Wheeler,Female,54,West,PROD035,Nature,Clothing,4,NULL,849.53,20/07/2024
+d7be6aac-364f-4907-9c7f-e1fbc3f2d7e8,CUST0140,Jason Wheeler,Female,54,West,PROD054,Voice,Clothing,4,NULL,1706,06/02/2025
+6b7b2be0-bb3b-459b-8c78-98d46cad6716,CUST0140,Jason Wheeler,Female,54,West,PROD050,Save,Groceries,3,NULL,1332.15,30/01/2025
+fc941b78-9940-41a3-8020-84189fb19919,CUST0140,Jason Wheeler,Female,54,West,PROD042,Involve,Home & Kitchen,5,NULL,234,10/02/2025
+bd8af3ed-f7dc-49c6-ad10-7603c80ff076,CUST0140,Jason Wheeler,Female,54,West,PROD014,Including,Books,1,NULL,448.28,24/08/2024
+12fde54b-6321-4e4c-a0f2-ef56de649e6c,CUST0141,Margaret Erickson,Male,64,East,PROD083,Environmental,Sports,2,NULL,505.8,09/09/2024
+164e3373-eee5-4239-b9fb-f2c806cba22a,CUST0141,Margaret Erickson,Male,64,East,PROD082,Beautiful,Sports,1,NULL,423.81,11/10/2024
+fece968c-d747-4722-a760-0e91d2ce6be5,CUST0141,Margaret Erickson,Male,64,East,PROD066,Sea,Home & Kitchen,4,NULL,947.96,07/05/2024
+a05ffa18-1198-4f45-9539-6825b420d22b,CUST0141,Margaret Erickson,Male,64,East,PROD033,War,Clothing,3,NULL,95.45,26/05/2024
+dae3e75d-edff-4318-82c9-ffed9f6cab83,CUST0141,Margaret Erickson,Male,64,East,PROD087,Four,Home & Kitchen,4,NULL,1842.24,30/01/2025
+52ea8bd1-c76b-4e4d-b3c2-7fe3e30948c7,CUST0141,Margaret Erickson,Male,64,East,PROD098,Will,Home & Kitchen,4,NULL,1604.45,19/10/2024
+1670a7e6-e288-4764-baf6-d0233f6f7ecd,CUST0142,Tamara Mills,Male,31,South,PROD096,Bed,Home & Kitchen,1,NULL,144.08,08/11/2024
+2fe3f273-82fc-4346-82c4-1f05e08b8f26,CUST0142,Tamara Mills,Male,31,South,PROD010,Unit,Books,3,NULL,1355.28,12/11/2024
+2ce720b6-cba2-4b4a-95f1-ad580fe66d9d,CUST0144,Sarah Gonzalez,Female,18,West,PROD038,Foot,Groceries,2,NULL,125.9,26/09/2024
+0d853cb8-c173-4a8e-9934-07b2586bae3f,CUST0144,Sarah Gonzalez,Female,18,West,PROD014,Including,Books,1,NULL,381.04,08/04/2025
+7410f407-2eb7-4535-9c31-fad202d9a4e9,CUST0144,Sarah Gonzalez,Female,18,West,PROD041,Military,Home & Kitchen,4,NULL,1119.67,18/11/2024
+5d0f32ee-2145-4160-b37c-899b5604bfc6,CUST0145,Andrea Dixon,Female,22,South,PROD096,Bed,Home & Kitchen,4,NULL,547.5,10/02/2025
+e6d9bc56-29ac-4b18-8bd2-24d2a3d7e138,CUST0145,Andrea Dixon,Female,22,South,PROD076,Power,Electronics,5,NULL,1848.58,06/02/2025
+ebfcafdf-ee81-4c5a-9f41-180eebc1e474,CUST0145,Andrea Dixon,Female,22,South,PROD045,Family,Clothing,3,NULL,104.6,03/11/2024
+1b32bfdb-c1d8-41ff-9561-b396b869d663,CUST0145,Andrea Dixon,Female,22,South,PROD056,Early,Electronics,2,NULL,718.05,22/05/2024
+fc5c4566-b37b-47eb-bb07-915a45668de2,CUST0145,Andrea Dixon,Female,22,South,PROD083,Environmental,Sports,5,NULL,1197.94,17/04/2025
+05f380bf-c541-4ac5-a724-03f07d41cbc1,CUST0146,Kelsey Miller,Female,43,East,PROD082,Beautiful,Sports,1,NULL,446.12,19/04/2025
+5962be3f-8c0c-4692-bf59-3125513df563,CUST0146,Kelsey Miller,Female,43,East,PROD087,Four,Home & Kitchen,3,NULL,1381.68,28/09/2024
+0de85bbb-5ee0-4408-a164-39d96693d986,CUST0146,Kelsey Miller,Female,43,East,PROD062,Important,Sports,1,NULL,430.97,02/11/2024
+fdeafee7-69b5-474a-9e2a-f4460d553008,CUST0147,Joel Vaughn,Female,31,West,PROD090,Huge,Clothing,3,NULL,890.97,23/10/2024
+8819bd07-ca89-4949-b2f2-9fcdf8fe97c5,CUST0147,Joel Vaughn,Female,31,West,PROD086,Vote,Clothing,5,NULL,1326.01,10/04/2025
+96c06a8f-bd41-4335-976c-65ae3d648ef5,CUST0147,Joel Vaughn,Female,31,West,PROD080,Whom,Electronics,2,NULL,970.18,04/04/2025
+6e06ec9b-1a8f-407d-a817-76b6a7e4d6b2,CUST0148,Brittany Gonzalez,Male,56,North,PROD058,Act,Home & Kitchen,5,NULL,208.48,31/01/2025
+55d7804f-6078-4417-ab01-4e6703f73ff5,CUST0148,Brittany Gonzalez,Male,56,North,PROD082,Beautiful,Sports,2,NULL,847.63,05/04/2025
+7a69a0f1-f92b-4f23-a52a-d3269af6dfa4,CUST0149,Benjamin Smith,Male,44,East,PROD088,Cell,Groceries,1,NULL,224.34,27/10/2024
+45ff3b98-58f2-4981-ab09-a23b8b4b52e3,CUST0149,Benjamin Smith,Male,44,East,PROD033,War,Clothing,3,NULL,85.4,22/05/2024
+ad4e3c28-991a-4f55-880a-54aade3a48ed,CUST0149,Benjamin Smith,Male,44,East,PROD060,Citizen,Sports,2,NULL,562.82,08/10/2024
+fa53c65b-b59d-48be-b39e-46b5dd4d28bd,CUST0150,Kimberly Young,Male,26,South,PROD002,Western,Clothing,3,NULL,1051.16,11/08/2024
+96d4c716-c7b7-4bdf-b063-8f0eb1f066c7,CUST0150,Kimberly Young,Male,26,South,PROD059,Determine,Groceries,1,NULL,331.24,19/08/2024
+2e8688a3-08ca-458e-9ed2-ab2750a99336,CUST0151,Scott Zimmerman,Male,32,East,PROD063,Or,Books,4,NULL,204.14,15/07/2024
+c58f1235-c389-4ea0-852e-c453db25354e,CUST0151,Scott Zimmerman,Male,32,East,PROD020,Send,Books,1,NULL,403.99,29/09/2024
+a8ac4f12-f082-488c-a428-ca49f986dbd9,CUST0152,Anthony Sharp,Female,32,East,PROD075,Someone,Books,5,NULL,622.33,18/02/2025
+3a5b7bee-48de-481c-82c0-1f2b3b45342c,CUST0152,Anthony Sharp,Female,32,East,PROD078,Number,Books,5,NULL,2409,25/09/2024
+e3b38487-f886-420c-bc07-a7269d648da8,CUST0152,Anthony Sharp,Female,32,East,PROD087,Four,Home & Kitchen,1,NULL,412.08,09/11/2024
+72535846-57e4-4f13-b523-076b8a457a06,CUST0153,Elizabeth Castro,Male,43,East,PROD017,Time,Groceries,4,NULL,1722.01,30/01/2025
+a83d994e-5716-45de-9403-fcde09687a48,CUST0153,Elizabeth Castro,Male,43,East,PROD041,Military,Home & Kitchen,3,NULL,793.1,01/09/2024
+0799f4fe-cdcb-44d6-806d-d7e28c96cb5b,CUST0154,Sandra Robinson,Male,59,North,PROD061,Long,Clothing,2,NULL,365.48,25/08/2024
+d80a56be-0e23-43b0-9fcc-5bf51504b44e,CUST0154,Sandra Robinson,Male,59,North,PROD074,Nature,Groceries,5,NULL,952.8,25/09/2024
+3794c66d-019c-404d-ad3f-734fe61c2d47,CUST0154,Sandra Robinson,Male,59,North,PROD020,Send,Books,3,NULL,1425.84,16/05/2024
+91aab323-ebb6-434b-92bb-f61cf41ad8f7,CUST0154,Sandra Robinson,Male,59,North,PROD086,Vote,Clothing,5,NULL,1186.43,27/08/2024
+29089924-292a-4c39-afab-70b749a513de,CUST0154,Sandra Robinson,Male,59,North,PROD027,Country,Clothing,5,NULL,1520.55,20/04/2025
+cbfde2a8-3667-4cdf-a76e-90e7ed2bf057,CUST0154,Sandra Robinson,Male,59,North,PROD060,Citizen,Sports,5,NULL,1336.7,16/02/2025
+773097eb-dd2d-483d-a99d-ae4b11c298f9,CUST0155,John Wilson,Male,30,South,PROD090,Huge,Clothing,5,NULL,1747,04/05/2024
+44a54cba-43a0-49be-87c1-9a78bcce1b57,CUST0155,John Wilson,Male,30,South,PROD099,Officer,Books,3,NULL,587.9,27/08/2024
+c3f10586-96e9-4c9d-b2e6-ba06994eb97c,CUST0157,Michael Cabrera,Male,49,South,PROD092,Everything,Home & Kitchen,1,NULL,268.29,15/02/2025
+695222a2-bc3d-495e-970f-9d69bbe9ae52,CUST0157,Michael Cabrera,Male,49,South,PROD033,War,Clothing,3,NULL,85.4,27/10/2024
+4bc1d354-055c-4b0f-bb8e-667df8e308f3,CUST0158,Robert Butler,Male,56,West,PROD056,Early,Electronics,1,NULL,340.13,19/05/2024
+f4806754-513d-4998-b88c-7f9674656122,CUST0158,Robert Butler,Male,56,West,PROD059,Determine,Groceries,4,NULL,1558.76,16/11/2024
+e3b03571-96d0-496c-9428-51a8c7c191b2,CUST0159,Maria Bates,Male,66,South,PROD043,More,Groceries,4,NULL,177.19,01/11/2024
+9625d3d0-e46d-4350-b68b-518edef6f458,CUST0159,Maria Bates,Male,66,South,PROD035,Nature,Clothing,4,NULL,894.24,03/03/2025
+951d2edc-3075-459b-b315-0b681973fbd0,CUST0159,Maria Bates,Male,66,South,PROD090,Huge,Clothing,5,NULL,1484.95,11/11/2024
+7b5307fd-085f-47e5-b9cb-7208530d438a,CUST0160,Destiny Herring,Male,69,South,PROD091,Eat,Electronics,3,NULL,621,19/04/2025
+34a975b9-dbd0-4704-af37-67a6d6be434b,CUST0161,Dr. Christopher Foster MD,Male,49,North,PROD052,Economy,Sports,3,NULL,565.41,24/10/2024
+418eba32-9675-43a9-81d5-94c82011f951,CUST0161,Dr. Christopher Foster MD,Male,49,North,PROD088,Cell,Groceries,1,NULL,263.93,28/02/2025
+22d92441-c9e6-4da1-82ed-2eb5f3080c30,CUST0161,Dr. Christopher Foster MD,Male,49,North,PROD002,Western,Clothing,3,NULL,1109.56,25/02/2025
+ca476186-b312-482c-9c29-db48b70df087,CUST0161,Dr. Christopher Foster MD,Male,49,North,PROD062,Important,Sports,5,NULL,2268.25,02/03/2025
+4a774040-a9b3-4b5a-9131-1ff01b7d2334,CUST0161,Dr. Christopher Foster MD,Male,49,North,PROD067,Professor,Groceries,1,NULL,32.87,08/10/2024
+66a64735-cf9b-4775-bf14-bab438fce60d,CUST0162,Shelby Coleman,Female,21,West,PROD022,Image,Groceries,5,NULL,1299.82,05/09/2024
+fa930fb0-33e2-4c96-96a2-e2755439395a,CUST0162,Shelby Coleman,Female,21,West,PROD008,All,Home & Kitchen,5,NULL,1892.5,12/09/2024
+e01062a1-6aba-4b1b-8344-ee4c46ccd2aa,CUST0162,Shelby Coleman,Female,21,West,PROD091,Eat,Electronics,4,NULL,782,20/04/2025
+7f3162f4-8009-4118-94e3-4d0169f163a7,CUST0163,Dr. Johnny Schroeder DVM,Male,47,West,PROD012,Nature,Home & Kitchen,3,NULL,1180.19,12/04/2025
+81148049-338e-4bd3-9c3b-dc71153152ca,CUST0163,Dr. Johnny Schroeder DVM,Male,47,West,PROD030,Of,Sports,4,NULL,1583.44,19/05/2024
+05c55f3c-5c12-4a60-806e-f4ff0d152f93,CUST0163,Dr. Johnny Schroeder DVM,Male,47,West,PROD093,Movie,Books,1,NULL,294.24,15/11/2024
+b98f3fa9-c636-45a2-a8fd-a006221e09c4,CUST0163,Dr. Johnny Schroeder DVM,Male,47,West,PROD069,Answer,Books,5,NULL,300.1,15/04/2025
+13d3a618-4d17-4fb6-aa4c-9d19faa70b75,CUST0164,Tara Kirby,Male,54,East,PROD031,Process,Home & Kitchen,4,NULL,180.54,13/07/2024
+9a04bb5f-be13-48c8-8fab-e19f4860771f,CUST0164,Tara Kirby,Male,54,East,PROD065,Use,Electronics,1,NULL,10.62,22/08/2024
+b81268b0-09e6-472e-8cda-e203ede4d0f9,CUST0164,Tara Kirby,Male,54,East,PROD027,Country,Clothing,1,NULL,321,07/09/2024
+b4616090-91de-4d79-859d-57b5147e02a4,CUST0165,Kathy Cox,Female,40,West,PROD014,Including,Books,4,NULL,1793.12,26/05/2024
+70be07a8-7f29-45d1-8528-0607ecad80f2,CUST0165,Kathy Cox,Female,40,West,PROD090,Huge,Clothing,3,NULL,943.38,12/07/2024
+4b545217-eaa0-44c8-8157-37e13ffed895,CUST0165,Kathy Cox,Female,40,West,PROD007,Accept,Sports,1,NULL,357.85,30/10/2024
+7b264991-f357-454b-8cf4-0a105a76c24a,CUST0165,Kathy Cox,Female,40,West,PROD093,Movie,Books,4,NULL,1059.26,21/11/2024
+07875d99-7d11-48d2-a934-aa8440e461d0,CUST0165,Kathy Cox,Female,40,West,PROD087,Four,Home & Kitchen,5,NULL,2424,25/10/2024
+82c65abb-4c04-4a14-bd65-a75aac062a33,CUST0166,Mitchell Kim,Female,56,West,PROD046,Low,Groceries,5,NULL,1853.19,11/09/2024
+fba6d8ec-500e-4477-8a8b-fd8b3ba156eb,CUST0166,Mitchell Kim,Female,56,West,PROD058,Act,Home & Kitchen,2,NULL,78.76,14/06/2024
+2252b5bc-6ec5-4e95-a528-c0c00991d3e4,CUST0167,Jason Burton,Male,62,North,PROD015,From,Sports,1,NULL,168,15/11/2024
+4cf600dc-cd19-4d37-90b8-5a4c216ddfd1,CUST0167,Jason Burton,Male,62,North,PROD078,Number,Books,3,NULL,1373.13,07/04/2025
+16e4225c-7dda-4ee4-bafa-05e59b7648f6,CUST0167,Jason Burton,Male,62,North,PROD003,None,Books,3,NULL,442.93,05/10/2024
+920c5345-8680-42eb-b911-6d75c3b43072,CUST0167,Jason Burton,Male,62,North,PROD011,Computer,Home & Kitchen,5,NULL,1084.18,26/08/2024
+0039db18-4912-4d6d-9298-bd0da9ed576f,CUST0167,Jason Burton,Male,62,North,PROD040,Line,Home & Kitchen,4,NULL,1375.02,28/08/2024
+fa46eb46-251c-4e3f-b993-ddd1e1812e39,CUST0167,Jason Burton,Male,62,North,PROD064,Until,Electronics,2,NULL,472.81,02/05/2024
+b735cf7f-7e53-44eb-99ab-860d2bf18e39,CUST0167,Jason Burton,Male,62,North,PROD018,Story,Groceries,1,NULL,47.68,12/08/2024
+4aa702e6-f241-4d20-bda5-79117f06b2e9,CUST0167,Jason Burton,Male,62,North,PROD063,Or,Books,1,NULL,60.04,30/09/2024
+f9245e51-cac4-417f-9318-03fe510e5c98,CUST0168,Christopher Silva,Male,32,South,PROD052,Economy,Sports,4,NULL,678.49,09/04/2025
+c42e8f42-5c8c-4a88-8a08-c68f6995ec77,CUST0168,Christopher Silva,Male,32,South,PROD086,Vote,Clothing,5,NULL,1186.43,21/02/2025
+a449d951-cb6a-4460-a9ef-fe8949a9ddef,CUST0168,Christopher Silva,Male,32,South,PROD016,Budget,Home & Kitchen,5,NULL,51.8,21/02/2025
+c3b174d4-72a7-4b76-95fa-f51cd7466dce,CUST0168,Christopher Silva,Male,32,South,PROD078,Number,Books,3,NULL,1373.13,01/09/2024
+a1fe360a-4230-4abe-9d39-b2fb2532000a,CUST0169,Jessica Bernard,Female,60,West,PROD091,Eat,Electronics,4,NULL,920,10/10/2024
+bd364c90-1088-449c-8825-5c7a20b14cfe,CUST0169,Jessica Bernard,Female,60,West,PROD082,Beautiful,Sports,1,NULL,379.2,04/03/2025
+c6091271-92a2-4337-a1c7-aef8a10aa7e8,CUST0169,Jessica Bernard,Female,60,West,PROD045,Family,Clothing,2,NULL,77.94,30/09/2024
+e52a2cd7-0425-48d4-a225-0411895018d0,CUST0169,Jessica Bernard,Female,60,West,PROD010,Unit,Books,2,NULL,903.52,28/01/2025
+f23e1d9e-176b-431c-9023-bd6460081a32,CUST0169,Jessica Bernard,Female,60,West,PROD011,Computer,Home & Kitchen,1,NULL,255.1,04/11/2024
+b70d4acc-98c5-4d7f-a993-8b7be641ccc7,CUST0170,Matthew Townsend,Male,46,West,PROD059,Determine,Groceries,1,NULL,389.69,05/10/2024
+be1adaed-4875-4a90-b58e-52f8bc5a6bec,CUST0170,Matthew Townsend,Male,46,West,PROD087,Four,Home & Kitchen,3,NULL,1236.24,05/04/2025
+ca786823-bf8c-41ee-9fa6-1ebf8f87a9da,CUST0171,Kevin Jackson,Female,53,North,PROD008,All,Home & Kitchen,3,NULL,1135.5,02/12/2024
+d6b1ab06-5383-4397-ae70-786654790082,CUST0171,Kevin Jackson,Female,53,North,PROD000,Drive,Electronics,4,NULL,753.3,27/10/2024
+c144517f-96b4-45a8-9b73-2828c9cc1c43,CUST0171,Kevin Jackson,Female,53,North,PROD083,Environmental,Sports,1,NULL,252.9,13/02/2025
+4f5d66ec-2463-476e-a3c2-494fa132a2f9,CUST0172,Allison Green,Female,30,West,PROD094,Left,Home & Kitchen,4,NULL,1623.85,06/02/2025
+b3780841-c35f-40b5-9b62-49a71283b880,CUST0173,Angela Smith,Male,49,West,PROD079,Civil,Books,4,NULL,44.08,03/11/2024
+870bb579-147a-4571-8f85-9e4fc0ac3572,CUST0173,Angela Smith,Male,49,West,PROD014,Including,Books,4,NULL,1793.12,18/02/2025
+dff75cb1-4e9c-475b-82d4-e434f4bc92a8,CUST0173,Angela Smith,Male,49,West,PROD058,Act,Home & Kitchen,4,NULL,157.52,22/04/2024
+b296b604-743b-4b0c-b8eb-53e808b7b440,CUST0173,Angela Smith,Male,49,West,PROD023,Ok,Groceries,4,NULL,1080.38,29/01/2025
+1546f73d-fe97-4963-90e8-e2223887413d,CUST0173,Angela Smith,Male,49,West,PROD099,Officer,Books,4,NULL,783.87,23/02/2025
+e6cdb484-523a-4441-a398-9d563214a87a,CUST0174,Sandra Robinson,Male,24,North,PROD046,Low,Groceries,1,NULL,391.23,07/05/2024
+942b7d2a-890b-4650-88d2-19c8d0e074ed,CUST0174,Sandra Robinson,Male,24,North,PROD045,Family,Clothing,3,NULL,110.75,16/02/2025
+1ce1efd7-a8fb-456e-9841-e70725bcde52,CUST0174,Sandra Robinson,Male,24,North,PROD014,Including,Books,5,NULL,2017.26,02/11/2024
+a7b05f89-cdf9-41c2-8e03-6e9ae41b454f,CUST0174,Sandra Robinson,Male,24,North,PROD061,Long,Clothing,5,NULL,967.46,19/10/2024
+6370fd24-2f50-4ba0-a636-15ca71824420,CUST0175,Jason Jenkins,Male,68,East,PROD087,Four,Home & Kitchen,1,NULL,484.8,08/02/2025
+be36ed60-d113-459f-8838-cc606f25b504,CUST0175,Jason Jenkins,Male,68,East,PROD052,Economy,Sports,5,NULL,801,26/08/2024
+10005d81-001f-492a-919d-0a405922fefd,CUST0176,Wendy Carr,Female,39,East,PROD042,Involve,Home & Kitchen,5,NULL,234,03/10/2024
+78cf309e-0177-4fde-b6c3-3b760222d182,CUST0176,Wendy Carr,Female,39,East,PROD055,Determine,Groceries,1,NULL,443.76,19/07/2024
+9de8dce4-6249-4b9a-abeb-4c7697884132,CUST0176,Wendy Carr,Female,39,East,PROD069,Answer,Books,4,NULL,240.08,02/10/2024
+72309569-9fb6-47f0-9e01-dcaba437cd6d,CUST0176,Wendy Carr,Female,39,East,PROD036,Write,Sports,4,NULL,1777.64,04/04/2025
+8a06b267-a7c2-4ccb-a097-a72c69ec16c2,CUST0176,Wendy Carr,Female,39,East,PROD011,Computer,Home & Kitchen,5,NULL,1275.5,31/10/2024
+b4343b77-5a2c-41e2-b781-037fd79a6096,CUST0177,Karen Trevino,Female,45,West,PROD057,Part,Electronics,2,NULL,363.38,10/08/2024
+f231a01e-8573-4eb3-8bf2-018b1cde14e9,CUST0177,Karen Trevino,Female,45,West,PROD061,Long,Clothing,5,NULL,1021.2,02/11/2024
+0eed0b01-9474-4ba1-8870-3c5aa0b23189,CUST0177,Karen Trevino,Female,45,West,PROD087,Four,Home & Kitchen,3,NULL,1308.96,23/04/2024
+bcd6686c-0019-47c8-934e-71759331daaf,CUST0178,Lisa Melton,Female,19,West,PROD055,Determine,Groceries,4,NULL,1972.28,18/08/2024
+84c51226-bb26-4086-838c-065635cc0905,CUST0178,Lisa Melton,Female,19,West,PROD077,Consumer,Electronics,5,NULL,549.48,11/08/2024
+e30d9d9e-1d34-491c-810a-4346576bc131,CUST0179,Casey Perez,Female,59,South,PROD039,Meeting,Sports,4,NULL,287.96,25/09/2024
+d8c8eb18-2877-49c0-8735-011d3eec44a8,CUST0179,Casey Perez,Female,59,South,PROD090,Huge,Clothing,5,NULL,1484.95,11/02/2025
+2ecd047a-df1c-4035-859c-a467286009a7,CUST0179,Casey Perez,Female,59,South,PROD086,Vote,Clothing,5,NULL,1326.01,24/11/2024
+2a3b2b86-ba85-4baf-b83d-e942f967a475,CUST0180,Shannon Larsen,Female,62,West,PROD013,On,Groceries,5,NULL,776.24,19/04/2025
+31e1d7df-b7c0-4ffb-9a69-89b141710288,CUST0180,Shannon Larsen,Female,62,West,PROD078,Number,Books,4,NULL,1734.48,05/11/2024
+d0ead9dd-26dd-4229-9819-ad54d616fa97,CUST0180,Shannon Larsen,Female,62,West,PROD058,Act,Home & Kitchen,5,NULL,220.07,08/04/2025
+f7a68614-b3c8-4685-99a5-38aecedda549,CUST0181,Kristin Jones,Male,23,South,PROD034,Everything,Clothing,4,NULL,1108.08,17/05/2024
+baf07b2e-f892-41a7-9317-79b8cfebbdd5,CUST0181,Kristin Jones,Male,23,South,PROD028,Term,Groceries,3,NULL,962.45,15/06/2024
+a0d764ef-6211-4db6-b0aa-a1f941137791,CUST0182,Ashley Cortez,Male,45,East,PROD019,Difficult,Sports,1,NULL,163.06,07/04/2025
+dfc48296-a384-4d3f-a9a6-2ba22cb7a576,CUST0182,Ashley Cortez,Male,45,East,PROD041,Military,Home & Kitchen,4,NULL,1057.47,07/02/2025
+3bd80d18-e129-4b39-8fdd-8518516fd286,CUST0182,Ashley Cortez,Male,45,East,PROD039,Meeting,Sports,3,NULL,215.97,21/11/2024
+6584faae-dc5c-4d7d-9291-1e3bfb541cf7,CUST0183,Angela Myers,Male,45,West,PROD047,Apply,Clothing,4,NULL,1347.44,12/04/2025
+db72ecea-eaff-4c27-a56d-e0c32d1867cf,CUST0183,Angela Myers,Male,45,West,PROD075,Someone,Books,1,NULL,131.79,29/01/2025
+715a2fdd-72b2-45ae-b78a-83e1608fcc5f,CUST0183,Angela Myers,Male,45,West,PROD064,Until,Electronics,3,NULL,709.22,05/05/2024
+0c3887f1-6d45-4b20-985a-69683a59b418,CUST0184,Jessica Warren DDS,Female,61,West,PROD097,Fire,Clothing,3,NULL,1426.35,21/10/2024
+42200d6b-1244-44fd-a19a-e9a2992f4859,CUST0184,Jessica Warren DDS,Female,61,West,PROD032,Sport,Sports,1,NULL,224.77,15/07/2024
+bedeaebe-6c19-4180-a638-6d8431022af2,CUST0184,Jessica Warren DDS,Female,61,West,PROD086,Vote,Clothing,3,NULL,711.86,28/09/2024
+b1833884-5f00-45c4-bf44-a84081043675,CUST0184,Jessica Warren DDS,Female,61,West,PROD046,Low,Groceries,5,NULL,1853.19,07/10/2024
+a7780304-a051-4062-ae88-ba8af4bd86e4,CUST0184,Jessica Warren DDS,Female,61,West,PROD006,Season,Groceries,2,NULL,434.7,11/11/2024
+d0f80176-4ba2-485e-8799-021ee21e1116,CUST0184,Jessica Warren DDS,Female,61,West,PROD057,Part,Electronics,4,NULL,650.25,12/04/2025
+882072f5-17fe-417a-aa11-3a8ebf7bae9c,CUST0185,Jordan Burke,Female,61,North,PROD011,Computer,Home & Kitchen,4,NULL,1020.4,01/02/2025
+c8086cab-e4fb-4436-b500-2dc3fbde952d,CUST0185,Jordan Burke,Female,61,North,PROD070,Hard,Books,3,NULL,979.08,25/02/2025
+9ba0b791-bfa7-42c9-89b7-0614cd9144c4,CUST0185,Jordan Burke,Female,61,North,PROD077,Consumer,Electronics,1,NULL,109.9,03/11/2024
+f48a2297-2b68-4c15-8c3f-4cb23c571b8a,CUST0186,Samantha Hardin,Male,37,West,PROD014,Including,Books,5,NULL,2129.33,01/11/2024
+3fb48f8c-13da-43a2-b2c1-a9ab0bac8389,CUST0186,Samantha Hardin,Male,37,West,PROD091,Eat,Electronics,4,NULL,920,04/02/2025
+8af25b91-842b-4d00-838c-fd82ce2319d6,CUST0186,Samantha Hardin,Male,37,West,PROD050,Save,Groceries,2,NULL,888.1,12/11/2024
+52a57bcb-569e-4462-bafd-4aef0f189690,CUST0187,Keith Davis,Male,47,East,PROD023,Ok,Groceries,4,NULL,1080.38,27/10/2024
+aa9612e7-7fc0-4915-93be-271fc86929ff,CUST0188,Stephanie Powell,Male,28,West,PROD058,Act,Home & Kitchen,4,NULL,166.79,08/04/2025
+68520deb-7c0e-44e1-8582-57dc05170598,CUST0189,Willie Rivera,Male,45,South,PROD029,Responsibility,Electronics,1,NULL,376.99,05/05/2024
+43390115-8d98-4edb-b53e-01b4d00e8b87,CUST0190,Philip Hahn,Female,42,West,PROD013,On,Groceries,2,NULL,277.81,16/02/2025
+a6dbf8f9-0360-4f4c-8aff-d6226ef601d4,CUST0190,Philip Hahn,Female,42,West,PROD056,Early,Electronics,1,NULL,359.02,27/10/2024
+97929d16-d018-4f05-8b3c-f31f8b421431,CUST0190,Philip Hahn,Female,42,West,PROD002,Western,Clothing,3,NULL,1051.16,20/10/2024
+9e1ede77-b742-4617-89cd-4e4fecb80725,CUST0190,Philip Hahn,Female,42,West,PROD062,Important,Sports,5,NULL,1928.01,04/04/2025
+51207a32-c218-45e9-9ae9-2963563342db,CUST0190,Philip Hahn,Female,42,West,PROD098,Will,Home & Kitchen,1,NULL,423.4,06/11/2024
+e7567a72-c2ea-43c0-a333-c3df6417a237,CUST0190,Philip Hahn,Female,42,West,PROD052,Economy,Sports,4,NULL,678.49,08/09/2024
+9b1bf0e7-2267-4662-9bb7-10fbe5710a93,CUST0191,Joseph Cooper,Male,56,South,PROD043,More,Groceries,5,NULL,209.84,24/04/2024
+5d3d7f00-bff8-4bc3-9ff0-d95ded3084e1,CUST0191,Joseph Cooper,Male,56,South,PROD051,Sure,Electronics,4,NULL,722.99,07/10/2024
+192064ee-55b1-4590-b148-38b4bf9332ea,CUST0192,Jonathon White,Female,50,North,PROD020,Send,Books,1,NULL,475.28,27/05/2024
+b8c29057-c698-4d1b-ad49-ed38ee04cef4,CUST0193,Jill Alvarado,Male,18,West,PROD044,Box,Electronics,5,NULL,1495.92,13/02/2025
+17c56c02-4ae8-4ddb-b7f9-9a57c4e8da08,CUST0193,Jill Alvarado,Male,18,West,PROD005,Decision,Clothing,4,NULL,1547.68,16/05/2024
+8bd191d4-0012-4ab1-a4ae-d1087f31497f,CUST0193,Jill Alvarado,Male,18,West,PROD072,That,Clothing,4,NULL,1116.33,18/10/2024
+b7d28293-c81c-40f3-801e-9ec635230971,CUST0193,Jill Alvarado,Male,18,West,PROD028,Term,Groceries,3,NULL,1132.29,25/08/2024
+1cfc2e69-6e3e-4d87-808e-d2eded635c2b,CUST0193,Jill Alvarado,Male,18,West,PROD070,Hard,Books,4,NULL,1305.44,27/04/2024
+a60a931c-5e5c-496b-80ad-c631a1f438b8,CUST0194,Crystal Gomez,Female,44,North,PROD087,Four,Home & Kitchen,4,NULL,1648.32,25/04/2024
+f1bfd1f2-301a-428a-9329-133e1aa2c31b,CUST0195,Jill Summers,Female,69,North,PROD076,Power,Electronics,5,NULL,1957.32,20/10/2024
+474a5de5-fed9-42a3-9a89-228062a5a688,CUST0195,Jill Summers,Female,69,North,PROD047,Apply,Clothing,2,NULL,602.8,10/09/2024
+d07b3c01-7d91-465e-82cd-9bec3572d9ca,CUST0195,Jill Summers,Female,69,North,PROD006,Season,Groceries,3,NULL,652.05,27/01/2025
+8e802828-e87c-4cc4-8a89-d998de523918,CUST0196,Mrs. Sheryl Torres,Male,30,West,PROD045,Family,Clothing,2,NULL,77.94,05/10/2024
+249c021c-199a-4d37-8e0d-c67fd5f19156,CUST0197,Christopher Hall,Male,58,South,PROD084,Act,Electronics,2,NULL,844.08,23/04/2024
+3d52a8aa-8aa4-466d-9f52-68dd6d30420e,CUST0197,Christopher Hall,Male,58,South,PROD064,Until,Electronics,4,NULL,895.86,25/09/2024
+458015c9-8efe-4a80-96fb-e267ab63d234,CUST0197,Christopher Hall,Male,58,South,PROD001,Fire,Groceries,3,NULL,482.33,28/04/2024
+2d104f10-133a-479e-975e-dd18fc3c2682,CUST0198,Richard Johnson,Female,20,West,PROD099,Officer,Books,1,NULL,219.02,06/09/2024
+6016427d-3671-4761-b45a-4b433f1d80f5,CUST0199,Tanner Hamilton,Male,56,South,PROD060,Citizen,Sports,1,NULL,239.2,02/12/2024
+777baf37-b5a6-454b-a59a-d1ff4d332d27,CUST0199,Tanner Hamilton,Male,56,South,PROD040,Line,Home & Kitchen,3,NULL,1145.85,23/05/2024
+0552bdae-72f7-43dc-bbc7-a01989886f9c,CUST0199,Tanner Hamilton,Male,56,South,PROD081,Wish,Home & Kitchen,1,NULL,26.36,06/05/2024
+c96c4404-4f5e-4b2d-8f7e-bb0e3b1b0c36,CUST0199,Tanner Hamilton,Male,56,South,PROD087,Four,Home & Kitchen,3,NULL,1308.96,14/04/2025
+c257ddac-e452-4be1-b06a-6768804d03af,CUST0200,Amber Salazar,Male,23,North,PROD075,Someone,Books,1,NULL,131.79,01/09/2024
+d437459d-63b1-48c5-8b75-52b7c1af013a,CUST0200,Amber Salazar,Male,23,North,PROD075,Someone,Books,1,NULL,131.79,01/12/2024
+a600e27b-02fe-4f64-84cf-892497d38c77,CUST0200,Amber Salazar,Male,23,North,PROD069,Answer,Books,3,NULL,180.06,07/08/2024
+f4f7c761-c0b9-401b-be9f-e801807e9d58,CUST0200,Amber Salazar,Male,23,North,PROD022,Image,Groceries,5,NULL,1227.61,07/02/2025
+d44f92cd-877f-4f1d-b520-7f8b680f814e,CUST0201,Monica Barr,Male,25,East,PROD078,Number,Books,3,NULL,1300.86,02/05/2024
+054104b1-9fed-4c75-a4fa-b404f5956efe,CUST0201,Monica Barr,Male,25,East,PROD009,Everybody,Groceries,5,NULL,280.25,22/02/2025
+6f1d3ba0-3285-48ef-aedb-b934a8abd18a,CUST0201,Monica Barr,Male,25,East,PROD087,Four,Home & Kitchen,2,NULL,824.16,01/09/2024
+491e368a-700b-4e3b-b20a-be6a1c93e5c6,CUST0201,Monica Barr,Male,25,East,PROD052,Economy,Sports,3,NULL,480.6,17/07/2024
+a307d993-6dd2-4056-815a-ce96206086d7,CUST0202,Mackenzie Kelley,Male,44,West,PROD035,Nature,Clothing,1,NULL,223.56,09/10/2024
+be868d58-5189-4edb-9800-99aed7f8307a,CUST0202,Mackenzie Kelley,Male,44,West,PROD084,Act,Electronics,1,NULL,422.04,23/04/2024
+3e6c9abc-6807-4ea1-99fc-c0a756e2e185,CUST0202,Mackenzie Kelley,Male,44,West,PROD051,Sure,Electronics,5,NULL,903.73,30/11/2024
+94c1c41f-1e17-4f1f-a905-23432492873d,CUST0202,Mackenzie Kelley,Male,44,West,PROD031,Process,Home & Kitchen,1,NULL,50.15,12/09/2024
+53a073ac-08dc-4153-8738-61635c01468e,CUST0203,Suzanne Duran,Male,26,East,PROD030,Of,Sports,5,NULL,1781.37,13/02/2025
+2a02b025-cc06-4aa2-9d3c-72994803e232,CUST0203,Suzanne Duran,Male,26,East,PROD046,Low,Groceries,5,NULL,2059.1,12/02/2025
+367a923d-1a52-4130-87ea-0d48ff695f1f,CUST0203,Suzanne Duran,Male,26,East,PROD028,Term,Groceries,5,NULL,1792.79,01/03/2025
+b9454833-76e7-4c58-beb9-3edaa7dcd2b6,CUST0203,Suzanne Duran,Male,26,East,PROD012,Nature,Home & Kitchen,2,NULL,828.2,17/04/2025
+e73975c0-0f7b-4b02-92b5-4a3373b5c5a7,CUST0204,Charlotte Allen,Male,54,South,PROD095,Couple,Home & Kitchen,4,NULL,93.5,13/04/2025
+a1b88d64-7845-4756-bef9-bc004d39c788,CUST0204,Charlotte Allen,Male,54,South,PROD016,Budget,Home & Kitchen,3,NULL,31.08,02/11/2024
+3eae3a6a-16e2-4bde-b46a-5c48377c01e5,CUST0204,Charlotte Allen,Male,54,South,PROD086,Vote,Clothing,3,NULL,837.48,01/09/2024
+d93c0bf7-68bb-4853-8dd1-847b9364692b,CUST0205,Ricky Hunt,Female,50,West,PROD035,Nature,Clothing,4,NULL,849.53,21/10/2024
+20524ca3-b7f2-4525-8a79-678d9dc052a2,CUST0206,Crystal Brown,Female,68,East,PROD034,Everything,Clothing,5,NULL,1177.33,23/11/2024
+2cc0d03b-74af-4e16-8021-c7a34d85955f,CUST0206,Crystal Brown,Female,68,East,PROD084,Act,Electronics,3,NULL,1415.08,26/10/2024
+36e20d25-54a1-4a3f-86a5-1ac70a20eb3b,CUST0207,John Allen,Female,59,East,PROD054,Voice,Clothing,5,NULL,2132.5,22/04/2024
+db97b7f5-21f1-473d-a085-03b151b0f090,CUST0207,John Allen,Female,59,East,PROD055,Determine,Groceries,3,NULL,1479.21,03/10/2024
+77b96403-fcab-4fa8-9cd8-3332a4ddb615,CUST0207,John Allen,Female,59,East,PROD099,Officer,Books,1,NULL,195.97,24/10/2024
+01003906-8e8c-449a-a6b3-30dcafe76102,CUST0208,Shannon Dean,Male,61,West,PROD083,Environmental,Sports,4,NULL,905.11,15/07/2024
+767ae539-1b16-4a35-97c5-e12af81e93ec,CUST0208,Shannon Dean,Male,61,West,PROD015,From,Sports,5,NULL,889.42,23/04/2024
+b917e5b3-26bc-4b8e-b78b-d07ffaa3e716,CUST0209,Brooke Frank,Female,41,East,PROD099,Officer,Books,3,NULL,691.65,21/04/2025
+09569b5c-39ff-4e69-b7d5-99466415e2a6,CUST0209,Brooke Frank,Female,41,East,PROD087,Four,Home & Kitchen,4,NULL,1648.32,17/02/2025
+f7613628-9649-4075-a7c4-39a35b8b7794,CUST0209,Brooke Frank,Female,41,East,PROD065,Use,Electronics,1,NULL,10.62,18/08/2024
+15e844d4-6b4f-4944-bb56-5632bf51b71e,CUST0209,Brooke Frank,Female,41,East,PROD046,Low,Groceries,1,NULL,391.23,07/08/2024
+2156e618-cb3f-4e18-9f47-399dd3fcfd0d,CUST0210,Nicholas Newman,Male,32,West,PROD069,Answer,Books,5,NULL,284.31,05/05/2024
+936b60e4-3af6-45e6-b1d3-de8953c5a0d3,CUST0211,Alicia Maynard,Male,49,East,PROD017,Time,Groceries,2,NULL,906.32,09/05/2024
+d3446198-5ba7-478a-89a6-92ad16b43bbb,CUST0211,Alicia Maynard,Male,49,East,PROD070,Hard,Books,5,NULL,1387.03,25/11/2024
+06e83e41-38f3-4c6f-b3ba-89908555835b,CUST0211,Alicia Maynard,Male,49,East,PROD021,Financial,Groceries,2,NULL,951.1,30/11/2024
+fea78600-56e0-454a-9fdb-87439b0eb3ea,CUST0211,Alicia Maynard,Male,49,East,PROD024,Share,Clothing,1,NULL,215.63,10/04/2025
+f301717f-8092-4ff1-88a7-44aa7d6f6e14,CUST0211,Alicia Maynard,Male,49,East,PROD028,Term,Groceries,2,NULL,717.12,22/10/2024
+67bea2e5-4a3d-439f-9f3d-c19eba3f5727,CUST0212,Jason Brooks,Female,49,North,PROD069,Answer,Books,5,NULL,268.52,12/11/2024
+b1f9c800-8eac-425c-8955-b6ef9ce6fe05,CUST0213,Kayla Anderson,Male,41,West,PROD037,Force,Books,1,NULL,151.89,23/04/2024
+0dc07199-f856-4d12-bb03-84aad9e1259e,CUST0213,Kayla Anderson,Male,41,West,PROD030,Of,Sports,5,NULL,1880.34,30/05/2024
+211059ab-83a1-4c65-b3bd-6dac97bc6729,CUST0214,Donna Young,Female,58,North,PROD081,Wish,Home & Kitchen,5,NULL,112.03,07/11/2024
+00e4241a-dd4e-426c-a24a-fcc225364e83,CUST0214,Donna Young,Female,58,North,PROD062,Important,Sports,1,NULL,430.97,19/02/2025
+5aec8118-ca38-4ccb-b567-e0c93415a9be,CUST0216,Lance Sanders,Female,66,East,PROD080,Whom,Electronics,2,NULL,873.16,27/11/2024
+058851a4-946f-4b40-b13c-376f8f21a08a,CUST0217,Mia Hunter,Female,66,South,PROD079,Civil,Books,2,NULL,18.73,28/10/2024
+f637deeb-d9df-4ca5-a779-d3bbe8721581,CUST0217,Mia Hunter,Female,66,South,PROD077,Consumer,Electronics,1,NULL,98.33,27/02/2025
+6a9107ab-d38e-4314-a466-da8ca006b048,CUST0218,Danielle Munoz,Female,69,North,PROD083,Environmental,Sports,5,NULL,1197.94,05/02/2025
+a5a602a2-3068-4ee0-a86c-d60d4afea8e4,CUST0218,Danielle Munoz,Female,69,North,PROD039,Meeting,Sports,5,NULL,341.01,19/05/2024
+3094ab2b-a0c0-4e06-8a59-d618827be76a,CUST0218,Danielle Munoz,Female,69,North,PROD077,Consumer,Electronics,3,NULL,312.34,26/11/2024
+39e45915-4403-4fae-b6e2-0af463a84acf,CUST0219,Peter Ball,Female,29,North,PROD040,Line,Home & Kitchen,2,NULL,725.7,22/02/2025
+f3d55cff-2bc8-4ee9-a736-5cba9027bfa3,CUST0219,Peter Ball,Female,29,North,PROD021,Financial,Groceries,1,NULL,428,07/02/2025
+b1aef93b-c454-458d-9044-46f641db9704,CUST0220,Kenneth Cooper,Male,56,North,PROD013,On,Groceries,1,NULL,163.42,15/06/2024
+b017aea8-fd6f-44c1-bba8-a4d92f300cb6,CUST0221,Tiffany Collins,Male,19,South,PROD094,Left,Home & Kitchen,3,NULL,1217.89,10/04/2025
+479c3c7b-e26b-4304-a197-a9512fd688a2,CUST0221,Tiffany Collins,Male,19,South,PROD012,Nature,Home & Kitchen,3,NULL,1180.19,19/07/2024
+cc9ed783-990c-4966-9b6f-09d767db783c,CUST0221,Tiffany Collins,Male,19,South,PROD023,Ok,Groceries,5,NULL,1350.48,16/08/2024
+eaf75052-dc79-4216-93b1-982eec3f42a7,CUST0221,Tiffany Collins,Male,19,South,PROD084,Act,Electronics,2,NULL,844.08,22/10/2024
+d0a405af-9de8-45fc-9d33-08915f35665d,CUST0221,Tiffany Collins,Male,19,South,PROD089,Drug,Electronics,5,NULL,1345.34,25/02/2025
+35d55141-fe85-4c86-b759-78f7a1f7602b,CUST0222,James Barron,Female,20,South,PROD084,Act,Electronics,2,NULL,943.39,28/01/2025
+11023ea4-1f1c-4ece-9e98-bd57329b3949,CUST0222,James Barron,Female,20,South,PROD072,That,Clothing,3,NULL,837.24,24/08/2024
+627ce34d-a46d-4ace-adcd-118608303c34,CUST0223,Patrick Wilson,Male,66,North,PROD093,Movie,Books,2,NULL,588.48,11/08/2024
+9aefd31e-46da-4558-8321-19f3aeb2dfe5,CUST0224,Miss Krystal Brewer,Male,54,South,PROD015,From,Sports,4,NULL,711.54,14/02/2025
+227b0f5e-a7c2-46a8-8d45-eb6b5c9abf2b,CUST0224,Miss Krystal Brewer,Male,54,South,PROD010,Unit,Books,5,NULL,2258.8,04/09/2024
+26764f23-c342-444a-b192-120e21f7f25c,CUST0224,Miss Krystal Brewer,Male,54,South,PROD001,Fire,Groceries,2,NULL,340.47,22/02/2025
+d1669a3a-d53b-47ff-8d67-0709e1c586c6,CUST0224,Miss Krystal Brewer,Male,54,South,PROD093,Movie,Books,1,NULL,279.53,01/02/2025
+67ebdd72-b2db-4dff-aafd-b52bc38381ff,CUST0224,Miss Krystal Brewer,Male,54,South,PROD093,Movie,Books,2,NULL,588.48,24/08/2024
+d840f109-72a2-4286-aba8-da5e95fb6944,CUST0226,Heather Baldwin,Female,34,South,PROD097,Fire,Clothing,1,NULL,451.68,28/02/2025
+b107c293-edac-4679-a02d-b23c1ae20877,CUST0226,Heather Baldwin,Female,34,South,PROD083,Environmental,Sports,3,NULL,678.84,04/12/2024
+b01788ab-4d21-4761-98b2-7f21a326db06,CUST0227,Brittany Chambers,Male,66,West,PROD021,Financial,Groceries,3,NULL,1426.65,28/04/2024
+64258b28-e32e-49b7-ae4c-f4d781f83c34,CUST0227,Brittany Chambers,Male,66,West,PROD062,Important,Sports,2,NULL,907.3,14/02/2025
+25bad82e-2a42-4bea-a3f4-73afd792d675,CUST0227,Brittany Chambers,Male,66,West,PROD016,Budget,Home & Kitchen,1,NULL,9.32,30/08/2024
+8aac09dd-d958-47a9-b085-1ad710b90892,CUST0227,Brittany Chambers,Male,66,West,PROD073,Note,Electronics,4,NULL,1925.12,12/10/2024
+b2f9f401-5afa-4daf-a845-7420001386c0,CUST0227,Brittany Chambers,Male,66,West,PROD099,Officer,Books,3,NULL,587.9,12/09/2024
+97bdda30-940c-4dd4-96a9-c1218d317476,CUST0228,Christopher Gutierrez,Male,19,North,PROD027,Country,Clothing,5,NULL,1520.55,07/10/2024
+b41e1d4c-31f5-40c6-8ba9-4d535ce586b0,CUST0228,Christopher Gutierrez,Male,19,North,PROD047,Apply,Clothing,4,NULL,1205.61,08/04/2025
+fae3316d-1256-47d5-8f64-d730cc22e4cf,CUST0228,Christopher Gutierrez,Male,19,North,PROD044,Box,Electronics,2,NULL,633.56,28/05/2024
+c16365ad-f3da-463a-92f4-a1aff167e826,CUST0229,Diana Jones,Female,19,South,PROD071,Trip,Groceries,5,NULL,1590.73,25/10/2024
+495f6136-b0ee-484d-bc36-cc7343b6ab13,CUST0229,Diana Jones,Female,19,South,PROD069,Answer,Books,2,NULL,120.04,11/08/2024
+a5504658-4fb0-44b0-9fad-c8584f3bcb91,CUST0230,Mark Simon,Male,45,West,PROD056,Early,Electronics,3,NULL,963.7,02/10/2024
+d0251313-3bd0-49be-b1d1-a072f561929e,CUST0230,Mark Simon,Male,45,West,PROD073,Note,Electronics,2,NULL,866.3,28/02/2025
+2bf80ef8-458a-4551-90b1-e53c3dec43c4,CUST0230,Mark Simon,Male,45,West,PROD013,On,Groceries,3,NULL,490.26,23/05/2024
+40441393-38e8-49f1-bee5-0307726eb99e,CUST0230,Mark Simon,Male,45,West,PROD075,Someone,Books,4,NULL,497.86,03/03/2025
+7b32504d-0644-4245-ac8d-3a59948d17e8,CUST0230,Mark Simon,Male,45,West,PROD058,Act,Home & Kitchen,5,NULL,220.07,11/11/2024
+a0a7f45d-f4ac-4a44-b0ce-6f34b5e9f8f4,CUST0230,Mark Simon,Male,45,West,PROD095,Couple,Home & Kitchen,3,NULL,74.25,10/10/2024
+e169a190-26f6-4b1a-b96b-d16c86d4f824,CUST0231,Michael Davis,Male,40,East,PROD034,Everything,Clothing,5,NULL,1177.33,05/11/2024
+8c444974-0a70-484c-90c8-39f605e4016b,CUST0232,Richard Fuller,Male,54,East,PROD047,Apply,Clothing,3,NULL,904.2,05/02/2025
+f7790d46-4982-4a46-b0be-d575291fa46d,CUST0232,Richard Fuller,Male,54,East,PROD043,More,Groceries,2,NULL,83.93,19/10/2024
+6425e76e-586a-44ee-90bb-ba3823c19582,CUST0232,Richard Fuller,Male,54,East,PROD078,Number,Books,5,NULL,2409,10/05/2024
+01414cfe-b4db-4c89-92e9-1bf257232ae5,CUST0232,Richard Fuller,Male,54,East,PROD042,Involve,Home & Kitchen,5,NULL,234,28/04/2024
+0d497252-dc57-437a-9441-f71447c412f8,CUST0232,Richard Fuller,Male,54,East,PROD005,Decision,Clothing,1,NULL,386.92,14/04/2025
+48b0aa55-c916-4331-95bc-61c1f9874504,CUST0232,Richard Fuller,Male,54,East,PROD051,Sure,Electronics,5,NULL,951.3,16/08/2024
+d1aa2d1e-e606-49c2-b658-be55cdf404c4,CUST0232,Richard Fuller,Male,54,East,PROD000,Drive,Electronics,5,NULL,889.31,27/04/2024
+9e2e56fe-67d1-4714-be84-0b672f2e84f5,CUST0232,Richard Fuller,Male,54,East,PROD011,Computer,Home & Kitchen,3,NULL,688.77,01/11/2024
+3f5f9323-1f2c-467c-9d35-f8703e93485a,CUST0233,Joshua Collins,Male,49,South,PROD041,Military,Home & Kitchen,2,NULL,590.94,13/10/2024
+49d4f804-5a4c-4d42-be96-f5fed1a35b15,CUST0233,Joshua Collins,Male,49,South,PROD072,That,Clothing,1,NULL,249.7,27/08/2024
+345d10d8-6164-42bf-98eb-a35d8259774e,CUST0233,Joshua Collins,Male,49,South,PROD080,Whom,Electronics,5,NULL,2061.63,03/11/2024
+8d84adc3-7deb-45a1-bebe-af54c46d9aa3,CUST0233,Joshua Collins,Male,49,South,PROD039,Meeting,Sports,4,NULL,257.65,18/04/2025
+68e41e18-784e-4525-adfc-edd7c274be61,CUST0234,Jillian Norris,Male,50,North,PROD082,Beautiful,Sports,3,NULL,1271.44,06/09/2024
+91a67f92-a075-46c5-9ff3-75e36e0e1c8e,CUST0235,Emily Price,Male,18,South,PROD044,Box,Electronics,2,NULL,633.56,02/03/2025
+c6b113cf-22eb-42eb-8b04-17cadfe2c6b1,CUST0236,Clinton Morris,Male,36,East,PROD098,Will,Home & Kitchen,3,NULL,1136.48,29/11/2024
+8632dfc2-1297-48e7-8571-1381c1bbd3ce,CUST0236,Clinton Morris,Male,36,East,PROD057,Part,Electronics,3,NULL,516.38,07/11/2024
+ee9ce3d9-435b-4805-ab66-00cf1bc41149,CUST0236,Clinton Morris,Male,36,East,PROD052,Economy,Sports,1,NULL,169.62,07/02/2025
+e2c16224-1d4f-4b32-b362-3ef2370673f8,CUST0237,Brent Gonzalez,Female,19,North,PROD026,Figure,Sports,3,NULL,477.92,31/01/2025
+c0a7e22d-2549-437e-96cc-8ac10a5ecb7a,CUST0237,Brent Gonzalez,Female,19,North,PROD007,Accept,Sports,5,NULL,1600.89,15/05/2024
+74fb5fba-20a5-43d9-b52b-4bd80697ceef,CUST0237,Brent Gonzalez,Female,19,North,PROD047,Apply,Clothing,5,NULL,1507.01,20/04/2025
+272913ab-8745-4119-ad69-49c3ef49461c,CUST0237,Brent Gonzalez,Female,19,North,PROD080,Whom,Electronics,2,NULL,921.67,20/08/2024
+6bc47765-612a-4240-a3c3-90e31d5456fe,CUST0238,Andrea Greer,Male,61,North,PROD087,Four,Home & Kitchen,5,NULL,2181.6,09/08/2024
+a168ea9c-3c8f-4525-ac08-9f6e05000fd3,CUST0238,Andrea Greer,Male,61,North,PROD090,Huge,Clothing,2,NULL,698.8,12/09/2024
+7f342f0b-ba9e-4d08-957a-b50af78b988c,CUST0239,Brenda Johnson,Male,43,East,PROD081,Wish,Home & Kitchen,1,NULL,23.72,27/10/2024
+09761b97-315e-45af-99c7-0226b79d6b6b,CUST0240,Eric Wise,Male,49,West,PROD037,Force,Books,1,NULL,169.76,27/02/2025
+37ebe27c-647e-4d58-aeb2-52730967cad3,CUST0241,Joshua Baxter,Male,23,West,PROD067,Professor,Groceries,3,NULL,93.68,27/02/2025
+d1bc0ec6-6b36-462e-aad4-b317e0863e6d,CUST0241,Joshua Baxter,Male,23,West,PROD062,Important,Sports,3,NULL,1360.95,01/09/2024
+f98f3740-8830-4081-99aa-9bd842471c39,CUST0241,Joshua Baxter,Male,23,West,PROD016,Budget,Home & Kitchen,3,NULL,29.53,18/10/2024
+f6d1bf03-3d95-4068-a694-261a3b5187cc,CUST0241,Joshua Baxter,Male,23,West,PROD024,Share,Clothing,5,NULL,1134.9,24/04/2024
+9f9c0f41-7b44-4bdf-9fe8-8142696c5020,CUST0242,Jason Vasquez,Female,49,South,PROD014,Including,Books,3,NULL,1143.11,28/11/2024
+51a0822d-b5b1-4a5d-8312-0059aefef67e,CUST0242,Jason Vasquez,Female,49,South,PROD016,Budget,Home & Kitchen,2,NULL,20.72,10/11/2024
+329ca963-6ca1-4355-baa5-6a426dfa8e1b,CUST0242,Jason Vasquez,Female,49,South,PROD089,Drug,Electronics,2,NULL,601.45,21/04/2025
+67e6ec67-e261-4303-a2a0-0c23dd5f071b,CUST0243,Robert White,Female,21,North,PROD038,Foot,Groceries,1,NULL,53.51,03/11/2024
+48ca049f-54cf-4b55-b663-dd0976a16688,CUST0244,Laura Crane,Female,28,South,PROD055,Determine,Groceries,4,NULL,1972.28,05/04/2025
+7b122a98-dd69-46d6-bb77-ff8e61614647,CUST0245,Parker Allen,Male,34,North,PROD026,Figure,Sports,3,NULL,452.76,28/01/2025
+b26dd81b-ca86-4c52-a879-c1a5a9aaa39f,CUST0245,Parker Allen,Male,34,North,PROD031,Process,Home & Kitchen,5,NULL,238.21,23/10/2024
+2a9bc770-acd6-4b46-b93c-f36b5b864d32,CUST0245,Parker Allen,Male,34,North,PROD061,Long,Clothing,2,NULL,408.48,13/02/2025
+c02186f6-9fed-4ce2-806f-1aebf750fddb,CUST0245,Parker Allen,Male,34,North,PROD060,Citizen,Sports,1,NULL,267.34,21/02/2025
+4e049f46-75e4-4daa-8dea-31c710ac5a84,CUST0246,Kristy Turner,Female,55,East,PROD021,Financial,Groceries,2,NULL,808.44,06/05/2024
+3414269c-1e28-4a37-934b-e41892148d65,CUST0246,Kristy Turner,Female,55,East,PROD084,Act,Electronics,2,NULL,993.04,23/11/2024
+384ab835-d4e9-4493-b0f9-96aa24a81ce8,CUST0246,Kristy Turner,Female,55,East,PROD019,Difficult,Sports,4,NULL,587.02,26/02/2025
+7355618a-17c7-4637-9138-6361ce8975a3,CUST0247,John Spears,Male,41,North,PROD013,On,Groceries,3,NULL,416.72,13/04/2025
+b4328e8d-8714-4620-ba7e-bc4f821455d4,CUST0247,John Spears,Male,41,North,PROD045,Family,Clothing,1,NULL,38.97,03/05/2024
+01e7992c-1478-4c72-b95c-746c9677f6d3,CUST0248,Faith Wood,Female,22,North,PROD077,Consumer,Electronics,4,NULL,393.31,09/11/2024
+045dabe1-1c61-440a-a3ad-c84d1086751f,CUST0248,Faith Wood,Female,22,North,PROD097,Fire,Clothing,5,NULL,2139.52,13/11/2024
+e8492489-5b90-487c-a8c9-246250df0d94,CUST0249,Beth Edwards,Female,69,East,PROD067,Professor,Groceries,3,NULL,98.61,28/04/2024
+346e3730-0b06-4742-a86d-d001e4f4985f,CUST0249,Beth Edwards,Female,69,East,PROD002,Western,Clothing,1,NULL,330.92,27/09/2024
+08484b6b-5ad0-4a50-910b-85a5ae276716,CUST0249,Beth Edwards,Female,69,East,PROD005,Decision,Clothing,3,NULL,1225.24,09/05/2024
+beb7b476-22a3-43ca-b247-3571ca284e1c,CUST0249,Beth Edwards,Female,69,East,PROD070,Hard,Books,1,NULL,310.04,05/09/2024
+9d5f4ffb-8e3a-4503-85cf-f2f68eaa8427,CUST0249,Beth Edwards,Female,69,East,PROD038,Foot,Groceries,3,NULL,188.85,09/08/2024
+7004d3be-1a7e-42be-96bb-230ee7093d91,CUST0250,Karen Shelton,Male,51,West,PROD040,Line,Home & Kitchen,4,NULL,1375.02,19/08/2024
+4089ef72-bdad-4ee9-b5c1-25b985d17ae4,CUST0250,Karen Shelton,Male,51,West,PROD092,Everything,Home & Kitchen,4,NULL,1073.18,22/04/2024
+a669c77f-27a3-4577-a2b3-f8819feadce4,CUST0250,Karen Shelton,Male,51,West,PROD097,Fire,Clothing,1,NULL,451.68,03/10/2024
+1bc9c72f-e42e-4c16-81d3-0a955c3a2ccd,CUST0250,Karen Shelton,Male,51,West,PROD045,Family,Clothing,2,NULL,77.94,14/04/2025
+56721ed0-11da-4a91-87d8-ba6a86530ac6,CUST0250,Karen Shelton,Male,51,West,PROD050,Save,Groceries,2,NULL,986.78,01/12/2024
+6ef165ef-a5cc-4a43-babc-308fc6032efc,CUST0250,Karen Shelton,Male,51,West,PROD049,Cut,Clothing,1,NULL,42.29,28/05/2024
+1cb4fe18-f01a-4119-9ef1-378292048e2d,CUST0251,Jason Ruiz,Female,23,East,PROD004,Many,Sports,1,NULL,465.72,17/11/2024
+75a899fc-a278-4be1-905e-b12591e75c7d,CUST0251,Jason Ruiz,Female,23,East,PROD096,Bed,Home & Kitchen,4,NULL,518.69,10/10/2024
+fc8a7e66-f32f-4af6-9512-b9217188cb3f,CUST0252,William Watkins,Female,39,North,PROD014,Including,Books,1,NULL,425.87,07/08/2024
+ae0c3c5f-b174-459c-9379-062120554d96,CUST0252,William Watkins,Female,39,North,PROD069,Answer,Books,3,NULL,180.06,13/11/2024
+060c5c0c-a871-42c6-89b8-7473604de177,CUST0253,Blake Martinez,Female,28,East,PROD049,Cut,Clothing,1,NULL,44.64,12/11/2024
+26497424-016d-444c-b134-b4ecc945c336,CUST0254,Mr. Douglas Padilla,Male,65,North,PROD036,Write,Sports,2,NULL,799.94,10/08/2024
+d847d9af-14be-4e39-bd3b-2151fb1ebcdc,CUST0254,Mr. Douglas Padilla,Male,65,North,PROD095,Couple,Home & Kitchen,1,NULL,27.5,15/06/2024
+2575c83e-a380-4873-8b41-c1a78e57f7e2,CUST0254,Mr. Douglas Padilla,Male,65,North,PROD030,Of,Sports,3,NULL,1009.44,14/06/2024
+7dc304f7-3c46-4bbd-84c8-b07e56cd1119,CUST0255,Debra Campbell,Male,33,West,PROD091,Eat,Electronics,3,NULL,621,29/10/2024
+b74d7298-7db9-458b-af20-4fd1d1b99f9d,CUST0255,Debra Campbell,Male,33,West,PROD039,Meeting,Sports,4,NULL,303.12,23/11/2024
+3233994a-4098-4a54-ada9-4b6a11d69552,CUST0255,Debra Campbell,Male,33,West,PROD017,Time,Groceries,3,NULL,1291.51,25/10/2024
+2429bc8d-9f58-4b6c-b4d8-0d6c323abb9b,CUST0255,Debra Campbell,Male,33,West,PROD081,Wish,Home & Kitchen,5,NULL,131.8,29/10/2024
+ed019ca9-6fcc-4ec7-b8e6-e01b81303d32,CUST0255,Debra Campbell,Male,33,West,PROD000,Drive,Electronics,5,NULL,1046.25,10/05/2024
+96b37684-2c53-43c1-8b85-76913fe4345d,CUST0255,Debra Campbell,Male,33,West,PROD047,Apply,Clothing,4,NULL,1418.36,08/05/2024
+86299206-f2f5-41cc-bb31-ac635edc096f,CUST0256,Mr. Seth Pena,Female,50,West,PROD005,Decision,Clothing,1,NULL,429.91,24/04/2024
+7822ff2c-d24d-41fe-9e6a-723a25ee2896,CUST0256,Mr. Seth Pena,Female,50,West,PROD099,Officer,Books,5,NULL,979.84,04/12/2024
+737d1b81-1061-4a01-a87a-41af119c2d5b,CUST0256,Mr. Seth Pena,Female,50,West,PROD098,Will,Home & Kitchen,4,NULL,1515.31,07/04/2025
+9c0387a8-cdf8-41f1-8221-b183066b256a,CUST0256,Mr. Seth Pena,Female,50,West,PROD017,Time,Groceries,4,NULL,1722.01,12/10/2024
+0490cdc1-6204-4f53-bf53-659b9821c6ee,CUST0257,Charles Howell,Male,26,North,PROD067,Professor,Groceries,4,NULL,124.91,05/02/2025
+8c33bfc7-493f-40b9-9091-b23bd2061ace,CUST0257,Charles Howell,Male,26,North,PROD047,Apply,Clothing,2,NULL,602.8,24/08/2024
+d850545a-03a0-4539-8487-36261f27265f,CUST0257,Charles Howell,Male,26,North,PROD082,Beautiful,Sports,2,NULL,847.63,26/09/2024
+10c7beaa-8455-4262-a6bf-17cabed1e735,CUST0257,Charles Howell,Male,26,North,PROD037,Force,Books,2,NULL,321.66,07/09/2024
+d11b9a3e-1eee-4fec-9827-db177b232b53,CUST0257,Charles Howell,Male,26,North,PROD077,Consumer,Electronics,4,NULL,416.45,29/04/2024
+9ff83647-6c20-4cb3-bfc4-0319b7b60432,CUST0259,Christopher Adkins,Male,33,East,PROD034,Everything,Clothing,1,NULL,249.32,23/02/2025
+dc9d3cb3-ef78-4902-83f0-135c02afce8f,CUST0259,Christopher Adkins,Male,33,East,PROD065,Use,Electronics,5,NULL,45.13,20/05/2024
+f0c23678-aec5-4cdb-acd5-82ddc7a8bef7,CUST0259,Christopher Adkins,Male,33,East,PROD028,Term,Groceries,5,NULL,1604.08,25/05/2024
+97665be8-918b-49af-975e-7c5d869311fd,CUST0260,John Sampson,Female,46,West,PROD028,Term,Groceries,1,NULL,358.56,27/05/2024
+97019543-5542-45fc-9d65-3b8a22cf88d5,CUST0260,John Sampson,Female,46,West,PROD000,Drive,Electronics,1,NULL,209.25,08/11/2024
+ff6058d4-9bd8-4c3e-bbd3-39113d5f0c43,CUST0260,John Sampson,Female,46,West,PROD071,Trip,Groceries,2,NULL,636.29,04/04/2025
+c03832b9-d8b9-4aee-9327-4d3a24c52218,CUST0260,John Sampson,Female,46,West,PROD013,On,Groceries,4,NULL,653.68,12/10/2024
+b3bc78b1-1f51-475f-9b25-70b9c6b8d26d,CUST0261,Michael Bartlett,Male,20,South,PROD026,Figure,Sports,2,NULL,301.84,18/10/2024
+5a0c7984-d88d-4814-afe0-05aceba24735,CUST0262,Dean Brooks,Female,37,West,PROD075,Someone,Books,1,NULL,124.47,04/02/2025
+38cd0a63-501b-4286-8e61-dbda38a2d355,CUST0262,Dean Brooks,Female,37,West,PROD095,Couple,Home & Kitchen,2,NULL,55,09/08/2024
+81ba56ee-c8b6-4932-8217-6bd9851d3b75,CUST0262,Dean Brooks,Female,37,West,PROD038,Foot,Groceries,5,NULL,283.28,19/04/2025
+81c5395a-eeb5-47d1-a1da-25a3b73abf11,CUST0263,Christina Glenn,Male,53,South,PROD050,Save,Groceries,5,NULL,2096.91,15/06/2024
+37faf781-a371-4650-9e66-1b01bc07a5db,CUST0264,Shane Navarro,Male,36,East,PROD018,Story,Groceries,4,NULL,170.65,14/11/2024
+71b0498b-7ba6-4aa9-90e7-68c3c179823e,CUST0265,Sandra Young,Female,43,West,PROD058,Act,Home & Kitchen,2,NULL,88.03,28/01/2025
+de323694-dc9e-4de2-90f1-6cf014de4ccb,CUST0265,Sandra Young,Female,43,West,PROD077,Consumer,Electronics,5,NULL,549.48,06/10/2024
+2170afdf-2e27-41d2-8b84-222ad06bccc4,CUST0265,Sandra Young,Female,43,West,PROD001,Fire,Groceries,1,NULL,189.15,18/10/2024
+13f5c50f-3310-46a4-94ae-b5b278cf6822,CUST0266,Julie Smith,Female,20,West,PROD038,Foot,Groceries,4,NULL,251.8,28/05/2024
+d07c5eef-4d0b-43ed-bc9c-008ec11b0bd0,CUST0266,Julie Smith,Female,20,West,PROD013,On,Groceries,4,NULL,555.63,07/09/2024
+366ec856-375a-4e2d-b44b-bf2da0384bf3,CUST0266,Julie Smith,Female,20,West,PROD043,More,Groceries,2,NULL,83.93,02/04/2025
+11e87bf9-4538-4dd6-a97e-23c9dab3fab4,CUST0267,Daniel Clements,Male,36,West,PROD053,Nothing,Home & Kitchen,1,NULL,346.24,24/04/2024
+c553bfa8-9333-4dbf-a0b5-e55a5a17ab3f,CUST0267,Daniel Clements,Male,36,West,PROD064,Until,Electronics,4,NULL,945.63,03/11/2024
+639074ac-ae3e-4ed5-99df-bdf29230f10a,CUST0268,Eric Rodriguez,Female,37,East,PROD010,Unit,Books,4,NULL,1626.34,13/02/2025
+b27410e9-2e00-420c-baad-52b27925bce8,CUST0268,Eric Rodriguez,Female,37,East,PROD080,Whom,Electronics,5,NULL,2061.63,27/04/2024
+26c401ae-35ab-4f9d-bbec-046ee1ccd9f1,CUST0268,Eric Rodriguez,Female,37,East,PROD098,Will,Home & Kitchen,5,NULL,2116.98,29/04/2024
+bfd2370c-415f-4a03-ba21-382ff451c1ca,CUST0268,Eric Rodriguez,Female,37,East,PROD097,Fire,Clothing,1,NULL,475.45,26/05/2024
+5893741a-3eaa-4a19-971b-bf73fd88b7f9,CUST0268,Eric Rodriguez,Female,37,East,PROD081,Wish,Home & Kitchen,5,NULL,118.62,26/05/2024
+c6d14e5d-49b0-4c38-80e7-84257d728788,CUST0269,Dr. Erica Jones PhD,Female,49,East,PROD061,Long,Clothing,1,NULL,193.49,10/08/2024
+dd969a27-cd66-4227-9826-f22e16475eb9,CUST0269,Dr. Erica Jones PhD,Female,49,East,PROD084,Act,Electronics,2,NULL,943.39,19/02/2025
+c0775b1b-56e4-4c8e-81a7-e0232bd988ce,CUST0271,Greg Vargas,Female,69,North,PROD046,Low,Groceries,4,NULL,1482.55,16/05/2024
+a5c40244-a063-4c35-b9dc-7c8433345026,CUST0272,Zachary White,Male,58,East,PROD048,We,Groceries,2,NULL,86.01,22/02/2025
+294f1a46-6109-4771-b120-5bf84ffa4665,CUST0272,Zachary White,Male,58,East,PROD035,Nature,Clothing,5,NULL,1061.91,19/04/2025
+923289cc-a03d-40e9-b450-366d56e6189a,CUST0272,Zachary White,Male,58,East,PROD064,Until,Electronics,1,NULL,248.85,14/08/2024
+10305635-1b61-491c-9729-f6324f6ccff5,CUST0272,Zachary White,Male,58,East,PROD049,Cut,Clothing,2,NULL,89.28,06/04/2025
+20221070-cf69-43e0-989d-9f515d068ae3,CUST0272,Zachary White,Male,58,East,PROD037,Force,Books,4,NULL,607.58,04/04/2025
+88c8e6b6-aef9-4f5b-8f58-ec80db12f174,CUST0272,Zachary White,Male,58,East,PROD081,Wish,Home & Kitchen,3,NULL,67.22,21/05/2024
+57abe8eb-ed97-4e07-ab42-d6a7f4e91804,CUST0274,Vanessa Elliott,Female,57,South,PROD044,Box,Electronics,4,NULL,1267.13,22/11/2024
+fe00332b-257e-464f-ac24-b13cf4d54d08,CUST0275,Frederick Wright,Male,56,West,PROD017,Time,Groceries,4,NULL,1540.74,29/10/2024
+31be119f-888a-4e98-a9dd-1d39014d7ba1,CUST0275,Frederick Wright,Male,56,West,PROD085,Black,Clothing,2,NULL,78.91,14/02/2025
+4930873f-4b57-4bbf-be94-ae724c5fb003,CUST0275,Frederick Wright,Male,56,West,PROD070,Hard,Books,1,NULL,293.72,29/05/2024
+597d11a2-a608-4323-87e7-e1b616f052c7,CUST0275,Frederick Wright,Male,56,West,PROD073,Note,Electronics,3,NULL,1227.26,04/02/2025
+7f5958e2-42cd-46aa-abff-f7aaf4c1d14f,CUST0276,Amanda Williams,Male,35,West,PROD042,Involve,Home & Kitchen,4,NULL,209.23,28/02/2025
+c515bb0d-4388-48fb-9bf2-1b22d8bb090b,CUST0276,Amanda Williams,Male,35,West,PROD004,Many,Sports,5,NULL,2095.74,10/08/2024
+91909187-e3b8-4fed-8137-f8ea134c1cf2,CUST0276,Amanda Williams,Male,35,West,PROD034,Everything,Clothing,5,NULL,1177.33,02/10/2024
+1bca0e5d-73e8-46e4-86ad-d1020996fffe,CUST0276,Amanda Williams,Male,35,West,PROD056,Early,Electronics,1,NULL,359.02,27/02/2025
+0ea1f8a3-929c-44fd-ba24-2e80e09db044,CUST0277,Dr. Gregory Griffin,Male,57,East,PROD059,Determine,Groceries,4,NULL,1558.76,24/04/2024
+e7581030-eb4c-4c65-9f80-e757aca1ac0e,CUST0277,Dr. Gregory Griffin,Male,57,East,PROD096,Bed,Home & Kitchen,1,NULL,122.47,20/10/2024
+22fc2497-3c67-4e23-87b1-3a801a0736fa,CUST0277,Dr. Gregory Griffin,Male,57,East,PROD004,Many,Sports,3,NULL,1187.59,07/04/2025
+41ea718d-565b-4bc5-a694-f73499557440,CUST0277,Dr. Gregory Griffin,Male,57,East,PROD005,Decision,Clothing,4,NULL,1547.68,23/05/2024
+f6dd7d52-6e35-401c-ba83-e6cec360b8ac,CUST0278,Jason Davis,Female,18,North,PROD072,That,Clothing,1,NULL,279.08,14/04/2025
+a1d0e878-da83-46eb-8d1b-012cf30f4703,CUST0278,Jason Davis,Female,18,North,PROD002,Western,Clothing,4,NULL,1401.55,23/11/2024
+050adc87-4daa-402c-b2f0-f6e58e62e2c8,CUST0278,Jason Davis,Female,18,North,PROD069,Answer,Books,4,NULL,240.08,02/05/2024
+bb34adf4-8ebc-4900-8b62-a649257edf8c,CUST0279,Joseph Taylor,Female,28,West,PROD023,Ok,Groceries,5,NULL,1588.8,13/07/2024
+f2a5079d-aa4c-4113-a0e0-41a54eef1d3d,CUST0280,Travis Stephens,Male,45,East,PROD064,Until,Electronics,2,NULL,472.81,22/05/2024
+98ccbfb6-f2e1-46ed-8f24-8b69bc638c95,CUST0280,Travis Stephens,Male,45,East,PROD006,Season,Groceries,1,NULL,184.75,05/10/2024
+47a94fa1-9ae1-483f-b500-6e13fe92f148,CUST0281,Kelly Carpenter,Female,42,South,PROD065,Use,Electronics,1,NULL,10.62,01/05/2024
+824c1c3d-73c4-4180-a144-9276f6b69008,CUST0282,John Taylor,Male,67,West,PROD060,Citizen,Sports,1,NULL,281.41,14/02/2025
+29947ab6-1b2c-4bc3-9313-b5c4c708e026,CUST0283,Laurie Franklin,Female,40,South,PROD091,Eat,Electronics,4,NULL,874,20/04/2025
+cf14fdf8-c112-4a35-a349-65d553095d96,CUST0283,Laurie Franklin,Female,40,South,PROD007,Accept,Sports,4,NULL,1280.71,13/10/2024
+f95258bb-b8ef-4eee-a6f5-034240bbf3b0,CUST0283,Laurie Franklin,Female,40,South,PROD080,Whom,Electronics,2,NULL,921.67,22/08/2024
+59a0f74d-7767-4dd6-90a6-5d30c36d326d,CUST0283,Laurie Franklin,Female,40,South,PROD022,Image,Groceries,4,NULL,1039.86,22/02/2025
+e1395cc8-2831-4e87-aac0-87991a98a76d,CUST0283,Laurie Franklin,Female,40,South,PROD020,Send,Books,1,NULL,451.52,21/08/2024
+c5065c92-7145-4ecd-9683-31191c26c35f,CUST0284,Kevin Wilson,Female,48,East,PROD007,Accept,Sports,5,NULL,1695.06,21/11/2024
+b90311fe-c4bb-4430-876e-0fde703f94e6,CUST0284,Kevin Wilson,Female,48,East,PROD021,Financial,Groceries,4,NULL,1711.98,05/04/2025
+87d8ec21-734d-479a-862a-8b9898a29bfa,CUST0284,Kevin Wilson,Female,48,East,PROD049,Cut,Clothing,3,NULL,119.82,05/11/2024
+a5c3a709-e48e-4972-984d-bfd080b724d8,CUST0285,Dana Blackburn,Female,47,East,PROD086,Vote,Clothing,4,NULL,1004.98,26/08/2024
+3896199f-9bc8-41da-9182-89bdffdbc6bd,CUST0285,Dana Blackburn,Female,47,East,PROD075,Someone,Books,2,NULL,248.93,05/09/2024
+d371b91e-c534-4b1e-9fe8-3e60d7dd53cb,CUST0285,Dana Blackburn,Female,47,East,PROD023,Ok,Groceries,3,NULL,953.28,21/11/2024
+66f74b06-a10c-46b7-bca9-4e92ccba614e,CUST0285,Dana Blackburn,Female,47,East,PROD078,Number,Books,1,NULL,481.8,27/01/2025
+79582a25-2186-4b20-ac60-36b112067513,CUST0285,Dana Blackburn,Female,47,East,PROD026,Figure,Sports,1,NULL,159.31,03/11/2024
+3d07debe-45ab-4005-978b-ba8627b7b265,CUST0286,William Richardson,Male,59,East,PROD092,Everything,Home & Kitchen,3,NULL,852.23,12/02/2025
+820481c5-66c8-493b-a1ec-01901c579950,CUST0286,William Richardson,Male,59,East,PROD025,While,Electronics,4,NULL,510.48,29/04/2024
+814a0e50-0c79-45e9-8c59-a9566750bf3d,CUST0287,Katie Beasley,Male,52,East,PROD015,From,Sports,3,NULL,533.66,17/04/2025
+e2a4257c-5633-4446-ad16-5a77928c214e,CUST0287,Katie Beasley,Male,52,East,PROD089,Drug,Electronics,3,NULL,902.17,09/11/2024
+81afda92-e657-4d95-b6be-4c963a10a129,CUST0287,Katie Beasley,Male,52,East,PROD096,Bed,Home & Kitchen,1,NULL,144.08,12/07/2024
+78d337a2-0259-4891-92d5-166a9ef270ce,CUST0288,Kelly Paul,Female,24,East,PROD097,Fire,Clothing,5,NULL,2020.66,12/10/2024
+e71c684e-4ecf-4faf-a796-572c9d76ceb8,CUST0288,Kelly Paul,Female,24,East,PROD005,Decision,Clothing,1,NULL,429.91,22/02/2025
+7b43ade5-cdca-4d7c-addb-d2df188b7733,CUST0288,Kelly Paul,Female,24,East,PROD038,Foot,Groceries,4,NULL,251.8,20/07/2024
+d45863b1-474a-4303-8e3e-e89c5d956a5d,CUST0288,Kelly Paul,Female,24,East,PROD030,Of,Sports,5,NULL,1682.41,17/07/2024
+c89ef086-ad93-4f98-b358-999cd3667144,CUST0288,Kelly Paul,Female,24,East,PROD038,Foot,Groceries,5,NULL,299.01,13/10/2024
+a0fc4c13-6054-403b-b106-78d136b31e41,CUST0288,Kelly Paul,Female,24,East,PROD033,War,Clothing,1,NULL,28.47,03/05/2024
+018189ac-6c2e-4dfc-b35d-2ac9563d0b6e,CUST0289,Mrs. Jessica Butler,Female,33,North,PROD003,None,Books,2,NULL,312.66,01/10/2024
+f8d9137e-b066-4103-96c6-aac8f29aa44c,CUST0289,Mrs. Jessica Butler,Female,33,North,PROD064,Until,Electronics,3,NULL,634.57,13/11/2024
+bf8930e8-237c-40a7-b366-3e5d7934ea85,CUST0289,Mrs. Jessica Butler,Female,33,North,PROD092,Everything,Home & Kitchen,3,NULL,946.92,26/08/2024
+45c253e5-8c07-4afe-9b9f-59992b87cb1c,CUST0290,Martin Parsons,Male,43,South,PROD086,Vote,Clothing,2,NULL,530.4,04/05/2024
+8df8b97b-ab9a-4dc6-abe1-4fff72bbc6cb,CUST0290,Martin Parsons,Male,43,South,PROD023,Ok,Groceries,5,NULL,1429.92,28/01/2025
+75b9e8ee-1f9b-4d61-9780-fc072b05f0fd,CUST0291,Joseph Palmer,Male,65,North,PROD086,Vote,Clothing,4,NULL,1060.81,30/04/2024
+9d81cb61-c3a1-45cd-8c74-99fca1aa213d,CUST0291,Joseph Palmer,Male,65,North,PROD027,Country,Clothing,1,NULL,304.11,14/10/2024
+7548b46c-7dcf-4630-8338-250005f54d36,CUST0292,Michael Wilkinson,Female,69,South,PROD049,Cut,Clothing,2,NULL,79.88,27/11/2024
+bfa45049-e0f2-4b6f-9763-f9f61ea01e3c,CUST0292,Michael Wilkinson,Female,69,South,PROD016,Budget,Home & Kitchen,5,NULL,49.21,14/04/2025
+5bade0cb-3e23-4f41-b731-7896969e3740,CUST0292,Michael Wilkinson,Female,69,South,PROD095,Couple,Home & Kitchen,1,NULL,23.38,13/10/2024
+0ba459ba-d5fe-47d5-83c6-fb3e25b2e64d,CUST0292,Michael Wilkinson,Female,69,South,PROD025,While,Electronics,5,NULL,713.16,20/07/2024
+0cd2532d-106d-45e0-ba60-e0fc7b4408c3,CUST0292,Michael Wilkinson,Female,69,South,PROD077,Consumer,Electronics,4,NULL,439.58,23/08/2024
+0cecf885-8235-4499-b941-0f81fc2e78a4,CUST0293,Ashley Johnson,Male,66,West,PROD029,Responsibility,Electronics,5,NULL,1984.15,23/08/2024
+1247093d-4a8b-4c07-823c-8f689b913f5d,CUST0293,Ashley Johnson,Male,66,West,PROD034,Everything,Clothing,5,NULL,1385.1,13/10/2024
+d8d9d975-b778-4971-8644-2167b905ef75,CUST0293,Ashley Johnson,Male,66,West,PROD018,Story,Groceries,1,NULL,47.68,25/10/2024
+ccb545ff-0ae6-4ec6-b4cd-bd2ea35cbc5c,CUST0294,Dr. Mariah Lopez DVM,Female,19,West,PROD054,Voice,Clothing,5,NULL,2014.03,05/09/2024
+f39e4850-f7f7-4b26-91b2-d380c30bf8fa,CUST0294,Dr. Mariah Lopez DVM,Female,19,West,PROD049,Cut,Clothing,3,NULL,133.92,29/09/2024
+0ca94c7f-dbee-40cc-9ed3-24f58640505f,CUST0294,Dr. Mariah Lopez DVM,Female,19,West,PROD064,Until,Electronics,1,NULL,236.41,19/04/2025
+9028d892-96b3-4bd2-b2f4-9c4455e2b2da,CUST0294,Dr. Mariah Lopez DVM,Female,19,West,PROD000,Drive,Electronics,5,NULL,889.31,06/02/2025
+3441b7dd-3bd5-40cc-bc86-d5ee96b41945,CUST0295,Gina Clark,Male,18,South,PROD092,Everything,Home & Kitchen,3,NULL,899.57,24/04/2024
+4509071a-a892-4ab0-8b84-92454d9dbb92,CUST0295,Gina Clark,Male,18,South,PROD066,Sea,Home & Kitchen,1,NULL,236.99,27/10/2024
+3aedb283-3f79-4662-a3cb-c201ccbfa79e,CUST0295,Gina Clark,Male,18,South,PROD073,Note,Electronics,5,NULL,2286.08,22/05/2024
+7d5d686e-35af-4b46-9c00-2ea68ccdbbb4,CUST0296,Patrick Cardenas,Female,65,West,PROD021,Financial,Groceries,5,NULL,2377.75,17/08/2024
+c02e1ca5-eb94-491d-84be-54f9a83b35ac,CUST0297,Daniel Valdez,Female,29,West,PROD094,Left,Home & Kitchen,3,NULL,1285.55,04/04/2025
+381dd42b-9f41-4408-a879-9942070f96d5,CUST0298,Jessica Mcdaniel,Male,22,West,PROD039,Meeting,Sports,1,NULL,64.41,20/10/2024
+50ef2b27-797c-409f-a7a9-b1506d66d43c,CUST0298,Jessica Mcdaniel,Male,22,West,PROD051,Sure,Electronics,5,NULL,808.6,12/08/2024
+a16237ae-4337-4a7a-b9fd-3f7a59979151,CUST0298,Jessica Mcdaniel,Male,22,West,PROD074,Nature,Groceries,5,NULL,952.8,18/07/2024
+f47b5ce6-be23-4ad2-8816-2700ab747158,CUST0298,Jessica Mcdaniel,Male,22,West,PROD073,Note,Electronics,4,NULL,1732.61,25/05/2024
