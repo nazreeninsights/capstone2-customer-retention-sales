@@ -1,6 +1,6 @@
 # 📊 Capstone 2 – Customer Retention & Sales Analysis
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](capstone2-customer-retention-sales/images/dashboard.png)
 
 An **end-to-end retail analytics project** integrating **SQL, R, and Power BI** to deliver **customer segmentation, statistical insights, and interactive visualizations**.  
 Developed as part of the Certified Data Analysts program, this project extends Capstone 1’s work by applying **machine learning clustering, hypothesis testing, and dynamic dashboards**.
